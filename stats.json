@@ -1,1 +1,14 @@
-{"updated":"","tokens":{}}
+{
+  "updated": "2026-07-25T22:01:17.307Z",
+  "tokens": {
+    "0x692a1d924cc4ed50886f0fa9fae046e51c9fa37d": {
+      "distributedWei": "935550000000000"
+    },
+    "0x356eb743defedb4a9f944757e88b72e19cc533b8": {
+      "distributedWei": "1353177000000000"
+    },
+    "0x81015fefe1c7b5da82cf077287de5ef72095501b": {
+      "distributedWei": "1560416249834908"
+    }
+  }
+}
