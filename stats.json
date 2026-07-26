@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T00:34:05.877Z",
+  "updated": "2026-07-26T07:22:10.546Z",
   "tokens": {
     "0x692a1d924cc4ed50886f0fa9fae046e51c9fa37d": {
       "distributedWei": "935550000000000"
@@ -9,6 +9,9 @@
     },
     "0x81015fefe1c7b5da82cf077287de5ef72095501b": {
       "distributedWei": "27591327162230589"
+    },
+    "0x3e68c56fadd386f9d5254027f2c1ce2f09f78fc7": {
+      "charityDonatedWei": "3669382552654390"
     }
   }
 }
