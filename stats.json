@@ -1,25 +1,30 @@
 {
-  "updated": "2026-07-26T16:40:17.391Z",
+  "updated": "2026-07-26T16:45:47.041Z",
   "totals": {
-    "agenticBuybackWei": "398518979921811015",
+    "agenticBuybackWei": "401370420061131243",
     "cashbackDistributedWei": "81311010092750065",
-    "charityDonatedWei": "36767091984590443"
+    "charityDonatedWei": "37765851984590443"
   },
   "tokens": {
     "0x692a1d924cc4ed50886f0fa9fae046e51c9fa37d": {
-      "distributedWei": "1029105000000000"
+      "distributedWei": "1029105000000000",
+      "mcapUsd": 2640
     },
     "0x356eb743defedb4a9f944757e88b72e19cc533b8": {
-      "distributedWei": "1353177000000000"
+      "distributedWei": "1353177000000000",
+      "mcapUsd": 2610
     },
     "0x81015fefe1c7b5da82cf077287de5ef72095501b": {
-      "distributedWei": "32564984777040605"
+      "distributedWei": "32564984777040605",
+      "mcapUsd": 3850
     },
     "0x3ed8519810a42e1da63774db9ce122a4c803c3ef": {
-      "distributedWei": "38192218338963426"
+      "distributedWei": "38192218338963426",
+      "mcapUsd": 31000
     },
     "0x6752d759b0b635a9ed1d3c7ff46d2ff882aabcdb": {
-      "distributedWei": "8171524976746034"
+      "distributedWei": "8171524976746034",
+      "mcapUsd": 10600
     },
     "0x3e68c56fadd386f9d5254027f2c1ce2f09f78fc7": {
       "charityDonatedWei": "3669382552654390",
@@ -40,16 +45,30 @@
           "ethWei": "917345638163599",
           "tok": "2127389230906927176506293"
         }
-      }
+      },
+      "mcapUsd": 3180
     },
     "0xd72d43e97a3f0673f8b961618f83ef1ec4c78ca2": {
-      "charityDonatedWei": "33097709431936053",
+      "charityDonatedWei": "34096469431936053",
       "charityOrgs": {
         "0x92ee2370b56dc32794a6cd72585dc01d4288d314": {
-          "ethWei": "33097709431936053",
-          "tok": "56169017778320390651001868"
+          "ethWei": "34096469431936053",
+          "tok": "56930914998248623953454231"
         }
-      }
+      },
+      "mcapUsd": 8620
+    },
+    "0x73fc2f1cac113a37939c43a772f64f1706df249f": {
+      "mcapUsd": 25400
+    },
+    "0x431e1aaff131e12e72b011b59aeb0ce825f3ee48": {
+      "mcapUsd": 2950
+    },
+    "0xfa55571d569b2a4a05f46c2062d8477bea1f5983": {
+      "mcapUsd": 6210
+    },
+    "0xea66b1bb9ae3d8200c68a64abc22c1cc0b3b7654": {
+      "mcapUsd": 11400
     }
   }
 }
