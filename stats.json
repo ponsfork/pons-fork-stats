@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-26T13:47:17.412Z",
+  "updated": "2026-07-26T13:57:37.498Z",
   "totals": {
-    "agenticBuybackWei": "383767354641057505",
-    "cashbackDistributedWei": "64396013923714904",
+    "agenticBuybackWei": "383985434842241255",
+    "cashbackDistributedWei": "66256027087754234",
     "charityDonatedWei": "25930216915022797"
   },
   "tokens": {
@@ -16,7 +16,7 @@
       "distributedWei": "32564984777040605"
     },
     "0x3ed8519810a42e1da63774db9ce122a4c803c3ef": {
-      "distributedWei": "26240230554947745"
+      "distributedWei": "28100243718987075"
     },
     "0x6752d759b0b635a9ed1d3c7ff46d2ff882aabcdb": {
       "distributedWei": "3208516591726554"
