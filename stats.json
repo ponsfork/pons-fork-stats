@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T21:00:27.869Z",
+  "updated": "2026-07-26T21:10:40.986Z",
   "totals": {
     "agenticBuybackWei": "410861934517571934",
     "cashbackDistributedWei": "100334438010951279",
@@ -20,7 +20,7 @@
     },
     "0x3ed8519810a42e1da63774db9ce122a4c803c3ef": {
       "distributedWei": "50012848160603907",
-      "mcapUsd": 9870
+      "mcapUsd": 9880
     },
     "0x6752d759b0b635a9ed1d3c7ff46d2ff882aabcdb": {
       "distributedWei": "14969159269578136",
@@ -60,7 +60,7 @@
           "tok": "61973069217663984955633063"
         }
       },
-      "mcapUsd": 3340
+      "mcapUsd": 3130
     },
     "0x73fc2f1cac113a37939c43a772f64f1706df249f": {
       "mcapUsd": 17100
@@ -84,7 +84,7 @@
       "mcapUsd": 2570
     },
     "0x59729a8ee69be09693f6830f0f05508f88f1cfed": {
-      "mcapUsd": 2570
+      "mcapUsd": 2580
     },
     "0xbce230b556cfe86001633e9e88678f4a45a1e5fe": {
       "mcapUsd": 2570
