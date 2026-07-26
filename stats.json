@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T22:52:15.581Z",
+  "updated": "2026-07-26T23:02:24.510Z",
   "totals": {
     "agenticBuybackWei": "411741218290453143",
     "cashbackDistributedWei": "101757230981072982",
@@ -20,15 +20,15 @@
     },
     "0x3ed8519810a42e1da63774db9ce122a4c803c3ef": {
       "distributedWei": "50951316195612087",
-      "mcapUsd": 9250
+      "mcapUsd": 9070
     },
     "0x6752d759b0b635a9ed1d3c7ff46d2ff882aabcdb": {
       "distributedWei": "15453484204691659",
-      "mcapUsd": 8290
+      "mcapUsd": 8240
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
-      "mcapUsd": 2630
+      "mcapUsd": 2640
     },
     "0x3e68c56fadd386f9d5254027f2c1ce2f09f78fc7": {
       "charityDonatedWei": "3669382552654390",
@@ -50,7 +50,7 @@
           "tok": "2184205078244528173936902"
         }
       },
-      "mcapUsd": 3200
+      "mcapUsd": 3210
     },
     "0xd72d43e97a3f0673f8b961618f83ef1ec4c78ca2": {
       "charityDonatedWei": "48210479030130966",
@@ -75,19 +75,19 @@
       "mcapUsd": 11400
     },
     "0x8627440b39818647f4b01cc5b5e7dc66f97cf6e6": {
-      "mcapUsd": 2610
-    },
-    "0x5f5b184032847cc61fefb5f5400d3c90f0a3fefe": {
-      "mcapUsd": 2610
-    },
-    "0x3c6e9ed6ba79188176cdfe05e88b1b2736963e46": {
-      "mcapUsd": 2610
-    },
-    "0x59729a8ee69be09693f6830f0f05508f88f1cfed": {
       "mcapUsd": 2620
     },
+    "0x5f5b184032847cc61fefb5f5400d3c90f0a3fefe": {
+      "mcapUsd": 2620
+    },
+    "0x3c6e9ed6ba79188176cdfe05e88b1b2736963e46": {
+      "mcapUsd": 2620
+    },
+    "0x59729a8ee69be09693f6830f0f05508f88f1cfed": {
+      "mcapUsd": 2630
+    },
     "0xbce230b556cfe86001633e9e88678f4a45a1e5fe": {
-      "mcapUsd": 2610
+      "mcapUsd": 2620
     }
   }
 }
