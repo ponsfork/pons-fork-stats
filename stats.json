@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-26T09:53:01.539Z",
+  "updated": "2026-07-26T10:03:12.103Z",
   "totals": {
-    "agenticBuybackWei": "351442886710594176",
-    "cashbackDistributedWei": "37017625511352430",
-    "charityDonatedWei": "25513716915022797"
+    "agenticBuybackWei": "352977684933703905",
+    "cashbackDistributedWei": "37298260287800977",
+    "charityDonatedWei": "25930216915022797"
   },
   "tokens": {
     "0x692a1d924cc4ed50886f0fa9fae046e51c9fa37d": {
-      "distributedWei": "935550000000000"
+      "distributedWei": "1029105000000000"
     },
     "0x356eb743defedb4a9f944757e88b72e19cc533b8": {
       "distributedWei": "1353177000000000"
@@ -16,7 +16,7 @@
       "distributedWei": "32564984777040605"
     },
     "0x3ed8519810a42e1da63774db9ce122a4c803c3ef": {
-      "distributedWei": "2163913734311825"
+      "distributedWei": "2350993510760372"
     },
     "0x3e68c56fadd386f9d5254027f2c1ce2f09f78fc7": {
       "charityDonatedWei": "3669382552654390",
@@ -40,11 +40,11 @@
       }
     },
     "0xd72d43e97a3f0673f8b961618f83ef1ec4c78ca2": {
-      "charityDonatedWei": "21844334362368407",
+      "charityDonatedWei": "22260834362368407",
       "charityOrgs": {
         "0x92ee2370b56dc32794a6cd72585dc01d4288d314": {
-          "ethWei": "21844334362368407",
-          "tok": "54476527505284408567635553"
+          "ethWei": "22260834362368407",
+          "tok": "54625362453794186933442117"
         }
       }
     }
