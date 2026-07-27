@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T01:24:29.280Z",
+  "updated": "2026-07-27T01:34:45.368Z",
   "totals": {
     "agenticBuybackWei": "413977392477155633",
     "cashbackDistributedWei": "108650840311000945",
@@ -84,7 +84,7 @@
       "mcapUsd": 2610
     },
     "0x59729a8ee69be09693f6830f0f05508f88f1cfed": {
-      "mcapUsd": 2610
+      "mcapUsd": 2620
     },
     "0xbce230b556cfe86001633e9e88678f4a45a1e5fe": {
       "mcapUsd": 2610
