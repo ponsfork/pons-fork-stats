@@ -1,28 +1,28 @@
 {
-  "updated": "2026-07-27T14:57:37.184Z",
+  "updated": "2026-07-27T15:07:44.441Z",
   "totals": {
-    "agenticBuybackWei": "560863589398937510",
+    "agenticBuybackWei": "561518596432541086",
     "cashbackDistributedWei": "143824699678558260",
     "charityDonatedWei": "54721046942234873"
   },
   "analytics": {
-    "ethUsd": 1928.23,
-    "updated": "2026-07-27T14:57:37.175Z",
+    "ethUsd": 1930.62,
+    "updated": "2026-07-27T15:07:44.435Z",
     "tokens": {
       "total": 38,
       "agentic": 23,
       "cashback": 12,
       "charity": 3
     },
-    "feesClaimedEth": "0.86760415790678",
-    "buybackBurnEth": "0.5608635893989375",
+    "feesClaimedEth": "0.868503499437848",
+    "buybackBurnEth": "0.5615185964325411",
     "paidHoldersEth": "0.14382469967855827",
     "donatedEth": "0.054721046942234876",
-    "forkInTreasury": "5983128.431455373",
-    "forkSupplyPct": 0.5983,
-    "forkBurned": "99687396.52693482",
-    "forkBurnedPct": 9.9687,
-    "volume24hUsd": 184519,
+    "forkInTreasury": "5989524.080923213",
+    "forkSupplyPct": 0.5989,
+    "forkBurned": "99766338.20159578",
+    "forkBurnedPct": 9.9766,
+    "volume24hUsd": 183242,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -45,11 +45,11 @@
   "tokens": {
     "0x692a1d924cc4ed50886f0fa9fae046e51c9fa37d": {
       "distributedWei": "1029105000000000",
-      "mcapUsd": 2650
+      "mcapUsd": 2660
     },
     "0x356eb743defedb4a9f944757e88b72e19cc533b8": {
       "distributedWei": "1353177000000000",
-      "mcapUsd": 2620
+      "mcapUsd": 2630
     },
     "0x81015fefe1c7b5da82cf077287de5ef72095501b": {
       "distributedWei": "46600370462805114",
@@ -57,11 +57,11 @@
     },
     "0x3ed8519810a42e1da63774db9ce122a4c803c3ef": {
       "distributedWei": "66782571575857287",
-      "mcapUsd": 10600
+      "mcapUsd": 10200
     },
     "0x6752d759b0b635a9ed1d3c7ff46d2ff882aabcdb": {
       "distributedWei": "22921019693893403",
-      "mcapUsd": 9900
+      "mcapUsd": 9910
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
@@ -69,7 +69,7 @@
     },
     "0xf35df5713801c32996587918baaf7932b1d116bf": {
       "distributedWei": "4826605946002456",
-      "mcapUsd": 7500
+      "mcapUsd": 7510
     },
     "0x3e68c56fadd386f9d5254027f2c1ce2f09f78fc7": {
       "charityDonatedWei": "3669382552654390",
@@ -101,16 +101,16 @@
           "tok": "62931908636093338720970723"
         }
       },
-      "mcapUsd": 3200
+      "mcapUsd": 3180
     },
     "0x73fc2f1cac113a37939c43a772f64f1706df249f": {
-      "mcapUsd": 32300
+      "mcapUsd": 31200
     },
     "0x431e1aaff131e12e72b011b59aeb0ce825f3ee48": {
-      "mcapUsd": 2680
+      "mcapUsd": 2690
     },
     "0xfa55571d569b2a4a05f46c2062d8477bea1f5983": {
-      "mcapUsd": 7760
+      "mcapUsd": 7770
     },
     "0xea66b1bb9ae3d8200c68a64abc22c1cc0b3b7654": {
       "mcapUsd": 10400
@@ -143,7 +143,7 @@
       "mcapUsd": 2590
     },
     "0xed51a80a636c977987e837746725c798b6d26292": {
-      "mcapUsd": 3790
+      "mcapUsd": 3800
     }
   }
 }
