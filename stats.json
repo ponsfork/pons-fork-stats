@@ -1,30 +1,30 @@
 {
-  "updated": "2026-07-27T02:45:48.191Z",
+  "updated": "2026-07-27T02:55:57.411Z",
   "totals": {
-    "agenticBuybackWei": "414489508971414464",
-    "cashbackDistributedWei": "110503893360453735",
+    "agenticBuybackWei": "418004237980526080",
+    "cashbackDistributedWei": "111313893360453735",
     "charityDonatedWei": "51879861582785356"
   },
   "tokens": {
     "0x692a1d924cc4ed50886f0fa9fae046e51c9fa37d": {
       "distributedWei": "1029105000000000",
-      "mcapUsd": 2680
+      "mcapUsd": 2670
     },
     "0x356eb743defedb4a9f944757e88b72e19cc533b8": {
       "distributedWei": "1353177000000000",
-      "mcapUsd": 2650
+      "mcapUsd": 2640
     },
     "0x81015fefe1c7b5da82cf077287de5ef72095501b": {
       "distributedWei": "32658298580769236",
-      "mcapUsd": 3220
+      "mcapUsd": 3210
     },
     "0x3ed8519810a42e1da63774db9ce122a4c803c3ef": {
       "distributedWei": "58524288574992840",
       "mcapUsd": 13100
     },
     "0x6752d759b0b635a9ed1d3c7ff46d2ff882aabcdb": {
-      "distributedWei": "16627174204691659",
-      "mcapUsd": 9920
+      "distributedWei": "17437174204691659",
+      "mcapUsd": 9890
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
@@ -50,7 +50,7 @@
           "tok": "2184205078244528173936902"
         }
       },
-      "mcapUsd": 3200
+      "mcapUsd": 3190
     },
     "0xd72d43e97a3f0673f8b961618f83ef1ec4c78ca2": {
       "charityDonatedWei": "48210479030130966",
@@ -60,16 +60,16 @@
           "tok": "61973069217663984955633063"
         }
       },
-      "mcapUsd": 3190
+      "mcapUsd": 3180
     },
     "0x73fc2f1cac113a37939c43a772f64f1706df249f": {
-      "mcapUsd": 14400
+      "mcapUsd": 18500
     },
     "0x431e1aaff131e12e72b011b59aeb0ce825f3ee48": {
-      "mcapUsd": 2860
+      "mcapUsd": 2850
     },
     "0xfa55571d569b2a4a05f46c2062d8477bea1f5983": {
-      "mcapUsd": 6470
+      "mcapUsd": 6450
     },
     "0xea66b1bb9ae3d8200c68a64abc22c1cc0b3b7654": {
       "mcapUsd": 10600
@@ -81,13 +81,13 @@
       "mcapUsd": 2610
     },
     "0x3c6e9ed6ba79188176cdfe05e88b1b2736963e46": {
-      "mcapUsd": 2610
+      "mcapUsd": 2600
     },
     "0x59729a8ee69be09693f6830f0f05508f88f1cfed": {
-      "mcapUsd": 2620
+      "mcapUsd": 2610
     },
     "0xbce230b556cfe86001633e9e88678f4a45a1e5fe": {
-      "mcapUsd": 2610
+      "mcapUsd": 2600
     },
     "0x37b36f98e17ef139a32ce73d1f2fb67051db77a4": {
       "mcapUsd": 2610
@@ -96,7 +96,7 @@
       "mcapUsd": 2610
     },
     "0x3553fdd403dd3afe49bf41de1791aa5e71c0e007": {
-      "mcapUsd": 2630
+      "mcapUsd": 2620
     }
   }
 }
