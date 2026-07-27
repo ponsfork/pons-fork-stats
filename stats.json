@@ -1,28 +1,28 @@
 {
-  "updated": "2026-07-27T15:48:28.941Z",
+  "updated": "2026-07-27T15:59:02.496Z",
   "totals": {
-    "agenticBuybackWei": "562532472351049780",
+    "agenticBuybackWei": "564351651398935626",
     "cashbackDistributedWei": "144510405526713046",
     "charityDonatedWei": "54721046942234873"
   },
   "analytics": {
-    "ethUsd": 1927.83,
-    "updated": "2026-07-27T15:48:28.936Z",
+    "ethUsd": 1927.74,
+    "updated": "2026-07-27T15:59:02.491Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
       "cashback": 12,
       "charity": 3
     },
-    "feesClaimedEth": "0.8702206782294151",
-    "buybackBurnEth": "0.5625324723510498",
+    "feesClaimedEth": "0.8722419882826216",
+    "buybackBurnEth": "0.5643516513989356",
     "paidHoldersEth": "0.14451040552671304",
     "donatedEth": "0.054721046942234876",
-    "forkInTreasury": "6027340.214345454",
-    "forkSupplyPct": 0.6027,
-    "forkBurned": "100111743.3147504",
-    "forkBurnedPct": 10.0111,
-    "volume24hUsd": 182142,
+    "forkInTreasury": "6037221.237617395",
+    "forkSupplyPct": 0.6037,
+    "forkBurned": "100260029.81643099",
+    "forkBurnedPct": 10.026,
+    "volume24hUsd": 179564,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -53,7 +53,7 @@
     },
     "0x81015fefe1c7b5da82cf077287de5ef72095501b": {
       "distributedWei": "46600370462805114",
-      "mcapUsd": 3560
+      "mcapUsd": 3150
     },
     "0x3ed8519810a42e1da63774db9ce122a4c803c3ef": {
       "distributedWei": "67306682424012073",
@@ -61,7 +61,7 @@
     },
     "0x6752d759b0b635a9ed1d3c7ff46d2ff882aabcdb": {
       "distributedWei": "22921019693893403",
-      "mcapUsd": 9450
+      "mcapUsd": 9280
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
@@ -104,7 +104,7 @@
       "mcapUsd": 3180
     },
     "0x73fc2f1cac113a37939c43a772f64f1706df249f": {
-      "mcapUsd": 22200
+      "mcapUsd": 26300
     },
     "0x431e1aaff131e12e72b011b59aeb0ce825f3ee48": {
       "mcapUsd": 2680
@@ -113,7 +113,7 @@
       "mcapUsd": 7070
     },
     "0xea66b1bb9ae3d8200c68a64abc22c1cc0b3b7654": {
-      "mcapUsd": 9970
+      "mcapUsd": 9090
     },
     "0x8627440b39818647f4b01cc5b5e7dc66f97cf6e6": {
       "mcapUsd": 2590
