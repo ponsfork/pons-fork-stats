@@ -1,9 +1,43 @@
 {
-  "updated": "2026-07-27T03:36:29.786Z",
+  "updated": "2026-07-27T03:44:49.815Z",
   "totals": {
     "agenticBuybackWei": "418774898800503087",
-    "cashbackDistributedWei": "111846168842260568",
+    "cashbackDistributedWei": "112345786842572936",
     "charityDonatedWei": "51879861582785356"
+  },
+  "analytics": {
+    "ethUsd": 1944.47,
+    "updated": "2026-07-27T03:44:49.810Z",
+    "tokens": {
+      "total": 31,
+      "agentic": 19,
+      "cashback": 9,
+      "charity": 3
+    },
+    "feesClaimedEth": "0.6718651779964131",
+    "buybackBurnEth": "0.41877489880050306",
+    "paidHoldersEth": "0.11234578684257293",
+    "donatedEth": "0.051879861582785354",
+    "forkInTreasury": "4969186.865506802",
+    "volume24hUsd": 227114,
+    "charityByOrg": {
+      "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
+        "ethWei": "917345638163597",
+        "tok": "2184205078244528173936899"
+      },
+      "0x92ee2370b56dc32794a6cd72585dc01d4288d314": {
+        "ethWei": "49127824668294563",
+        "tok": "64157274295908513129569962"
+      },
+      "0xc423f8aedf1753bc0ab58e455b0b5421cafe949e": {
+        "ethWei": "917345638163597",
+        "tok": "2184205078244528173936899"
+      },
+      "0x1ca9eb2a5c213d417269134b80111f57e1644105": {
+        "ethWei": "917345638163599",
+        "tok": "2184205078244528173936902"
+      }
+    }
   },
   "tokens": {
     "0x692a1d924cc4ed50886f0fa9fae046e51c9fa37d": {
@@ -12,19 +46,19 @@
     },
     "0x356eb743defedb4a9f944757e88b72e19cc533b8": {
       "distributedWei": "1353177000000000",
-      "mcapUsd": 2640
+      "mcapUsd": 2650
     },
     "0x81015fefe1c7b5da82cf077287de5ef72095501b": {
       "distributedWei": "32658298580769236",
-      "mcapUsd": 3210
+      "mcapUsd": 3220
     },
     "0x3ed8519810a42e1da63774db9ce122a4c803c3ef": {
-      "distributedWei": "59056564056799673",
-      "mcapUsd": 13900
+      "distributedWei": "59556182057112041",
+      "mcapUsd": 14600
     },
     "0x6752d759b0b635a9ed1d3c7ff46d2ff882aabcdb": {
       "distributedWei": "17437174204691659",
-      "mcapUsd": 9420
+      "mcapUsd": 8690
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
@@ -60,7 +94,7 @@
           "tok": "61973069217663984955633063"
         }
       },
-      "mcapUsd": 3180
+      "mcapUsd": 3190
     },
     "0x73fc2f1cac113a37939c43a772f64f1706df249f": {
       "mcapUsd": 17700
