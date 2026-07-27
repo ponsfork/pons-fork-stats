@@ -1,25 +1,25 @@
 {
-  "updated": "2026-07-27T03:55:08.442Z",
+  "updated": "2026-07-27T04:05:15.384Z",
   "totals": {
     "agenticBuybackWei": "418774898800503087",
-    "cashbackDistributedWei": "112812881545962752",
+    "cashbackDistributedWei": "112906984288294288",
     "charityDonatedWei": "51879861582785356"
   },
   "analytics": {
-    "ethUsd": 1945.31,
-    "updated": "2026-07-27T03:55:08.441Z",
+    "ethUsd": 1948.71,
+    "updated": "2026-07-27T04:05:15.383Z",
     "tokens": {
       "total": 31,
       "agentic": 19,
       "cashback": 9,
       "charity": 3
     },
-    "feesClaimedEth": "0.6724888586648685",
+    "feesClaimedEth": "0.6730044311102924",
     "buybackBurnEth": "0.41877489880050306",
-    "paidHoldersEth": "0.11281288154596275",
+    "paidHoldersEth": "0.1129069842882943",
     "donatedEth": "0.051879861582785354",
-    "forkInTreasury": "4972259.844449851",
-    "volume24hUsd": 222702,
+    "forkInTreasury": "4974841.652502203",
+    "volume24hUsd": 221455,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -53,16 +53,16 @@
       "mcapUsd": 3220
     },
     "0x3ed8519810a42e1da63774db9ce122a4c803c3ef": {
-      "distributedWei": "60023276760501857",
+      "distributedWei": "60117379502833393",
       "mcapUsd": 15300
     },
     "0x6752d759b0b635a9ed1d3c7ff46d2ff882aabcdb": {
       "distributedWei": "17437174204691659",
-      "mcapUsd": 8690
+      "mcapUsd": 9110
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
-      "mcapUsd": 2630
+      "mcapUsd": 2640
     },
     "0x3e68c56fadd386f9d5254027f2c1ce2f09f78fc7": {
       "charityDonatedWei": "3669382552654390",
@@ -84,7 +84,7 @@
           "tok": "2184205078244528173936902"
         }
       },
-      "mcapUsd": 3200
+      "mcapUsd": 3210
     },
     "0xd72d43e97a3f0673f8b961618f83ef1ec4c78ca2": {
       "charityDonatedWei": "48210479030130966",
@@ -97,40 +97,40 @@
       "mcapUsd": 3190
     },
     "0x73fc2f1cac113a37939c43a772f64f1706df249f": {
-      "mcapUsd": 17300
+      "mcapUsd": 17400
     },
     "0x431e1aaff131e12e72b011b59aeb0ce825f3ee48": {
-      "mcapUsd": 2850
+      "mcapUsd": 2860
     },
     "0xfa55571d569b2a4a05f46c2062d8477bea1f5983": {
-      "mcapUsd": 6430
+      "mcapUsd": 6440
     },
     "0xea66b1bb9ae3d8200c68a64abc22c1cc0b3b7654": {
       "mcapUsd": 11200
     },
     "0x8627440b39818647f4b01cc5b5e7dc66f97cf6e6": {
-      "mcapUsd": 2610
+      "mcapUsd": 2620
     },
     "0x5f5b184032847cc61fefb5f5400d3c90f0a3fefe": {
-      "mcapUsd": 2610
+      "mcapUsd": 2620
     },
     "0x3c6e9ed6ba79188176cdfe05e88b1b2736963e46": {
-      "mcapUsd": 2610
+      "mcapUsd": 2620
     },
     "0x59729a8ee69be09693f6830f0f05508f88f1cfed": {
       "mcapUsd": 2620
     },
     "0xbce230b556cfe86001633e9e88678f4a45a1e5fe": {
-      "mcapUsd": 2610
+      "mcapUsd": 2620
     },
     "0x37b36f98e17ef139a32ce73d1f2fb67051db77a4": {
-      "mcapUsd": 2610
+      "mcapUsd": 2620
     },
     "0x2882f41c59099f771f1722f13b964345abad85d6": {
-      "mcapUsd": 2610
+      "mcapUsd": 2620
     },
     "0x3553fdd403dd3afe49bf41de1791aa5e71c0e007": {
-      "mcapUsd": 2610
+      "mcapUsd": 2620
     }
   }
 }
