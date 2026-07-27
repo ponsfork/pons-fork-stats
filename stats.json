@@ -1,28 +1,28 @@
 {
-  "updated": "2026-07-27T20:15:40.734Z",
+  "updated": "2026-07-27T20:25:56.775Z",
   "totals": {
     "agenticBuybackWei": "574599611940365266",
     "cashbackDistributedWei": "145495436524947155",
     "charityDonatedWei": "54721046942234873"
   },
   "analytics": {
-    "ethUsd": 1943.99,
-    "updated": "2026-07-27T20:15:40.732Z",
+    "ethUsd": 1942.52,
+    "updated": "2026-07-27T20:25:56.773Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
       "cashback": 12,
       "charity": 3
     },
-    "feesClaimedEth": "0.8847246642171914",
+    "feesClaimedEth": "0.8849282444537221",
     "buybackBurnEth": "0.5745996119403652",
     "paidHoldersEth": "0.14549543652494715",
     "donatedEth": "0.054721046942234876",
-    "forkInTreasury": "6128240.363486144",
+    "forkInTreasury": "6128871.541348435",
     "forkSupplyPct": 0.6128,
     "forkBurned": "101304899.99252206",
     "forkBurnedPct": 10.1304,
-    "volume24hUsd": 149770,
+    "volume24hUsd": 149816,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -77,7 +77,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreibsn5ovwjdr2bhq5ctj3jjsei4lgyxizordtgsacmicjclpsj4iza",
       "mode": "cashback",
       "burnedPct": 2.87,
-      "mcapUsd": 3400
+      "mcapUsd": 3380
     },
     "0x3ed8519810a42e1da63774db9ce122a4c803c3ef": {
       "distributedWei": "67606646150708103",
@@ -88,7 +88,7 @@
       "deployer": "0xcEB413A17EAA13fDD76a4410aC5a22cdcdFBDaF4",
       "logo": "https://ivory-adorable-octopus-471.mypinata.cloud/ipfs/bafkreidhkejefpomvim4xdzkh67nrtrzk3u3xfnd2ywnnlgo2xacoopdb4",
       "mode": "cashback",
-      "burnedPct": 0.82,
+      "burnedPct": 0.83,
       "mcapUsd": 8100
     },
     "0x6752d759b0b635a9ed1d3c7ff46d2ff882aabcdb": {
@@ -125,7 +125,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiavmjaicg4ssqyvr2zdgr3ll6gvjrfjp44kdklygvrs2byaveiw7a",
       "mode": "cashback",
       "burnedPct": 0.1,
-      "mcapUsd": 5680
+      "mcapUsd": 5190
     },
     "0x3e68c56fadd386f9d5254027f2c1ce2f09f78fc7": {
       "charityDonatedWei": "3669382552654390",
@@ -195,7 +195,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreibg5bco4ltcxeum7a3xtgihptpuvnitelhxuhlnvx5ngncx5m4x7e",
       "mode": "agentic",
       "burnedPct": 0.84,
-      "mcapUsd": 2710
+      "mcapUsd": 2700
     },
     "0xfa55571d569b2a4a05f46c2062d8477bea1f5983": {
       "name": "roots",
@@ -217,7 +217,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreifixq72d4tpkmlcue4r2pnnl46ahaz3nbs3y3455b6m2fv2f5e5fi",
       "mode": "agentic",
       "burnedPct": 0.46,
-      "mcapUsd": 7440
+      "mcapUsd": 7430
     },
     "0x8627440b39818647f4b01cc5b5e7dc66f97cf6e6": {
       "name": "BUYBACK COIN",
