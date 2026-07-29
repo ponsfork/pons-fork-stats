@@ -1,28 +1,28 @@
 {
-  "updated": "2026-07-29T10:20:38.581Z",
+  "updated": "2026-07-29T10:40:55.288Z",
   "totals": {
-    "agenticBuybackWei": "605816334979661294",
-    "cashbackDistributedWei": "152236945902065972",
+    "agenticBuybackWei": "606336243003013118",
+    "cashbackDistributedWei": "152771545902065972",
     "charityDonatedWei": "54721046942234873"
   },
   "analytics": {
-    "ethUsd": 1918.33,
-    "updated": "2026-07-29T10:20:38.581Z",
+    "ethUsd": 1915.66,
+    "updated": "2026-07-29T10:40:55.287Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
       "cashback": 12,
       "charity": 3
     },
-    "feesClaimedEth": "0.9311911133339689",
-    "buybackBurnEth": "0.6058163349796613",
-    "paidHoldersEth": "0.15223694590206596",
+    "feesClaimedEth": "0.9323627889154709",
+    "buybackBurnEth": "0.6063362430030131",
+    "paidHoldersEth": "0.15277154590206596",
     "donatedEth": "0.054721046942234876",
-    "forkInTreasury": "6632726.444181763",
-    "forkSupplyPct": 0.6632,
-    "forkBurned": "108109862.69416045",
-    "forkBurnedPct": 10.8109,
-    "volume24hUsd": 19913,
+    "forkInTreasury": "6683134.694999559",
+    "forkSupplyPct": 0.6683,
+    "forkBurned": "108574385.0254272",
+    "forkBurnedPct": 10.8574,
+    "volume24hUsd": 20782,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -77,7 +77,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreibsn5ovwjdr2bhq5ctj3jjsei4lgyxizordtgsacmicjclpsj4iza",
       "mode": "cashback",
       "burnedPct": 2.98,
-      "mcapUsd": 2830
+      "mcapUsd": 2820
     },
     "0x3ed8519810a42e1da63774db9ce122a4c803c3ef": {
       "distributedWei": "67917332160562205",
@@ -92,7 +92,7 @@
       "mcapUsd": 3120
     },
     "0x6752d759b0b635a9ed1d3c7ff46d2ff882aabcdb": {
-      "distributedWei": "26947425561158117",
+      "distributedWei": "27482025561158117",
       "name": "Me Gusta",
       "symbol": "MEGUSTA",
       "decimals": 18,
@@ -100,8 +100,8 @@
       "deployer": "0x19Bd090078635b6F3280DB1e84072AeD2b7DeF57",
       "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
       "mode": "cashback",
-      "burnedPct": 2.12,
-      "mcapUsd": 6750
+      "burnedPct": 2.14,
+      "mcapUsd": 7230
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
@@ -113,7 +113,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiggmw3si4ye24v4ddpdd4pp4iqy53bfcxy5w6bjtol4lib7ytb3ty",
       "mode": "cashback",
       "burnedPct": 0,
-      "mcapUsd": 2580
+      "mcapUsd": 2570
     },
     "0xf35df5713801c32996587918baaf7932b1d116bf": {
       "distributedWei": "6535030946002457",
@@ -183,8 +183,8 @@
       "deployer": "0xC7d8b76d3117894E4ce054148b686c0D1e4f3996",
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "agentic",
-      "burnedPct": 10.81,
-      "mcapUsd": 15200
+      "burnedPct": 10.86,
+      "mcapUsd": 10800
     },
     "0x431e1aaff131e12e72b011b59aeb0ce825f3ee48": {
       "name": "PonsNation",
@@ -217,7 +217,7 @@
       "logo": "https://ipfs.io/ipfs/bafybeifhqs64cpi4mbfin77iwhzxicdkl6uvtxrgzmx2oe6l524biefmca",
       "mode": "agentic",
       "burnedPct": 0,
-      "mcapUsd": 2580
+      "mcapUsd": 2570
     },
     "0x8627440b39818647f4b01cc5b5e7dc66f97cf6e6": {
       "name": "BUYBACK COIN",
@@ -228,7 +228,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiddfufyduxicaw24aq6tpaxt7uawtnyw3lijfrm44muq4p3szqgxm",
       "mode": "agentic",
       "burnedPct": 0.01,
-      "mcapUsd": 2580
+      "mcapUsd": 2570
     },
     "0x5f5b184032847cc61fefb5f5400d3c90f0a3fefe": {
       "name": "Just Burn It",
@@ -250,7 +250,7 @@
       "logo": "https://ipfs.io/ipfs/bafybeiansmxvxzc4u5vvwhfgxckxvvw4aegkex6pqxmpikkovkbneb2gtm",
       "mode": "agentic",
       "burnedPct": 0,
-      "mcapUsd": 2580
+      "mcapUsd": 2570
     },
     "0x59729a8ee69be09693f6830f0f05508f88f1cfed": {
       "name": "ameritard",
@@ -294,7 +294,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreigh77j3fvun3bivrjzmnstnj3vfzcnubvsb376xvwq3ljl6endhqu",
       "mode": "agentic",
       "burnedPct": 0,
-      "mcapUsd": 2580
+      "mcapUsd": 2570
     },
     "0x37b36f98e17ef139a32ce73d1f2fb67051db77a4": {
       "name": "Strawberina",
@@ -305,7 +305,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiby3mfdztrv63eyp3ryq2epg3wwo34kegfc7aulljxmpuft7whcq4",
       "mode": "agentic",
       "burnedPct": 0,
-      "mcapUsd": 2580
+      "mcapUsd": 2570
     },
     "0x4b3b8b7554126ddc4dd390f7d629e5131665b245": {
       "name": "1 Cat can change your life",
@@ -371,7 +371,7 @@
       "logo": "https://ipfs.io/ipfs/bafybeibotufmtbcexe2rp7n3rucg5ju47eujthr3ncp4it6yex4dw4jpby",
       "mode": "agentic",
       "burnedPct": 0.02,
-      "mcapUsd": 2580
+      "mcapUsd": 2570
     },
     "0x3553fdd403dd3afe49bf41de1791aa5e71c0e007": {
       "name": "kiwi cat",
@@ -481,7 +481,7 @@
       "logo": "https://ipfs.io/ipfs/bafybeici5yvk75sm4vmzo2yf65ug5khm4lia3i6vvuxx5f2p3eceh3e7cy",
       "mode": "cashback",
       "burnedPct": 0,
-      "mcapUsd": 2580
+      "mcapUsd": 2570
     },
     "0xed51a80a636c977987e837746725c798b6d26292": {
       "name": "normie chillhouse",
