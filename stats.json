@@ -1,28 +1,28 @@
 {
-  "updated": "2026-07-29T00:00:50.133Z",
+  "updated": "2026-07-29T00:30:55.785Z",
   "totals": {
-    "agenticBuybackWei": "601910934204459535",
+    "agenticBuybackWei": "604273875925042497",
     "cashbackDistributedWei": "151686483402065972",
     "charityDonatedWei": "54721046942234873"
   },
   "analytics": {
-    "ethUsd": 1919.68,
-    "updated": "2026-07-29T00:00:50.128Z",
+    "ethUsd": 1919.2,
+    "updated": "2026-07-29T00:30:55.784Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
       "cashback": 12,
       "charity": 3
     },
-    "feesClaimedEth": "0.9261642343492603",
-    "buybackBurnEth": "0.6019109342044595",
+    "feesClaimedEth": "0.9287897251499081",
+    "buybackBurnEth": "0.6042738759250424",
     "paidHoldersEth": "0.15168648340206597",
     "donatedEth": "0.054721046942234876",
-    "forkInTreasury": "6557096.383954334",
-    "forkSupplyPct": 0.6557,
-    "forkBurned": "107168131.17563508",
-    "forkBurnedPct": 10.7168,
-    "volume24hUsd": 25062,
+    "forkInTreasury": "6563134.392311223",
+    "forkSupplyPct": 0.6563,
+    "forkBurned": "107404015.15893407",
+    "forkBurnedPct": 10.7404,
+    "volume24hUsd": 25831,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -53,7 +53,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "cashback",
       "burnedPct": 0.16,
-      "mcapUsd": 2590
+      "mcapUsd": 2580
     },
     "0x356eb743defedb4a9f944757e88b72e19cc533b8": {
       "distributedWei": "1353177000000000",
@@ -173,7 +173,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreidelk4hxtetnsrmrhs55ntm5yjw3zwhajkocebcmgumq25t633ldu",
       "mode": "charity",
       "burnedPct": 0,
-      "mcapUsd": 3140
+      "mcapUsd": 3130
     },
     "0x73fc2f1cac113a37939c43a772f64f1706df249f": {
       "name": "PonsFork",
@@ -183,8 +183,8 @@
       "deployer": "0xC7d8b76d3117894E4ce054148b686c0D1e4f3996",
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "agentic",
-      "burnedPct": 10.72,
-      "mcapUsd": 14600
+      "burnedPct": 10.74,
+      "mcapUsd": 18300
     },
     "0x431e1aaff131e12e72b011b59aeb0ce825f3ee48": {
       "name": "PonsNation",
@@ -261,7 +261,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreifrrjsfagg5ambqrb5sopscbviuskklq64hcnivzx46yjwsftlomy",
       "mode": "agentic",
       "burnedPct": 0,
-      "mcapUsd": 2590
+      "mcapUsd": 2580
     },
     "0xe628732716ce86627ddad2ce2e4b1d012367d51f": {
       "name": "Boring Coin",
@@ -492,7 +492,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiegfwma5veg2c2vwvp26no3ys5alpnrvvgzgak4664bfx5uomrmbe",
       "mode": "cashback",
       "burnedPct": 0,
-      "mcapUsd": 3010
+      "mcapUsd": 3000
     },
     "0x4dc232b45c2bcb437e419932b7f16d45b00d51bc": {
       "name": "Millions Coded",
