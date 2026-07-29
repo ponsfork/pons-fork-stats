@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-29T05:40:49.725Z",
+  "updated": "2026-07-29T06:10:43.471Z",
   "totals": {
     "agenticBuybackWei": "605815956329708469",
     "cashbackDistributedWei": "152158983402065972",
     "charityDonatedWei": "54721046942234873"
   },
   "analytics": {
-    "ethUsd": 1910.51,
-    "updated": "2026-07-29T05:40:49.724Z",
+    "ethUsd": 1907.6,
+    "updated": "2026-07-29T06:10:43.470Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -20,9 +20,9 @@
     "donatedEth": "0.054721046942234876",
     "forkInTreasury": "6605036.035365298",
     "forkSupplyPct": 0.6605,
-    "forkBurned": "107832369.10931684",
-    "forkBurnedPct": 10.7832,
-    "volume24hUsd": 23225,
+    "forkBurned": "107860630.29016972",
+    "forkBurnedPct": 10.786,
+    "volume24hUsd": 22150,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -113,7 +113,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiggmw3si4ye24v4ddpdd4pp4iqy53bfcxy5w6bjtol4lib7ytb3ty",
       "mode": "cashback",
       "burnedPct": 0,
-      "mcapUsd": 2580
+      "mcapUsd": 2560
     },
     "0xf35df5713801c32996587918baaf7932b1d116bf": {
       "distributedWei": "6535030946002457",
@@ -183,8 +183,8 @@
       "deployer": "0xC7d8b76d3117894E4ce054148b686c0D1e4f3996",
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "agentic",
-      "burnedPct": 10.78,
-      "mcapUsd": 17700
+      "burnedPct": 10.79,
+      "mcapUsd": 18200
     },
     "0x431e1aaff131e12e72b011b59aeb0ce825f3ee48": {
       "name": "PonsNation",
@@ -238,8 +238,8 @@
       "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
       "logo": "https://ipfs.io/ipfs/bafybeifpww6awhyzcjc72gzvfnozac3erh4srmu56g72bxzff4ia3synlm",
       "mode": "agentic",
-      "burnedPct": 0.02,
-      "mcapUsd": 2750
+      "burnedPct": 0.04,
+      "mcapUsd": 2560
     },
     "0x3c6e9ed6ba79188176cdfe05e88b1b2736963e46": {
       "name": "Valueless Coin",
