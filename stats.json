@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-29T23:50:48.250Z",
+  "updated": "2026-07-30T00:10:54.742Z",
   "totals": {
     "agenticBuybackWei": "610304161460435252",
     "cashbackDistributedWei": "154047706839321550",
     "charityDonatedWei": "54721046942234873"
   },
   "analytics": {
-    "ethUsd": 1908.6,
-    "updated": "2026-07-29T23:50:48.249Z",
+    "ethUsd": 1909.25,
+    "updated": "2026-07-30T00:10:54.741Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -22,7 +22,7 @@
     "forkSupplyPct": 0.6793,
     "forkBurned": "109899326.58389471",
     "forkBurnedPct": 10.9899,
-    "volume24hUsd": 11376,
+    "volume24hUsd": 11359,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -30,7 +30,7 @@
       },
       "0x92ee2370b56dc32794a6cd72585dc01d4288d314": {
         "ethWei": "51969010027744080",
-        "tok": "65882267497971799852647994"
+        "tok": "65976643554251395627660003"
       },
       "0xc423f8aedf1753bc0ab58e455b0b5421cafe949e": {
         "ethWei": "917345638163597",
@@ -101,7 +101,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
       "mode": "cashback",
       "burnedPct": 2.18,
-      "mcapUsd": 7420
+      "mcapUsd": 7430
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
@@ -162,7 +162,7 @@
       "charityOrgs": {
         "0x92ee2370b56dc32794a6cd72585dc01d4288d314": {
           "ethWei": "51051664389580483",
-          "tok": "63644799809437692701068302"
+          "tok": "63739175865717288476080311"
         }
       },
       "name": "St Jude Childrens Fund",
