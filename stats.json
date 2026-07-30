@@ -1,28 +1,28 @@
 {
-  "updated": "2026-07-30T12:00:43.537Z",
+  "updated": "2026-07-30T12:20:55.997Z",
   "totals": {
     "agenticBuybackWei": "612576647941847332",
-    "cashbackDistributedWei": "154047706839321550",
+    "cashbackDistributedWei": "154254655713364115",
     "charityDonatedWei": "54721046942234873"
   },
   "analytics": {
-    "ethUsd": 1921.24,
-    "updated": "2026-07-30T12:00:43.536Z",
+    "ethUsd": 1920.93,
+    "updated": "2026-07-30T12:20:55.996Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
       "cashback": 12,
       "charity": 3
     },
-    "feesClaimedEth": "0.9414670566901251",
+    "feesClaimedEth": "0.9416969998835057",
     "buybackBurnEth": "0.6125766479418473",
-    "paidHoldersEth": "0.15404770683932156",
+    "paidHoldersEth": "0.1542546557133641",
     "donatedEth": "0.054721046942234876",
-    "forkInTreasury": "6851663.0141870165",
-    "forkSupplyPct": 0.6851,
+    "forkInTreasury": "6853399.390818198",
+    "forkSupplyPct": 0.6853,
     "forkBurned": "110619793.62937774",
     "forkBurnedPct": 11.0619,
-    "volume24hUsd": 7437,
+    "volume24hUsd": 7433,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -92,7 +92,7 @@
       "mcapUsd": 2980
     },
     "0x6752d759b0b635a9ed1d3c7ff46d2ff882aabcdb": {
-      "distributedWei": "28758186498413695",
+      "distributedWei": "28965135372456260",
       "name": "Me Gusta",
       "symbol": "MEGUSTA",
       "decimals": 18,
@@ -100,8 +100,8 @@
       "deployer": "0x19Bd090078635b6F3280DB1e84072AeD2b7DeF57",
       "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
       "mode": "cashback",
-      "burnedPct": 2.21,
-      "mcapUsd": 6940
+      "burnedPct": 2.24,
+      "mcapUsd": 7060
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
