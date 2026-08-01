@@ -1,28 +1,28 @@
 {
-  "updated": "2026-08-01T15:40:54.822Z",
+  "updated": "2026-08-01T16:01:07.773Z",
   "totals": {
-    "agenticBuybackWei": "615756748871522854",
+    "agenticBuybackWei": "616599368048875441",
     "cashbackDistributedWei": "154805320713364116",
     "charityDonatedWei": "54721046942234873"
   },
   "analytics": {
-    "ethUsd": 1870.33,
-    "updated": "2026-08-01T15:40:54.822Z",
+    "ethUsd": 1869.06,
+    "updated": "2026-08-01T16:01:07.772Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
       "cashback": 12,
       "charity": 3
     },
-    "feesClaimedEth": "0.945842295360923",
-    "buybackBurnEth": "0.6157567488715229",
+    "feesClaimedEth": "0.9467785388913148",
+    "buybackBurnEth": "0.6165993680488755",
     "paidHoldersEth": "0.15480532071336411",
     "donatedEth": "0.054721046942234876",
     "forkInTreasury": "6986887.289798147",
     "forkSupplyPct": 0.6986,
-    "forkBurned": "112122412.78917208",
-    "forkBurnedPct": 11.2122,
-    "volume24hUsd": 1470,
+    "forkBurned": "112279709.97812891",
+    "forkBurnedPct": 11.2279,
+    "volume24hUsd": 1769,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -183,8 +183,8 @@
       "deployer": "0xC7d8b76d3117894E4ce054148b686c0D1e4f3996",
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "agentic",
-      "burnedPct": 11.21,
-      "mcapUsd": 8180
+      "burnedPct": 11.23,
+      "mcapUsd": 9200
     },
     "0x431e1aaff131e12e72b011b59aeb0ce825f3ee48": {
       "name": "PonsNation",
