@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-02T12:30:54.723Z",
+  "updated": "2026-08-02T12:40:54.895Z",
   "totals": {
-    "agenticBuybackWei": "617669425948570986",
+    "agenticBuybackWei": "618316347543424740",
     "cashbackDistributedWei": "155132192102461658",
     "charityDonatedWei": "54721046942234873"
   },
   "analytics": {
-    "ethUsd": 1856.88,
-    "updated": "2026-08-02T12:30:54.722Z",
+    "ethUsd": 1855.43,
+    "updated": "2026-08-02T12:40:54.894Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -20,9 +20,9 @@
     "donatedEth": "0.054721046942234876",
     "forkInTreasury": "7037634.529582188",
     "forkSupplyPct": 0.7037,
-    "forkBurned": "112784620.74342948",
-    "forkBurnedPct": 11.2784,
-    "volume24hUsd": 1895,
+    "forkBurned": "112895586.73906268",
+    "forkBurnedPct": 11.2895,
+    "volume24hUsd": 1938,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -65,7 +65,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "cashback",
       "burnedPct": 0.97,
-      "mcapUsd": 2530
+      "mcapUsd": 2520
     },
     "0x81015fefe1c7b5da82cf077287de5ef72095501b": {
       "distributedWei": "48143025234343193",
@@ -183,8 +183,8 @@
       "deployer": "0xC7d8b76d3117894E4ce054148b686c0D1e4f3996",
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "agentic",
-      "burnedPct": 11.28,
-      "mcapUsd": 9410
+      "burnedPct": 11.29,
+      "mcapUsd": 9570
     },
     "0x431e1aaff131e12e72b011b59aeb0ce825f3ee48": {
       "name": "PonsNation",
@@ -195,7 +195,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreibg5bco4ltcxeum7a3xtgihptpuvnitelhxuhlnvx5ngncx5m4x7e",
       "mode": "agentic",
       "burnedPct": 0.84,
-      "mcapUsd": 2520
+      "mcapUsd": 2510
     },
     "0xfa55571d569b2a4a05f46c2062d8477bea1f5983": {
       "name": "roots",
@@ -437,7 +437,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreie7kpizmuwonofmflectqueblsp2vvir3whg7slkgb3gko46q5izq",
       "mode": "agentic",
       "burnedPct": 0.1,
-      "mcapUsd": 2500
+      "mcapUsd": 2490
     },
     "0xd9262dba32426468005a2693e13f6a421cd39302": {
       "name": "Hold On Dividends Loading",
@@ -492,7 +492,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiegfwma5veg2c2vwvp26no3ys5alpnrvvgzgak4664bfx5uomrmbe",
       "mode": "cashback",
       "burnedPct": 0,
-      "mcapUsd": 2880
+      "mcapUsd": 2870
     },
     "0x4dc232b45c2bcb437e419932b7f16d45b00d51bc": {
       "name": "Millions Coded",
