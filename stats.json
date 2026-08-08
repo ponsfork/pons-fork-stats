@@ -1,28 +1,28 @@
 {
-  "updated": "2026-08-07T22:10:48.326Z",
+  "updated": "2026-08-08T00:40:54.469Z",
   "totals": {
     "agenticBuybackWei": "623679726127556545",
-    "cashbackDistributedWei": "165327600348250699",
+    "cashbackDistributedWei": "165800100348250699",
     "charityDonatedWei": "54721046942234873"
   },
   "analytics": {
-    "ethUsd": 1914.73,
-    "updated": "2026-08-07T22:10:48.325Z",
+    "ethUsd": 1913.51,
+    "updated": "2026-08-08T00:40:54.468Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
       "cashback": 12,
       "charity": 3
     },
-    "feesClaimedEth": "0.9671537752397232",
+    "feesClaimedEth": "0.9676787752397232",
     "buybackBurnEth": "0.6236797261275565",
-    "paidHoldersEth": "0.1653276003482507",
+    "paidHoldersEth": "0.1658001003482507",
     "donatedEth": "0.054721046942234876",
-    "forkInTreasury": "7452934.213844362",
-    "forkSupplyPct": 0.7452,
+    "forkInTreasury": "7461081.777020041",
+    "forkSupplyPct": 0.7461,
     "forkBurned": "116525187.21605918",
     "forkBurnedPct": 11.6525,
-    "volume24hUsd": 1261,
+    "volume24hUsd": 1394,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -89,10 +89,10 @@
       "logo": "https://ivory-adorable-octopus-471.mypinata.cloud/ipfs/bafkreidhkejefpomvim4xdzkh67nrtrzk3u3xfnd2ywnnlgo2xacoopdb4",
       "mode": "cashback",
       "burnedPct": 1.07,
-      "mcapUsd": 2960
+      "mcapUsd": 2950
     },
     "0x6752d759b0b635a9ed1d3c7ff46d2ff882aabcdb": {
-      "distributedWei": "39488624117089162",
+      "distributedWei": "39961124117089162",
       "name": "Me Gusta",
       "symbol": "MEGUSTA",
       "decimals": 18,
@@ -101,7 +101,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
       "mode": "cashback",
       "burnedPct": 2.75,
-      "mcapUsd": 5110
+      "mcapUsd": 5480
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
