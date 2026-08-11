@@ -1,28 +1,28 @@
 {
-  "updated": "2026-08-11T17:31:05.018Z",
+  "updated": "2026-08-11T19:21:42.046Z",
   "totals": {
     "agenticBuybackWei": "629928248778259037",
-    "cashbackDistributedWei": "167054250348250699",
+    "cashbackDistributedWei": "167317131902419199",
     "charityDonatedWei": "54721046942234873"
   },
   "analytics": {
-    "ethUsd": 1863.31,
-    "updated": "2026-08-11T17:31:05.017Z",
+    "ethUsd": 1862.92,
+    "updated": "2026-08-11T19:21:42.045Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
       "cashback": 12,
       "charity": 3
     },
-    "feesClaimedEth": "0.9760150781849483",
+    "feesClaimedEth": "0.976307168800691",
     "buybackBurnEth": "0.629928248778259",
-    "paidHoldersEth": "0.1670542503482507",
+    "paidHoldersEth": "0.1673171319024192",
     "donatedEth": "0.054721046942234876",
-    "forkInTreasury": "7598978.994058292",
-    "forkSupplyPct": 0.7598,
+    "forkInTreasury": "7603460.931296582",
+    "forkSupplyPct": 0.7603,
     "forkBurned": "116764366.92779715",
     "forkBurnedPct": 11.6764,
-    "volume24hUsd": 94,
+    "volume24hUsd": 167,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -92,7 +92,7 @@
       "mcapUsd": 2880
     },
     "0x6752d759b0b635a9ed1d3c7ff46d2ff882aabcdb": {
-      "distributedWei": "40295249117089162",
+      "distributedWei": "40558130671257662",
       "name": "Me Gusta",
       "symbol": "MEGUSTA",
       "decimals": 18,
@@ -101,7 +101,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
       "mode": "cashback",
       "burnedPct": 2.79,
-      "mcapUsd": 4830
+      "mcapUsd": 5030
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
@@ -196,7 +196,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "agentic",
       "burnedPct": 11.68,
-      "mcapUsd": 5260
+      "mcapUsd": 5250
     },
     "0x431e1aaff131e12e72b011b59aeb0ce825f3ee48": {
       "name": "PonsNation",
@@ -449,7 +449,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreie7kpizmuwonofmflectqueblsp2vvir3whg7slkgb3gko46q5izq",
       "mode": "agentic",
       "burnedPct": 0.1,
-      "mcapUsd": 2510
+      "mcapUsd": 2500
     },
     "0xd9262dba32426468005a2693e13f6a421cd39302": {
       "name": "Hold On Dividends Loading",
