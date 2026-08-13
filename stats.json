@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-13T02:00:54.996Z",
+  "updated": "2026-08-13T02:10:59.672Z",
   "totals": {
     "agenticBuybackWei": "635089504337505090",
     "cashbackDistributedWei": "167952981902419199",
     "charityDonatedWei": "54721046942234873"
   },
   "analytics": {
-    "ethUsd": 1876.81,
-    "updated": "2026-08-13T02:00:54.994Z",
+    "ethUsd": 1875.63,
+    "updated": "2026-08-13T02:10:59.670Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -22,7 +22,7 @@
     "forkSupplyPct": 0.768,
     "forkBurned": "117626649.1761545",
     "forkBurnedPct": 11.7626,
-    "volume24hUsd": 2583,
+    "volume24hUsd": 2581,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -124,7 +124,7 @@
       "deployer": "0x19Bd090078635b6F3280DB1e84072AeD2b7DeF57",
       "logo": "https://ipfs.io/ipfs/bafkreiavmjaicg4ssqyvr2zdgr3ll6gvjrfjp44kdklygvrs2byaveiw7a",
       "mode": "cashback",
-      "burnedPct": 0.37,
+      "burnedPct": 0.41,
       "mcapUsd": 4390
     },
     "0xed51a80a636c977987e837746725c798b6d26292": {
