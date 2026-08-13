@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-13T06:20:44.827Z",
+  "updated": "2026-08-13T06:31:01.580Z",
   "totals": {
     "agenticBuybackWei": "635609410262505090",
     "cashbackDistributedWei": "167952981902419199",
     "charityDonatedWei": "54721046942234873"
   },
   "analytics": {
-    "ethUsd": 1892.47,
-    "updated": "2026-08-13T06:20:44.825Z",
+    "ethUsd": 1892.66,
+    "updated": "2026-08-13T06:31:01.579Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -22,7 +22,7 @@
     "forkSupplyPct": 0.77,
     "forkBurned": "117867879.29214928",
     "forkBurnedPct": 11.7867,
-    "volume24hUsd": 2276,
+    "volume24hUsd": 2087,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -195,8 +195,8 @@
       "deployer": "0xC7d8b76d3117894E4ce054148b686c0D1e4f3996",
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "agentic",
-      "burnedPct": 11.68,
-      "mcapUsd": 6930
+      "burnedPct": 11.79,
+      "mcapUsd": 6920
     },
     "0x431e1aaff131e12e72b011b59aeb0ce825f3ee48": {
       "name": "PonsNation",
