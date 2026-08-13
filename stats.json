@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-13T06:11:24.017Z",
+  "updated": "2026-08-13T06:20:44.827Z",
   "totals": {
     "agenticBuybackWei": "635609410262505090",
     "cashbackDistributedWei": "167952981902419199",
     "charityDonatedWei": "54721046942234873"
   },
   "analytics": {
-    "ethUsd": 1891.67,
-    "updated": "2026-08-13T06:11:24.016Z",
+    "ethUsd": 1892.47,
+    "updated": "2026-08-13T06:20:44.825Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -22,7 +22,7 @@
     "forkSupplyPct": 0.77,
     "forkBurned": "117867879.29214928",
     "forkBurnedPct": 11.7867,
-    "volume24hUsd": 2275,
+    "volume24hUsd": 2276,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -195,8 +195,8 @@
       "deployer": "0xC7d8b76d3117894E4ce054148b686c0D1e4f3996",
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "agentic",
-      "burnedPct": 11.79,
-      "mcapUsd": 6920
+      "burnedPct": 11.68,
+      "mcapUsd": 6930
     },
     "0x431e1aaff131e12e72b011b59aeb0ce825f3ee48": {
       "name": "PonsNation",
@@ -218,7 +218,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreicvmipvjqen5mog4hqixkcua4if3xy7ksxx6s7v7n6tvlgnt665te",
       "mode": "agentic",
       "burnedPct": 1.77,
-      "mcapUsd": 4530
+      "mcapUsd": 4540
     },
     "0x3498691a93546cf279e1ee15b9d5bd87285b8b07": {
       "name": "PonFi",
