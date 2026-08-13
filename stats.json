@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-13T08:41:00.585Z",
+  "updated": "2026-08-13T08:51:10.548Z",
   "totals": {
     "agenticBuybackWei": "635609410262505090",
     "cashbackDistributedWei": "167952981902419199",
     "charityDonatedWei": "54721046942234873"
   },
   "analytics": {
-    "ethUsd": 1890.61,
-    "updated": "2026-08-13T08:41:00.584Z",
+    "ethUsd": 1888.97,
+    "updated": "2026-08-13T08:51:10.547Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -18,11 +18,11 @@
     "buybackBurnEth": "0.6356094102625051",
     "paidHoldersEth": "0.1679529819024192",
     "donatedEth": "0.054721046942234876",
-    "forkInTreasury": "7700861.878067668",
-    "forkSupplyPct": 0.77,
-    "forkBurned": "117497460.9572234",
-    "forkBurnedPct": 11.7497,
-    "volume24hUsd": 1256,
+    "forkInTreasury": "7647784.703843448",
+    "forkSupplyPct": 0.7647,
+    "forkBurned": "117626649.1761545",
+    "forkBurnedPct": 11.7626,
+    "volume24hUsd": 1255,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -53,7 +53,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "cashback",
       "burnedPct": 0.16,
-      "mcapUsd": 2550
+      "mcapUsd": 2540
     },
     "0x356eb743defedb4a9f944757e88b72e19cc533b8": {
       "distributedWei": "1353177000000000",
@@ -101,7 +101,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
       "mode": "cashback",
       "burnedPct": 2.83,
-      "mcapUsd": 4460
+      "mcapUsd": 4450
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
@@ -195,8 +195,8 @@
       "deployer": "0xC7d8b76d3117894E4ce054148b686c0D1e4f3996",
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "agentic",
-      "burnedPct": 11.75,
-      "mcapUsd": 6910
+      "burnedPct": 11.79,
+      "mcapUsd": 6900
     },
     "0x431e1aaff131e12e72b011b59aeb0ce825f3ee48": {
       "name": "PonsNation",
@@ -273,7 +273,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreifrrjsfagg5ambqrb5sopscbviuskklq64hcnivzx46yjwsftlomy",
       "mode": "agentic",
       "burnedPct": 0,
-      "mcapUsd": 2550
+      "mcapUsd": 2540
     },
     "0xe628732716ce86627ddad2ce2e4b1d012367d51f": {
       "name": "Boring Coin",
