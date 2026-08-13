@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-13T08:21:02.530Z",
+  "updated": "2026-08-13T08:30:53.223Z",
   "totals": {
     "agenticBuybackWei": "635609410262505090",
     "cashbackDistributedWei": "167952981902419199",
     "charityDonatedWei": "54721046942234873"
   },
   "analytics": {
-    "ethUsd": 1890.93,
-    "updated": "2026-08-13T08:21:02.529Z",
+    "ethUsd": 1891.01,
+    "updated": "2026-08-13T08:30:53.222Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -217,8 +217,8 @@
       "deployer": "0x19Bd090078635b6F3280DB1e84072AeD2b7DeF57",
       "logo": "https://ipfs.io/ipfs/bafkreicvmipvjqen5mog4hqixkcua4if3xy7ksxx6s7v7n6tvlgnt665te",
       "mode": "agentic",
-      "burnedPct": 1.77,
-      "mcapUsd": 4530
+      "burnedPct": 1.66,
+      "mcapUsd": 4540
     },
     "0x3498691a93546cf279e1ee15b9d5bd87285b8b07": {
       "name": "PonFi",
