@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-13T09:11:03.240Z",
+  "updated": "2026-08-13T09:21:11.468Z",
   "totals": {
     "agenticBuybackWei": "635609410262505090",
     "cashbackDistributedWei": "167952981902419199",
     "charityDonatedWei": "54721046942234873"
   },
   "analytics": {
-    "ethUsd": 1884.28,
-    "updated": "2026-08-13T09:11:03.240Z",
+    "ethUsd": 1883.9,
+    "updated": "2026-08-13T09:21:11.467Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -18,11 +18,11 @@
     "buybackBurnEth": "0.6356094102625051",
     "paidHoldersEth": "0.1679529819024192",
     "donatedEth": "0.054721046942234876",
-    "forkInTreasury": "7700861.878067668",
-    "forkSupplyPct": 0.77,
-    "forkBurned": "117867879.29214928",
-    "forkBurnedPct": 11.7867,
-    "volume24hUsd": 3147,
+    "forkInTreasury": "7673856.500472175",
+    "forkSupplyPct": 0.7673,
+    "forkBurned": "117626649.1761545",
+    "forkBurnedPct": 11.7626,
+    "volume24hUsd": 1251,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -124,8 +124,8 @@
       "deployer": "0x19Bd090078635b6F3280DB1e84072AeD2b7DeF57",
       "logo": "https://ipfs.io/ipfs/bafkreiavmjaicg4ssqyvr2zdgr3ll6gvjrfjp44kdklygvrs2byaveiw7a",
       "mode": "cashback",
-      "burnedPct": 0.37,
-      "mcapUsd": 4040
+      "burnedPct": 0.41,
+      "mcapUsd": 4030
     },
     "0xed51a80a636c977987e837746725c798b6d26292": {
       "distributedWei": "400950000000000",
@@ -196,7 +196,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "agentic",
       "burnedPct": 11.79,
-      "mcapUsd": 6890
+      "mcapUsd": 6880
     },
     "0x431e1aaff131e12e72b011b59aeb0ce825f3ee48": {
       "name": "PonsNation",
@@ -218,7 +218,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreicvmipvjqen5mog4hqixkcua4if3xy7ksxx6s7v7n6tvlgnt665te",
       "mode": "agentic",
       "burnedPct": 1.77,
-      "mcapUsd": 4520
+      "mcapUsd": 4510
     },
     "0x3498691a93546cf279e1ee15b9d5bd87285b8b07": {
       "name": "PonFi",
