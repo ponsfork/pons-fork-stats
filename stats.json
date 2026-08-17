@@ -1,17 +1,17 @@
 {
-  "updated": "2026-08-17T20:31:39.872Z",
+  "updated": "2026-08-17T20:40:51.029Z",
   "totals": {
     "agenticBuybackWei": "636132057374186527",
     "cashbackDistributedWei": "169616856902419199",
     "charityDonatedWei": "54721046942234873"
   },
   "analytics": {
-    "ethUsd": 1906.88,
-    "updated": "2026-08-17T20:31:39.871Z",
+    "ethUsd": 1906.41,
+    "updated": "2026-08-17T20:40:51.027Z",
     "tokens": {
-      "total": 39,
-      "agentic": 24,
-      "cashback": 12,
+      "total": 30,
+      "agentic": 20,
+      "cashback": 7,
       "charity": 3
     },
     "feesClaimedEth": "0.9857555394628327",
@@ -22,7 +22,7 @@
     "forkSupplyPct": 0.7839,
     "forkBurned": "119203156.62737624",
     "forkBurnedPct": 11.9203,
-    "volume24hUsd": 247,
+    "volume24hUsd": 0,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -104,16 +104,7 @@
       "mcapUsd": 3750
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
-      "distributedWei": "311850000000000",
-      "name": "PonSuperCycle",
-      "symbol": "PSC",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreiggmw3si4ye24v4ddpdd4pp4iqy53bfcxy5w6bjtol4lib7ytb3ty",
-      "mode": "cashback",
-      "burnedPct": 0,
-      "mcapUsd": 2560
+      "distributedWei": "311850000000000"
     },
     "0xf35df5713801c32996587918baaf7932b1d116bf": {
       "distributedWei": "7989655946002457",
@@ -231,17 +222,6 @@
       "burnedPct": 0,
       "mcapUsd": 2560
     },
-    "0x8627440b39818647f4b01cc5b5e7dc66f97cf6e6": {
-      "name": "BUYBACK COIN",
-      "symbol": "BUYBACK",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreiddfufyduxicaw24aq6tpaxt7uawtnyw3lijfrm44muq4p3szqgxm",
-      "mode": "agentic",
-      "burnedPct": 0.01,
-      "mcapUsd": 2560
-    },
     "0x5f5b184032847cc61fefb5f5400d3c90f0a3fefe": {
       "name": "Just Burn It",
       "symbol": "BURNIT",
@@ -273,17 +253,6 @@
       "logo": "https://ipfs.io/ipfs/bafkreifrrjsfagg5ambqrb5sopscbviuskklq64hcnivzx46yjwsftlomy",
       "mode": "agentic",
       "burnedPct": 0,
-      "mcapUsd": 2570
-    },
-    "0xe628732716ce86627ddad2ce2e4b1d012367d51f": {
-      "name": "Boring Coin",
-      "symbol": "BORINGCOIN",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafybeifypneest4wt723lxcbbtcrtdpefsy33c75mqwmtyaak7quui4f6m",
-      "mode": "agentic",
-      "burnedPct": 0,
       "mcapUsd": 0
     },
     "0x4d698f1818bb860db905087e35af4e74d51c0cdd": {
@@ -296,28 +265,6 @@
       "mode": "agentic",
       "burnedPct": 0,
       "mcapUsd": 0
-    },
-    "0xbce230b556cfe86001633e9e88678f4a45a1e5fe": {
-      "name": "Pixelated Pepe Ponder",
-      "symbol": "PPP",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreigh77j3fvun3bivrjzmnstnj3vfzcnubvsb376xvwq3ljl6endhqu",
-      "mode": "agentic",
-      "burnedPct": 0,
-      "mcapUsd": 2560
-    },
-    "0x37b36f98e17ef139a32ce73d1f2fb67051db77a4": {
-      "name": "Strawberina",
-      "symbol": "STRAWB",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreiby3mfdztrv63eyp3ryq2epg3wwo34kegfc7aulljxmpuft7whcq4",
-      "mode": "agentic",
-      "burnedPct": 0,
-      "mcapUsd": 2560
     },
     "0x4b3b8b7554126ddc4dd390f7d629e5131665b245": {
       "name": "1 Cat can change your life",
@@ -383,17 +330,6 @@
       "logo": "https://ipfs.io/ipfs/bafybeibotufmtbcexe2rp7n3rucg5ju47eujthr3ncp4it6yex4dw4jpby",
       "mode": "agentic",
       "burnedPct": 0.02,
-      "mcapUsd": 2560
-    },
-    "0x3553fdd403dd3afe49bf41de1791aa5e71c0e007": {
-      "name": "kiwi cat",
-      "symbol": "kiwicat",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreiatzn4iwpdbmam6r4syshdwrcmclo5mx3kkaj7anhkstfnc226wy4",
-      "mode": "agentic",
-      "burnedPct": 0.01,
       "mcapUsd": 2560
     },
     "0xdf6cb3648f0b3b24568a93f53334f56894f1bcac": {
