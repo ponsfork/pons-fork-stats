@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-17T15:13:54.852Z",
+  "updated": "2026-08-17T15:20:50.757Z",
   "totals": {
     "agenticBuybackWei": "636132057374186527",
     "cashbackDistributedWei": "169616856902419199",
     "charityDonatedWei": "54721046942234873"
   },
   "analytics": {
-    "ethUsd": 1906.4,
-    "updated": "2026-08-17T15:13:54.851Z",
+    "ethUsd": 1903.57,
+    "updated": "2026-08-17T15:20:50.756Z",
     "tokens": {
-      "total": 38,
-      "agentic": 23,
+      "total": 39,
+      "agentic": 24,
       "cashback": 12,
       "charity": 3
     },
@@ -22,7 +22,7 @@
     "forkSupplyPct": 0.7839,
     "forkBurned": "119203156.62737624",
     "forkBurnedPct": 11.9203,
-    "volume24hUsd": 247,
+    "volume24hUsd": 246,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -77,7 +77,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreibsn5ovwjdr2bhq5ctj3jjsei4lgyxizordtgsacmicjclpsj4iza",
       "mode": "cashback",
       "burnedPct": 2.99,
-      "mcapUsd": 2730
+      "mcapUsd": 2720
     },
     "0x3ed8519810a42e1da63774db9ce122a4c803c3ef": {
       "distributedWei": "68065838050815887",
@@ -273,28 +273,6 @@
       "logo": "https://ipfs.io/ipfs/bafkreifrrjsfagg5ambqrb5sopscbviuskklq64hcnivzx46yjwsftlomy",
       "mode": "agentic",
       "burnedPct": 0,
-      "mcapUsd": 2570
-    },
-    "0xe628732716ce86627ddad2ce2e4b1d012367d51f": {
-      "name": "Boring Coin",
-      "symbol": "BORINGCOIN",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafybeifypneest4wt723lxcbbtcrtdpefsy33c75mqwmtyaak7quui4f6m",
-      "mode": "agentic",
-      "burnedPct": 0,
-      "mcapUsd": 0
-    },
-    "0x4d698f1818bb860db905087e35af4e74d51c0cdd": {
-      "name": "Punch Birthday",
-      "symbol": "26JULY",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreieuplhzg7lphjxtek6fl5n5amrhoq6hfvf2ogot7i4r4axmviwlu4",
-      "mode": "agentic",
-      "burnedPct": 0,
       "mcapUsd": 0
     },
     "0xbce230b556cfe86001633e9e88678f4a45a1e5fe": {
@@ -308,17 +286,6 @@
       "burnedPct": 0,
       "mcapUsd": 2560
     },
-    "0x37b36f98e17ef139a32ce73d1f2fb67051db77a4": {
-      "name": "Strawberina",
-      "symbol": "STRAWB",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreiby3mfdztrv63eyp3ryq2epg3wwo34kegfc7aulljxmpuft7whcq4",
-      "mode": "agentic",
-      "burnedPct": 0,
-      "mcapUsd": 2560
-    },
     "0x4b3b8b7554126ddc4dd390f7d629e5131665b245": {
       "name": "1 Cat can change your life",
       "symbol": "1CAT",
@@ -326,17 +293,6 @@
       "totalSupply": "1000000000000000000000000000",
       "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
       "logo": "https://ipfs.io/ipfs/bafkreihf27e5hpmdc2ac6opm6yzwkpdwiug3knsx2f353bu6dc57mvfvjq",
-      "mode": "agentic",
-      "burnedPct": 0,
-      "mcapUsd": 0
-    },
-    "0xf63ac6d5e9281329ea5c57b1b54e3714f0959b1f": {
-      "name": "Ginnan Coin",
-      "symbol": "GINNAN",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreifvxfak5vsshpcoj4ypfnfuwv4bw7nczqmhnq6ucvuqpifvjzxcdu",
       "mode": "agentic",
       "burnedPct": 0,
       "mcapUsd": 0
@@ -385,6 +341,28 @@
       "burnedPct": 0.02,
       "mcapUsd": 2560
     },
+    "0x3553fdd403dd3afe49bf41de1791aa5e71c0e007": {
+      "name": "kiwi cat",
+      "symbol": "kiwicat",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreiatzn4iwpdbmam6r4syshdwrcmclo5mx3kkaj7anhkstfnc226wy4",
+      "mode": "agentic",
+      "burnedPct": 0.01,
+      "mcapUsd": 2560
+    },
+    "0xdf6cb3648f0b3b24568a93f53334f56894f1bcac": {
+      "name": "GigaGrok",
+      "symbol": "GIGAGROK",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreif6vce6hu5yvl7okvcpnkv5z3hxaldcdixrusp63obdcupwxp5oru",
+      "mode": "agentic",
+      "burnedPct": 0,
+      "mcapUsd": 0
+    },
     "0xcca7680ad911005d4a9969960b14da054c399cf7": {
       "name": "The Nietzschean Elephant",
       "symbol": "HERCULES",
@@ -392,17 +370,6 @@
       "totalSupply": "1000000000000000000000000000",
       "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
       "logo": "https://ipfs.io/ipfs/bafkreif4cot43bndhkbwls5pxrykxm372rsvilclaaeec3owq6qqvd5m24",
-      "mode": "agentic",
-      "burnedPct": 0,
-      "mcapUsd": 0
-    },
-    "0xae5f1969410555a381c39d772e969aa049e0d627": {
-      "name": "Wake Up",
-      "symbol": "COMA",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreigdg7umjryu2jqwswbvjspf2rmr6hyd3vcyw3b62kyopcqs4o73ye",
       "mode": "agentic",
       "burnedPct": 0,
       "mcapUsd": 0
@@ -451,16 +418,16 @@
       "burnedPct": 0,
       "mcapUsd": 0
     },
-    "0x6a469a755194b2b59f889ac8056a41f7684299b2": {
-      "name": "Ponzi Coin",
-      "symbol": "PONZICOIN",
+    "0x58a713f47630d78f1ddc86a23126fdff0fb2b428": {
+      "name": "Tap and Hold",
+      "symbol": "TAPANDHOLD",
       "decimals": 18,
       "totalSupply": "1000000000000000000000000000",
       "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafybeici5yvk75sm4vmzo2yf65ug5khm4lia3i6vvuxx5f2p3eceh3e7cy",
+      "logo": "https://ipfs.io/ipfs/bafkreibl7md6doiop6vzypfuztpffyae5hmavqf4f5k7x2viwet4hwvwtm",
       "mode": "cashback",
       "burnedPct": 0,
-      "mcapUsd": 2560
+      "mcapUsd": 0
     },
     "0x4dc232b45c2bcb437e419932b7f16d45b00d51bc": {
       "name": "Millions Coded",
