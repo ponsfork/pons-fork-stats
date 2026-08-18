@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-18T04:50:35.624Z",
+  "updated": "2026-08-18T05:00:23.521Z",
   "totals": {
     "agenticBuybackWei": "636132057374186527",
     "cashbackDistributedWei": "169616856902419199",
     "charityDonatedWei": "54721046942234873"
   },
   "analytics": {
-    "ethUsd": 1894.37,
-    "updated": "2026-08-18T04:50:35.623Z",
+    "ethUsd": 1894.86,
+    "updated": "2026-08-18T05:00:23.520Z",
     "tokens": {
-      "total": 24,
-      "agentic": 16,
+      "total": 25,
+      "agentic": 17,
       "cashback": 7,
       "charity": 1
     },
