@@ -1,17 +1,17 @@
 {
-  "updated": "2026-08-22T11:50:57.054Z",
+  "updated": "2026-08-22T12:00:57.246Z",
   "totals": {
     "agenticBuybackWei": "636132057374186527",
     "cashbackDistributedWei": "169616856902419199",
     "charityDonatedWei": "54721046942234873"
   },
   "analytics": {
-    "ethUsd": 2423.27,
-    "updated": "2026-08-22T11:50:57.054Z",
+    "ethUsd": 2423.14,
+    "updated": "2026-08-22T12:00:57.244Z",
     "tokens": {
-      "total": 30,
-      "agentic": 16,
-      "cashback": 11,
+      "total": 39,
+      "agentic": 24,
+      "cashback": 12,
       "charity": 3
     },
     "feesClaimedEth": "0.9857555394628327",
@@ -22,7 +22,7 @@
     "forkSupplyPct": 0.7839,
     "forkBurned": "119203156.62737624",
     "forkBurnedPct": 11.9203,
-    "volume24hUsd": 23,
+    "volume24hUsd": 2513,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -209,6 +209,28 @@
       "burnedPct": 0.84,
       "mcapUsd": 3280
     },
+    "0xfa55571d569b2a4a05f46c2062d8477bea1f5983": {
+      "name": "roots",
+      "symbol": "ROOTS",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x19Bd090078635b6F3280DB1e84072AeD2b7DeF57",
+      "logo": "https://ipfs.io/ipfs/bafkreicvmipvjqen5mog4hqixkcua4if3xy7ksxx6s7v7n6tvlgnt665te",
+      "mode": "agentic",
+      "burnedPct": 1.83,
+      "mcapUsd": 4100
+    },
+    "0x3498691a93546cf279e1ee15b9d5bd87285b8b07": {
+      "name": "PonFi",
+      "symbol": "PONFI",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafybeifhqs64cpi4mbfin77iwhzxicdkl6uvtxrgzmx2oe6l524biefmca",
+      "mode": "agentic",
+      "burnedPct": 0,
+      "mcapUsd": 3250
+    },
     "0x8627440b39818647f4b01cc5b5e7dc66f97cf6e6": {
       "name": "BUYBACK COIN",
       "symbol": "BUYBACK",
@@ -297,6 +319,17 @@
       "burnedPct": 0,
       "mcapUsd": 3250
     },
+    "0x4b3b8b7554126ddc4dd390f7d629e5131665b245": {
+      "name": "1 Cat can change your life",
+      "symbol": "1CAT",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreihf27e5hpmdc2ac6opm6yzwkpdwiug3knsx2f353bu6dc57mvfvjq",
+      "mode": "agentic",
+      "burnedPct": 0,
+      "mcapUsd": 0
+    },
     "0xf63ac6d5e9281329ea5c57b1b54e3714f0959b1f": {
       "name": "Ginnan Coin",
       "symbol": "GINNAN",
@@ -304,6 +337,17 @@
       "totalSupply": "1000000000000000000000000000",
       "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
       "logo": "https://ipfs.io/ipfs/bafkreifvxfak5vsshpcoj4ypfnfuwv4bw7nczqmhnq6ucvuqpifvjzxcdu",
+      "mode": "agentic",
+      "burnedPct": 0,
+      "mcapUsd": 0
+    },
+    "0x4806b398ea8ecbc6cd7e40177e9e569832e01a69": {
+      "name": "House Cat",
+      "symbol": "HOUSECAT",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreihfqf6g6xewalz335brx5osa4n3gccye2gknjtgjk3pex2ljib4ca",
       "mode": "agentic",
       "burnedPct": 0,
       "mcapUsd": 0
@@ -407,6 +451,17 @@
       "burnedPct": 0.1,
       "mcapUsd": 3260
     },
+    "0xd9262dba32426468005a2693e13f6a421cd39302": {
+      "name": "Hold On Dividends Loading",
+      "symbol": "HODL",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreidqgispslki4moxgevckxzmw2cxn52veodh6uercj6vpxupkpymfa",
+      "mode": "cashback",
+      "burnedPct": 0,
+      "mcapUsd": 0
+    },
     "0x0633cc5a48891de0e5d21c4f98f01c43739ffc25": {
       "name": "one ecosystem to rule them all",
       "symbol": "1ECOSYSTEM",
@@ -439,6 +494,28 @@
       "mode": "cashback",
       "burnedPct": 0,
       "mcapUsd": 3250
+    },
+    "0x4dc232b45c2bcb437e419932b7f16d45b00d51bc": {
+      "name": "Millions Coded",
+      "symbol": "ADHD",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreihqsezug2dcu7xe4gbm55lhu5aimojxpye5kf3swdlwysic7sgfcq",
+      "mode": "charity",
+      "burnedPct": 0,
+      "mcapUsd": 0
+    },
+    "0x3c13e02e1be76226d85960f2a42dc3b51bed72af": {
+      "name": "Tesla Bank",
+      "symbol": "TSLABANK",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafybeibdy5rh2pvzsw3hm6bgnljmypjkmpyecjfg4axlbmzfojqzi2kamq",
+      "mode": "rwa",
+      "burnedPct": 0,
+      "mcapUsd": 0
     },
     "0x56301b39565a7cb990d9264c137ccdb08bd27491": {
       "name": "Straight Perpetual Yields",
