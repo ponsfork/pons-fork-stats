@@ -1,18 +1,18 @@
 {
-  "updated": "2026-08-23T09:00:31.723Z",
+  "updated": "2026-08-23T09:10:43.852Z",
   "totals": {
     "agenticBuybackWei": "636132057374186527",
     "cashbackDistributedWei": "169616856902419199",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2410.78,
-    "updated": "2026-08-23T09:00:31.722Z",
+    "ethUsd": 2413.05,
+    "updated": "2026-08-23T09:10:43.851Z",
     "tokens": {
-      "total": 23,
-      "agentic": 18,
-      "cashback": 4,
-      "charity": 1
+      "total": 39,
+      "agentic": 24,
+      "cashback": 12,
+      "charity": 3
     },
     "feesClaimedEth": "0.9897247201211661",
     "buybackBurnEth": "0.6361320573741865",
@@ -22,7 +22,7 @@
     "forkSupplyPct": 0.7839,
     "forkBurned": "119203156.62737624",
     "forkBurnedPct": 11.9203,
-    "volume24hUsd": 259,
+    "volume24hUsd": 293,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -44,13 +44,40 @@
   },
   "tokens": {
     "0x692a1d924cc4ed50886f0fa9fae046e51c9fa37d": {
-      "distributedWei": "1029105000000000"
+      "distributedWei": "1029105000000000",
+      "name": "cashback test",
+      "symbol": "TEST",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0xC7d8b76d3117894E4ce054148b686c0D1e4f3996",
+      "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
+      "mode": "cashback",
+      "burnedPct": 0.16,
+      "mcapUsd": 3250
     },
     "0x356eb743defedb4a9f944757e88b72e19cc533b8": {
-      "distributedWei": "1353177000000000"
+      "distributedWei": "1353177000000000",
+      "name": "agentic mode test",
+      "symbol": "TEST2",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0xC7d8b76d3117894E4ce054148b686c0D1e4f3996",
+      "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
+      "mode": "cashback",
+      "burnedPct": 0.97,
+      "mcapUsd": 3280
     },
     "0x81015fefe1c7b5da82cf077287de5ef72095501b": {
-      "distributedWei": "49442400234343193"
+      "distributedWei": "49442400234343193",
+      "name": "cashback cat",
+      "symbol": "CBCAT",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x420dc8840d4b05F4Ad21e92d50D63752B64102f2",
+      "logo": "https://ipfs.io/ipfs/bafkreibsn5ovwjdr2bhq5ctj3jjsei4lgyxizordtgsacmicjclpsj4iza",
+      "mode": "cashback",
+      "burnedPct": 2.99,
+      "mcapUsd": 3450
     },
     "0x3ed8519810a42e1da63774db9ce122a4c803c3ef": {
       "distributedWei": "68065838050815887",
@@ -74,7 +101,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
       "mode": "cashback",
       "burnedPct": 2.84,
-      "mcapUsd": 4690
+      "mcapUsd": 4700
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
@@ -110,7 +137,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiegfwma5veg2c2vwvp26no3ys5alpnrvvgzgak4664bfx5uomrmbe",
       "mode": "cashback",
       "burnedPct": 0.08,
-      "mcapUsd": 3360
+      "mcapUsd": 3370
     },
     "0x3e68c56fadd386f9d5254027f2c1ce2f09f78fc7": {
       "charityDonatedWei": "3669382552654390",
@@ -140,7 +167,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "charity",
       "burnedPct": 0,
-      "mcapUsd": 3300
+      "mcapUsd": 3310
     },
     "0xd72d43e97a3f0673f8b961618f83ef1ec4c78ca2": {
       "charityDonatedWei": "55020845047913817",
@@ -158,7 +185,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreidelk4hxtetnsrmrhs55ntm5yjw3zwhajkocebcmgumq25t633ldu",
       "mode": "charity",
       "burnedPct": 0,
-      "mcapUsd": 5420
+      "mcapUsd": 5430
     },
     "0x73fc2f1cac113a37939c43a772f64f1706df249f": {
       "name": "PonsFork",
@@ -191,7 +218,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreicvmipvjqen5mog4hqixkcua4if3xy7ksxx6s7v7n6tvlgnt665te",
       "mode": "agentic",
       "burnedPct": 1.83,
-      "mcapUsd": 0
+      "mcapUsd": 4090
     },
     "0x3498691a93546cf279e1ee15b9d5bd87285b8b07": {
       "name": "PonFi",
@@ -225,6 +252,39 @@
       "mode": "agentic",
       "burnedPct": 0.04,
       "mcapUsd": 3240
+    },
+    "0x3c6e9ed6ba79188176cdfe05e88b1b2736963e46": {
+      "name": "Valueless Coin",
+      "symbol": "VALUELESS",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafybeiansmxvxzc4u5vvwhfgxckxvvw4aegkex6pqxmpikkovkbneb2gtm",
+      "mode": "agentic",
+      "burnedPct": 0,
+      "mcapUsd": 3240
+    },
+    "0x59729a8ee69be09693f6830f0f05508f88f1cfed": {
+      "name": "ameritard",
+      "symbol": "AMERITARD",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreifrrjsfagg5ambqrb5sopscbviuskklq64hcnivzx46yjwsftlomy",
+      "mode": "agentic",
+      "burnedPct": 0,
+      "mcapUsd": 3250
+    },
+    "0xe628732716ce86627ddad2ce2e4b1d012367d51f": {
+      "name": "Boring Coin",
+      "symbol": "BORINGCOIN",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafybeifypneest4wt723lxcbbtcrtdpefsy33c75mqwmtyaak7quui4f6m",
+      "mode": "agentic",
+      "burnedPct": 0,
+      "mcapUsd": 0
     },
     "0x4d698f1818bb860db905087e35af4e74d51c0cdd": {
       "name": "Punch Birthday",
@@ -266,6 +326,28 @@
       "totalSupply": "1000000000000000000000000000",
       "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
       "logo": "https://ipfs.io/ipfs/bafkreihf27e5hpmdc2ac6opm6yzwkpdwiug3knsx2f353bu6dc57mvfvjq",
+      "mode": "agentic",
+      "burnedPct": 0,
+      "mcapUsd": 0
+    },
+    "0xf63ac6d5e9281329ea5c57b1b54e3714f0959b1f": {
+      "name": "Ginnan Coin",
+      "symbol": "GINNAN",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreifvxfak5vsshpcoj4ypfnfuwv4bw7nczqmhnq6ucvuqpifvjzxcdu",
+      "mode": "agentic",
+      "burnedPct": 0,
+      "mcapUsd": 0
+    },
+    "0x4806b398ea8ecbc6cd7e40177e9e569832e01a69": {
+      "name": "House Cat",
+      "symbol": "HOUSECAT",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreihfqf6g6xewalz335brx5osa4n3gccye2gknjtgjk3pex2ljib4ca",
       "mode": "agentic",
       "burnedPct": 0,
       "mcapUsd": 0
@@ -314,6 +396,17 @@
       "burnedPct": 0.01,
       "mcapUsd": 3240
     },
+    "0xdf6cb3648f0b3b24568a93f53334f56894f1bcac": {
+      "name": "GigaGrok",
+      "symbol": "GIGAGROK",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreif6vce6hu5yvl7okvcpnkv5z3hxaldcdixrusp63obdcupwxp5oru",
+      "mode": "agentic",
+      "burnedPct": 0,
+      "mcapUsd": 0
+    },
     "0xcca7680ad911005d4a9969960b14da054c399cf7": {
       "name": "The Nietzschean Elephant",
       "symbol": "HERCULES",
@@ -335,6 +428,28 @@
       "mode": "agentic",
       "burnedPct": 0,
       "mcapUsd": 0
+    },
+    "0xc6879f169fd37fb648efd52cd2f22be8c5e63480": {
+      "name": "Cat in Sock",
+      "symbol": "FREDDY",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreichkf3ess54mmugib7rfjsrup7f35ruodq7vtffcznziklwyemc5e",
+      "mode": "agentic",
+      "burnedPct": 0,
+      "mcapUsd": 0
+    },
+    "0xd9e9eb855295a281df65c567bdaed369f673210d": {
+      "name": "Built Different Final Boss",
+      "symbol": "DARRIN",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreie7kpizmuwonofmflectqueblsp2vvir3whg7slkgb3gko46q5izq",
+      "mode": "agentic",
+      "burnedPct": 0.1,
+      "mcapUsd": 3240
     },
     "0xd9262dba32426468005a2693e13f6a421cd39302": {
       "name": "Hold On Dividends Loading",
@@ -388,6 +503,17 @@
       "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
       "logo": "https://ipfs.io/ipfs/bafkreihqsezug2dcu7xe4gbm55lhu5aimojxpye5kf3swdlwysic7sgfcq",
       "mode": "charity",
+      "burnedPct": 0,
+      "mcapUsd": 0
+    },
+    "0x3c13e02e1be76226d85960f2a42dc3b51bed72af": {
+      "name": "Tesla Bank",
+      "symbol": "TSLABANK",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafybeibdy5rh2pvzsw3hm6bgnljmypjkmpyecjfg4axlbmzfojqzi2kamq",
+      "mode": "rwa",
       "burnedPct": 0,
       "mcapUsd": 0
     },
