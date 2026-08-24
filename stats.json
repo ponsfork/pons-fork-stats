@@ -1,18 +1,18 @@
 {
-  "updated": "2026-08-24T13:10:28.057Z",
+  "updated": "2026-08-24T13:20:23.241Z",
   "totals": {
     "agenticBuybackWei": "636132057374186527",
     "cashbackDistributedWei": "171171600924114278",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2508.12,
-    "updated": "2026-08-24T13:10:28.057Z",
+    "ethUsd": 2508.38,
+    "updated": "2026-08-24T13:20:23.240Z",
     "tokens": {
-      "total": 28,
-      "agentic": 20,
-      "cashback": 7,
-      "charity": 1
+      "total": 22,
+      "agentic": 17,
+      "cashback": 5,
+      "charity": 0
     },
     "feesClaimedEth": "0.991452213478605",
     "buybackBurnEth": "0.6361320573741865",
@@ -22,7 +22,7 @@
     "forkSupplyPct": 0.7876,
     "forkBurned": "119203156.62737624",
     "forkBurnedPct": 11.9203,
-    "volume24hUsd": 728,
+    "volume24hUsd": 0,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
