@@ -1,11 +1,47 @@
 {
-  "updated": "2026-08-25T22:10:21.995Z",
+  "updated": "2026-08-25T22:21:30.470Z",
   "totals": {
     "agenticBuybackWei": "643394095760722716",
     "cashbackDistributedWei": "172170209819830988",
     "charityDonatedWei": "58690227600568207"
   },
-  "analytics": null,
+  "analytics": {
+    "ethUsd": 2449.61,
+    "updated": "2026-08-25T22:21:30.469Z",
+    "tokens": {
+      "total": 39,
+      "agentic": 24,
+      "cashback": 12,
+      "charity": 3
+    },
+    "feesClaimedEth": "1.000630710458886",
+    "buybackBurnEth": "0.6433940957607227",
+    "paidHoldersEth": "0.172170209819831",
+    "donatedEth": "0.058690227600568204",
+    "forkInTreasury": "8151542.215053509",
+    "forkSupplyPct": 0.8151,
+    "forkBurned": "120872145.99216075",
+    "forkBurnedPct": 12.0872,
+    "volume24hUsd": 5943,
+    "charityByOrg": {
+      "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
+        "ethWei": "917345638163597",
+        "tok": "2237467688534107151579692"
+      },
+      "0x92ee2370b56dc32794a6cd72585dc01d4288d314": {
+        "ethWei": "55938190686077414",
+        "tok": "66831410043457980109642867"
+      },
+      "0xc423f8aedf1753bc0ab58e455b0b5421cafe949e": {
+        "ethWei": "917345638163597",
+        "tok": "2237467688534107151579692"
+      },
+      "0x1ca9eb2a5c213d417269134b80111f57e1644105": {
+        "ethWei": "917345638163599",
+        "tok": "2237467688534107151579698"
+      }
+    }
+  },
   "tokens": {
     "0x692a1d924cc4ed50886f0fa9fae046e51c9fa37d": {
       "distributedWei": "1029105000000000",
@@ -56,28 +92,10 @@
       "mcapUsd": 3700
     },
     "0x6752d759b0b635a9ed1d3c7ff46d2ff882aabcdb": {
-      "distributedWei": "42171883588669450",
-      "name": "Me Gusta",
-      "symbol": "MEGUSTA",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x19Bd090078635b6F3280DB1e84072AeD2b7DeF57",
-      "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
-      "mode": "cashback",
-      "burnedPct": 2.91,
-      "mcapUsd": 5360
+      "distributedWei": "42171883588669450"
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
-      "distributedWei": "311850000000000",
-      "name": "PonSuperCycle",
-      "symbol": "PSC",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreiggmw3si4ye24v4ddpdd4pp4iqy53bfcxy5w6bjtol4lib7ytb3ty",
-      "mode": "cashback",
-      "burnedPct": 0,
-      "mcapUsd": 3290
+      "distributedWei": "311850000000000"
     },
     "0xf35df5713801c32996587918baaf7932b1d116bf": {
       "distributedWei": "9395005946002458",
@@ -382,17 +400,6 @@
       "burnedPct": 0,
       "mcapUsd": 3290
     },
-    "0xae5f1969410555a381c39d772e969aa049e0d627": {
-      "name": "Wake Up",
-      "symbol": "COMA",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreigdg7umjryu2jqwswbvjspf2rmr6hyd3vcyw3b62kyopcqs4o73ye",
-      "mode": "agentic",
-      "burnedPct": 0,
-      "mcapUsd": 3290
-    },
     "0xc6879f169fd37fb648efd52cd2f22be8c5e63480": {
       "name": "Cat in Sock",
       "symbol": "FREDDY",
@@ -401,28 +408,6 @@
       "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
       "logo": "https://ipfs.io/ipfs/bafkreichkf3ess54mmugib7rfjsrup7f35ruodq7vtffcznziklwyemc5e",
       "mode": "agentic",
-      "burnedPct": 0,
-      "mcapUsd": 3290
-    },
-    "0xd9e9eb855295a281df65c567bdaed369f673210d": {
-      "name": "Built Different Final Boss",
-      "symbol": "DARRIN",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreie7kpizmuwonofmflectqueblsp2vvir3whg7slkgb3gko46q5izq",
-      "mode": "agentic",
-      "burnedPct": 0.1,
-      "mcapUsd": 3300
-    },
-    "0xd9262dba32426468005a2693e13f6a421cd39302": {
-      "name": "Hold On Dividends Loading",
-      "symbol": "HODL",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreidqgispslki4moxgevckxzmw2cxn52veodh6uercj6vpxupkpymfa",
-      "mode": "cashback",
       "burnedPct": 0,
       "mcapUsd": 3290
     },
