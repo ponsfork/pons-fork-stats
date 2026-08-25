@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-25T05:20:09.811Z",
+  "updated": "2026-08-25T05:30:08.349Z",
   "totals": {
     "agenticBuybackWei": "636466182374186527",
-    "cashbackDistributedWei": "171974850924114279",
+    "cashbackDistributedWei": "172170209819830988",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": null,
@@ -20,7 +20,7 @@
       "distributedWei": "68065838050815887"
     },
     "0x6752d759b0b635a9ed1d3c7ff46d2ff882aabcdb": {
-      "distributedWei": "41976524692952741"
+      "distributedWei": "42171883588669450"
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000"
