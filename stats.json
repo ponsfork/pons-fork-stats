@@ -1,17 +1,17 @@
 {
-  "updated": "2026-08-26T05:02:51.496Z",
+  "updated": "2026-08-26T05:11:51.608Z",
   "totals": {
     "agenticBuybackWei": "643394095760722716",
     "cashbackDistributedWei": "172170209819830988",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2456.87,
-    "updated": "2026-08-26T05:02:51.495Z",
+    "ethUsd": 2456.65,
+    "updated": "2026-08-26T05:11:51.607Z",
     "tokens": {
-      "total": 28,
-      "agentic": 19,
-      "cashback": 6,
+      "total": 39,
+      "agentic": 24,
+      "cashback": 12,
       "charity": 3
     },
     "feesClaimedEth": "1.000630710458886",
@@ -22,7 +22,7 @@
     "forkSupplyPct": 0.8151,
     "forkBurned": "120872145.99216075",
     "forkBurnedPct": 12.0872,
-    "volume24hUsd": 14,
+    "volume24hUsd": 5871,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -56,7 +56,16 @@
       "mcapUsd": 3310
     },
     "0x356eb743defedb4a9f944757e88b72e19cc533b8": {
-      "distributedWei": "1353177000000000"
+      "distributedWei": "1353177000000000",
+      "name": "agentic mode test",
+      "symbol": "TEST2",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0xC7d8b76d3117894E4ce054148b686c0D1e4f3996",
+      "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
+      "mode": "cashback",
+      "burnedPct": 0.97,
+      "mcapUsd": 3340
     },
     "0x81015fefe1c7b5da82cf077287de5ef72095501b": {
       "distributedWei": "49442400234343193",
@@ -83,7 +92,16 @@
       "mcapUsd": 3710
     },
     "0x6752d759b0b635a9ed1d3c7ff46d2ff882aabcdb": {
-      "distributedWei": "42171883588669450"
+      "distributedWei": "42171883588669450",
+      "name": "Me Gusta",
+      "symbol": "MEGUSTA",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x19Bd090078635b6F3280DB1e84072AeD2b7DeF57",
+      "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
+      "mode": "cashback",
+      "burnedPct": 2.91,
+      "mcapUsd": 5370
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
@@ -107,7 +125,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiavmjaicg4ssqyvr2zdgr3ll6gvjrfjp44kdklygvrs2byaveiw7a",
       "mode": "cashback",
       "burnedPct": 0.5,
-      "mcapUsd": 0
+      "mcapUsd": 5180
     },
     "0xed51a80a636c977987e837746725c798b6d26292": {
       "distributedWei": "400950000000000",
@@ -167,7 +185,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreidelk4hxtetnsrmrhs55ntm5yjw3zwhajkocebcmgumq25t633ldu",
       "mode": "charity",
       "burnedPct": 0,
-      "mcapUsd": 3860
+      "mcapUsd": 3850
     },
     "0x73fc2f1cac113a37939c43a772f64f1706df249f": {
       "name": "PonsFork",
@@ -244,7 +262,7 @@
       "logo": "https://ipfs.io/ipfs/bafybeiansmxvxzc4u5vvwhfgxckxvvw4aegkex6pqxmpikkovkbneb2gtm",
       "mode": "agentic",
       "burnedPct": 0,
-      "mcapUsd": 0
+      "mcapUsd": 3300
     },
     "0x59729a8ee69be09693f6830f0f05508f88f1cfed": {
       "name": "ameritard",
@@ -256,6 +274,17 @@
       "mode": "agentic",
       "burnedPct": 0,
       "mcapUsd": 3310
+    },
+    "0xe628732716ce86627ddad2ce2e4b1d012367d51f": {
+      "name": "Boring Coin",
+      "symbol": "BORINGCOIN",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafybeifypneest4wt723lxcbbtcrtdpefsy33c75mqwmtyaak7quui4f6m",
+      "mode": "agentic",
+      "burnedPct": 0,
+      "mcapUsd": 3300
     },
     "0x4d698f1818bb860db905087e35af4e74d51c0cdd": {
       "name": "Punch Birthday",
@@ -286,6 +315,39 @@
       "totalSupply": "1000000000000000000000000000",
       "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
       "logo": "https://ipfs.io/ipfs/bafkreiby3mfdztrv63eyp3ryq2epg3wwo34kegfc7aulljxmpuft7whcq4",
+      "mode": "agentic",
+      "burnedPct": 0,
+      "mcapUsd": 3300
+    },
+    "0x4b3b8b7554126ddc4dd390f7d629e5131665b245": {
+      "name": "1 Cat can change your life",
+      "symbol": "1CAT",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreihf27e5hpmdc2ac6opm6yzwkpdwiug3knsx2f353bu6dc57mvfvjq",
+      "mode": "agentic",
+      "burnedPct": 0,
+      "mcapUsd": 3300
+    },
+    "0xf63ac6d5e9281329ea5c57b1b54e3714f0959b1f": {
+      "name": "Ginnan Coin",
+      "symbol": "GINNAN",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreifvxfak5vsshpcoj4ypfnfuwv4bw7nczqmhnq6ucvuqpifvjzxcdu",
+      "mode": "agentic",
+      "burnedPct": 0,
+      "mcapUsd": 3300
+    },
+    "0x4806b398ea8ecbc6cd7e40177e9e569832e01a69": {
+      "name": "House Cat",
+      "symbol": "HOUSECAT",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreihfqf6g6xewalz335brx5osa4n3gccye2gknjtgjk3pex2ljib4ca",
       "mode": "agentic",
       "burnedPct": 0,
       "mcapUsd": 3300
@@ -396,17 +458,6 @@
       "totalSupply": "1000000000000000000000000000",
       "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
       "logo": "https://ipfs.io/ipfs/bafkreidqgispslki4moxgevckxzmw2cxn52veodh6uercj6vpxupkpymfa",
-      "mode": "cashback",
-      "burnedPct": 0,
-      "mcapUsd": 3300
-    },
-    "0x0633cc5a48891de0e5d21c4f98f01c43739ffc25": {
-      "name": "one ecosystem to rule them all",
-      "symbol": "1ECOSYSTEM",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreigpudtshq674kd7pvbwydpaebwkz6exi3p7wqj3upb4hfym5js3hi",
       "mode": "cashback",
       "burnedPct": 0,
       "mcapUsd": 3300
