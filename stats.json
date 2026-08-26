@@ -1,17 +1,17 @@
 {
-  "updated": "2026-08-26T09:21:37.266Z",
+  "updated": "2026-08-26T09:30:40.411Z",
   "totals": {
     "agenticBuybackWei": "643394095760722716",
     "cashbackDistributedWei": "173357738264984033",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2449.89,
-    "updated": "2026-08-26T09:21:37.266Z",
+    "ethUsd": 2448.99,
+    "updated": "2026-08-26T09:30:40.411Z",
     "tokens": {
-      "total": 33,
+      "total": 37,
       "agentic": 23,
-      "cashback": 8,
+      "cashback": 12,
       "charity": 2
     },
     "feesClaimedEth": "1.001950186509056",
@@ -22,7 +22,7 @@
     "forkSupplyPct": 0.8178,
     "forkBurned": "120872145.99216075",
     "forkBurnedPct": 12.0872,
-    "volume24hUsd": 2889,
+    "volume24hUsd": 2457,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -80,19 +80,19 @@
       "mcapUsd": 3510
     },
     "0x3ed8519810a42e1da63774db9ce122a4c803c3ef": {
-      "distributedWei": "68065838050815887"
-    },
-    "0x6752d759b0b635a9ed1d3c7ff46d2ff882aabcdb": {
-      "distributedWei": "43359412033822495",
-      "name": "Me Gusta",
-      "symbol": "MEGUSTA",
+      "distributedWei": "68065838050815887",
+      "name": "Zeit Gaist",
+      "symbol": "ORACLE",
       "decimals": 18,
       "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x19Bd090078635b6F3280DB1e84072AeD2b7DeF57",
-      "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
+      "deployer": "0xcEB413A17EAA13fDD76a4410aC5a22cdcdFBDaF4",
+      "logo": "https://ivory-adorable-octopus-471.mypinata.cloud/ipfs/bafkreidhkejefpomvim4xdzkh67nrtrzk3u3xfnd2ywnnlgo2xacoopdb4",
       "mode": "cashback",
-      "burnedPct": 2.92,
-      "mcapUsd": 6480
+      "burnedPct": 1.07,
+      "mcapUsd": 3700
+    },
+    "0x6752d759b0b635a9ed1d3c7ff46d2ff882aabcdb": {
+      "distributedWei": "43359412033822495"
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
@@ -110,16 +110,7 @@
       "distributedWei": "9395005946002458"
     },
     "0xed51a80a636c977987e837746725c798b6d26292": {
-      "distributedWei": "400950000000000",
-      "name": "normie chillhouse",
-      "symbol": "NORMIE CHILLHOUSE",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x19Bd090078635b6F3280DB1e84072AeD2b7DeF57",
-      "logo": "https://ipfs.io/ipfs/bafkreiegfwma5veg2c2vwvp26no3ys5alpnrvvgzgak4664bfx5uomrmbe",
-      "mode": "cashback",
-      "burnedPct": 0.08,
-      "mcapUsd": 3420
+      "distributedWei": "400950000000000"
     },
     "0x3e68c56fadd386f9d5254027f2c1ce2f09f78fc7": {
       "charityDonatedWei": "3669382552654390",
@@ -178,7 +169,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "agentic",
       "burnedPct": 12.09,
-      "mcapUsd": 5220
+      "mcapUsd": 5210
     },
     "0x431e1aaff131e12e72b011b59aeb0ce825f3ee48": {
       "name": "PonsNation",
@@ -202,6 +193,17 @@
       "burnedPct": 2.23,
       "mcapUsd": 4590
     },
+    "0x3498691a93546cf279e1ee15b9d5bd87285b8b07": {
+      "name": "PonFi",
+      "symbol": "PONFI",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafybeifhqs64cpi4mbfin77iwhzxicdkl6uvtxrgzmx2oe6l524biefmca",
+      "mode": "agentic",
+      "burnedPct": 0,
+      "mcapUsd": 3290
+    },
     "0x8627440b39818647f4b01cc5b5e7dc66f97cf6e6": {
       "name": "BUYBACK COIN",
       "symbol": "BUYBACK",
@@ -211,7 +213,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiddfufyduxicaw24aq6tpaxt7uawtnyw3lijfrm44muq4p3szqgxm",
       "mode": "agentic",
       "burnedPct": 0.01,
-      "mcapUsd": 0
+      "mcapUsd": 3290
     },
     "0x5f5b184032847cc61fefb5f5400d3c90f0a3fefe": {
       "name": "Just Burn It",
@@ -224,50 +226,6 @@
       "burnedPct": 0.04,
       "mcapUsd": 3290
     },
-    "0x3c6e9ed6ba79188176cdfe05e88b1b2736963e46": {
-      "name": "Valueless Coin",
-      "symbol": "VALUELESS",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafybeiansmxvxzc4u5vvwhfgxckxvvw4aegkex6pqxmpikkovkbneb2gtm",
-      "mode": "agentic",
-      "burnedPct": 0,
-      "mcapUsd": 3290
-    },
-    "0x59729a8ee69be09693f6830f0f05508f88f1cfed": {
-      "name": "ameritard",
-      "symbol": "AMERITARD",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreifrrjsfagg5ambqrb5sopscbviuskklq64hcnivzx46yjwsftlomy",
-      "mode": "agentic",
-      "burnedPct": 0,
-      "mcapUsd": 3300
-    },
-    "0xe628732716ce86627ddad2ce2e4b1d012367d51f": {
-      "name": "Boring Coin",
-      "symbol": "BORINGCOIN",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafybeifypneest4wt723lxcbbtcrtdpefsy33c75mqwmtyaak7quui4f6m",
-      "mode": "agentic",
-      "burnedPct": 0,
-      "mcapUsd": 3290
-    },
-    "0x4d698f1818bb860db905087e35af4e74d51c0cdd": {
-      "name": "Punch Birthday",
-      "symbol": "26JULY",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreieuplhzg7lphjxtek6fl5n5amrhoq6hfvf2ogot7i4r4axmviwlu4",
-      "mode": "agentic",
-      "burnedPct": 0,
-      "mcapUsd": 3290
-    },
     "0xbce230b556cfe86001633e9e88678f4a45a1e5fe": {
       "name": "Pixelated Pepe Ponder",
       "symbol": "PPP",
@@ -277,18 +235,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreigh77j3fvun3bivrjzmnstnj3vfzcnubvsb376xvwq3ljl6endhqu",
       "mode": "agentic",
       "burnedPct": 0,
-      "mcapUsd": 3290
-    },
-    "0x4b3b8b7554126ddc4dd390f7d629e5131665b245": {
-      "name": "1 Cat can change your life",
-      "symbol": "1CAT",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreihf27e5hpmdc2ac6opm6yzwkpdwiug3knsx2f353bu6dc57mvfvjq",
-      "mode": "agentic",
-      "burnedPct": 0,
-      "mcapUsd": 3290
+      "mcapUsd": 0
     },
     "0xf63ac6d5e9281329ea5c57b1b54e3714f0959b1f": {
       "name": "Ginnan Coin",
@@ -299,7 +246,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreifvxfak5vsshpcoj4ypfnfuwv4bw7nczqmhnq6ucvuqpifvjzxcdu",
       "mode": "agentic",
       "burnedPct": 0,
-      "mcapUsd": 3290
+      "mcapUsd": 0
     },
     "0x4806b398ea8ecbc6cd7e40177e9e569832e01a69": {
       "name": "House Cat",
@@ -310,7 +257,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreihfqf6g6xewalz335brx5osa4n3gccye2gknjtgjk3pex2ljib4ca",
       "mode": "agentic",
       "burnedPct": 0,
-      "mcapUsd": 3290
+      "mcapUsd": 0
     },
     "0xe483592428a4ec9ea2ef2211cd592b69a3f541c1": {
       "name": "CateCoin",
@@ -343,6 +290,17 @@
       "logo": "https://ipfs.io/ipfs/bafybeibotufmtbcexe2rp7n3rucg5ju47eujthr3ncp4it6yex4dw4jpby",
       "mode": "agentic",
       "burnedPct": 0.02,
+      "mcapUsd": 0
+    },
+    "0x3553fdd403dd3afe49bf41de1791aa5e71c0e007": {
+      "name": "kiwi cat",
+      "symbol": "kiwicat",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreiatzn4iwpdbmam6r4syshdwrcmclo5mx3kkaj7anhkstfnc226wy4",
+      "mode": "agentic",
+      "burnedPct": 0.01,
       "mcapUsd": 3290
     },
     "0xdf6cb3648f0b3b24568a93f53334f56894f1bcac": {
@@ -363,6 +321,28 @@
       "totalSupply": "1000000000000000000000000000",
       "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
       "logo": "https://ipfs.io/ipfs/bafkreif4cot43bndhkbwls5pxrykxm372rsvilclaaeec3owq6qqvd5m24",
+      "mode": "agentic",
+      "burnedPct": 0,
+      "mcapUsd": 3290
+    },
+    "0xae5f1969410555a381c39d772e969aa049e0d627": {
+      "name": "Wake Up",
+      "symbol": "COMA",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreigdg7umjryu2jqwswbvjspf2rmr6hyd3vcyw3b62kyopcqs4o73ye",
+      "mode": "agentic",
+      "burnedPct": 0,
+      "mcapUsd": 3290
+    },
+    "0xc6879f169fd37fb648efd52cd2f22be8c5e63480": {
+      "name": "Cat in Sock",
+      "symbol": "FREDDY",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreichkf3ess54mmugib7rfjsrup7f35ruodq7vtffcznziklwyemc5e",
       "mode": "agentic",
       "burnedPct": 0,
       "mcapUsd": 3290
@@ -411,6 +391,17 @@
       "burnedPct": 0,
       "mcapUsd": 3290
     },
+    "0x6a469a755194b2b59f889ac8056a41f7684299b2": {
+      "name": "Ponzi Coin",
+      "symbol": "PONZICOIN",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafybeici5yvk75sm4vmzo2yf65ug5khm4lia3i6vvuxx5f2p3eceh3e7cy",
+      "mode": "cashback",
+      "burnedPct": 0,
+      "mcapUsd": 3290
+    },
     "0x4dc232b45c2bcb437e419932b7f16d45b00d51bc": {
       "name": "Millions Coded",
       "symbol": "ADHD",
@@ -420,7 +411,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreihqsezug2dcu7xe4gbm55lhu5aimojxpye5kf3swdlwysic7sgfcq",
       "mode": "charity",
       "burnedPct": 0,
-      "mcapUsd": 0
+      "mcapUsd": 3290
     },
     "0x3c13e02e1be76226d85960f2a42dc3b51bed72af": {
       "name": "Tesla Bank",
@@ -442,7 +433,7 @@
       "logo": "https://ipfs.io/ipfs/bafybeiaihkjai6mshrnfwrlnwq5fzvtqrui4lreflmtkit4xrzbvnj6aeu",
       "mode": "rwa",
       "burnedPct": 0,
-      "mcapUsd": 0
+      "mcapUsd": 3290
     },
     "0xdb215ba6627a10f2a7de321c789d0233588978ed": {
       "name": "GME BANK",
