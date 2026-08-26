@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-25T23:51:40.063Z",
+  "updated": "2026-08-26T00:08:24.721Z",
   "totals": {
     "agenticBuybackWei": "643394095760722716",
     "cashbackDistributedWei": "172170209819830988",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2440.96,
-    "updated": "2026-08-25T23:51:40.062Z",
+    "ethUsd": 2440.13,
+    "updated": "2026-08-26T00:08:24.720Z",
     "tokens": {
-      "total": 39,
-      "agentic": 24,
+      "total": 38,
+      "agentic": 23,
       "cashback": 12,
       "charity": 3
     },
@@ -22,7 +22,7 @@
     "forkSupplyPct": 0.8151,
     "forkBurned": "120872145.99216075",
     "forkBurnedPct": 12.0872,
-    "volume24hUsd": 5922,
+    "volume24hUsd": 5919,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -56,16 +56,7 @@
       "mcapUsd": 3290
     },
     "0x356eb743defedb4a9f944757e88b72e19cc533b8": {
-      "distributedWei": "1353177000000000",
-      "name": "agentic mode test",
-      "symbol": "TEST2",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0xC7d8b76d3117894E4ce054148b686c0D1e4f3996",
-      "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
-      "mode": "cashback",
-      "burnedPct": 0.97,
-      "mcapUsd": 3320
+      "distributedWei": "1353177000000000"
     },
     "0x81015fefe1c7b5da82cf077287de5ef72095501b": {
       "distributedWei": "49442400234343193",
@@ -273,7 +264,18 @@
       "logo": "https://ipfs.io/ipfs/bafkreifrrjsfagg5ambqrb5sopscbviuskklq64hcnivzx46yjwsftlomy",
       "mode": "agentic",
       "burnedPct": 0,
-      "mcapUsd": 0
+      "mcapUsd": 3290
+    },
+    "0xe628732716ce86627ddad2ce2e4b1d012367d51f": {
+      "name": "Boring Coin",
+      "symbol": "BORINGCOIN",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafybeifypneest4wt723lxcbbtcrtdpefsy33c75mqwmtyaak7quui4f6m",
+      "mode": "agentic",
+      "burnedPct": 0,
+      "mcapUsd": 3280
     },
     "0x4d698f1818bb860db905087e35af4e74d51c0cdd": {
       "name": "Punch Birthday",
@@ -458,17 +460,6 @@
       "totalSupply": "1000000000000000000000000000",
       "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
       "logo": "https://ipfs.io/ipfs/bafkreigpudtshq674kd7pvbwydpaebwkz6exi3p7wqj3upb4hfym5js3hi",
-      "mode": "cashback",
-      "burnedPct": 0,
-      "mcapUsd": 3280
-    },
-    "0x58a713f47630d78f1ddc86a23126fdff0fb2b428": {
-      "name": "Tap and Hold",
-      "symbol": "TAPANDHOLD",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreibl7md6doiop6vzypfuztpffyae5hmavqf4f5k7x2viwet4hwvwtm",
       "mode": "cashback",
       "burnedPct": 0,
       "mcapUsd": 3280
