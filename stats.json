@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T05:40:09.774Z",
+  "updated": "2026-08-27T05:50:15.061Z",
   "totals": {
     "agenticBuybackWei": "654278806118019881",
     "cashbackDistributedWei": "175904939461785906",
@@ -8,7 +8,16 @@
   "analytics": null,
   "tokens": {
     "0x692a1d924cc4ed50886f0fa9fae046e51c9fa37d": {
-      "distributedWei": "1029105000000000"
+      "distributedWei": "1029105000000000",
+      "name": "cashback test",
+      "symbol": "TEST",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0xC7d8b76d3117894E4ce054148b686c0D1e4f3996",
+      "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
+      "mode": "cashback",
+      "burnedPct": 0.16,
+      "mcapUsd": 3350
     },
     "0x356eb743defedb4a9f944757e88b72e19cc533b8": {
       "distributedWei": "1353177000000000"
@@ -60,6 +69,83 @@
           "tok": "64593942354923872958063175"
         }
       }
+    },
+    "0x73fc2f1cac113a37939c43a772f64f1706df249f": {
+      "name": "PonsFork",
+      "symbol": "FORK",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0xC7d8b76d3117894E4ce054148b686c0D1e4f3996",
+      "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
+      "mode": "agentic",
+      "burnedPct": 12.27,
+      "mcapUsd": 5280
+    },
+    "0x59729a8ee69be09693f6830f0f05508f88f1cfed": {
+      "name": "ameritard",
+      "symbol": "AMERITARD",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreifrrjsfagg5ambqrb5sopscbviuskklq64hcnivzx46yjwsftlomy",
+      "mode": "agentic",
+      "burnedPct": 0,
+      "mcapUsd": 0
+    },
+    "0xf63ac6d5e9281329ea5c57b1b54e3714f0959b1f": {
+      "name": "Ginnan Coin",
+      "symbol": "GINNAN",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreifvxfak5vsshpcoj4ypfnfuwv4bw7nczqmhnq6ucvuqpifvjzxcdu",
+      "mode": "agentic",
+      "burnedPct": 0,
+      "mcapUsd": 3350
+    },
+    "0x4806b398ea8ecbc6cd7e40177e9e569832e01a69": {
+      "name": "House Cat",
+      "symbol": "HOUSECAT",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreihfqf6g6xewalz335brx5osa4n3gccye2gknjtgjk3pex2ljib4ca",
+      "mode": "agentic",
+      "burnedPct": 0,
+      "mcapUsd": 3350
+    },
+    "0xe483592428a4ec9ea2ef2211cd592b69a3f541c1": {
+      "name": "CateCoin",
+      "symbol": "CATE",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafybeifunb4jwyestgelovlf5uwahi7mxm7mqlwc3ef376bbth4ivoouuq",
+      "mode": "agentic",
+      "burnedPct": 0,
+      "mcapUsd": 0
+    },
+    "0x6a469a755194b2b59f889ac8056a41f7684299b2": {
+      "name": "Ponzi Coin",
+      "symbol": "PONZICOIN",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafybeici5yvk75sm4vmzo2yf65ug5khm4lia3i6vvuxx5f2p3eceh3e7cy",
+      "mode": "cashback",
+      "burnedPct": 0,
+      "mcapUsd": 0
+    },
+    "0xdb215ba6627a10f2a7de321c789d0233588978ed": {
+      "name": "GME BANK",
+      "symbol": "GMEBANK",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafybeib7opur2mfuebgzafjfdzfnkszwsgd6zwala4osb45enl7ztojk7u",
+      "mode": "rwa",
+      "burnedPct": 0,
+      "mcapUsd": 3350
     }
   }
 }
