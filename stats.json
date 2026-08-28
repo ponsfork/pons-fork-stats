@@ -1,11 +1,47 @@
 {
-  "updated": "2026-08-28T13:40:22.228Z",
+  "updated": "2026-08-28T13:50:45.464Z",
   "totals": {
     "agenticBuybackWei": "654278806118019881",
     "cashbackDistributedWei": "176105414461785906",
     "charityDonatedWei": "58690227600568207"
   },
-  "analytics": null,
+  "analytics": {
+    "ethUsd": 2501.88,
+    "updated": "2026-08-28T13:50:45.464Z",
+    "tokens": {
+      "total": 34,
+      "agentic": 19,
+      "cashback": 12,
+      "charity": 3
+    },
+    "feesClaimedEth": "1.0185514258885116",
+    "buybackBurnEth": "0.6542788061180199",
+    "paidHoldersEth": "0.1761054144617859",
+    "donatedEth": "0.058690227600568204",
+    "forkInTreasury": "0",
+    "forkSupplyPct": 0,
+    "forkBurned": "0",
+    "forkBurnedPct": 0,
+    "volume24hUsd": 20,
+    "charityByOrg": {
+      "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
+        "ethWei": "917345638163597",
+        "tok": "2237467688534107151579692"
+      },
+      "0x92ee2370b56dc32794a6cd72585dc01d4288d314": {
+        "ethWei": "55938190686077414",
+        "tok": "66831410043457980109642867"
+      },
+      "0xc423f8aedf1753bc0ab58e455b0b5421cafe949e": {
+        "ethWei": "917345638163597",
+        "tok": "2237467688534107151579692"
+      },
+      "0x1ca9eb2a5c213d417269134b80111f57e1644105": {
+        "ethWei": "917345638163599",
+        "tok": "2237467688534107151579698"
+      }
+    }
+  },
   "tokens": {
     "0x692a1d924cc4ed50886f0fa9fae046e51c9fa37d": {
       "distributedWei": "1029105000000000",
@@ -56,16 +92,7 @@
       "mcapUsd": 3780
     },
     "0x6752d759b0b635a9ed1d3c7ff46d2ff882aabcdb": {
-      "distributedWei": "45906613230624368",
-      "name": "Me Gusta",
-      "symbol": "MEGUSTA",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x19Bd090078635b6F3280DB1e84072AeD2b7DeF57",
-      "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
-      "mode": "cashback",
-      "burnedPct": 2.96,
-      "mcapUsd": 6040
+      "distributedWei": "45906613230624368"
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
@@ -77,22 +104,13 @@
       "logo": "https://ipfs.io/ipfs/bafkreiggmw3si4ye24v4ddpdd4pp4iqy53bfcxy5w6bjtol4lib7ytb3ty",
       "mode": "cashback",
       "burnedPct": 0,
-      "mcapUsd": 3360
+      "mcapUsd": 0
     },
     "0xf35df5713801c32996587918baaf7932b1d116bf": {
       "distributedWei": "9595480946002458"
     },
     "0xed51a80a636c977987e837746725c798b6d26292": {
-      "distributedWei": "400950000000000",
-      "name": "normie chillhouse",
-      "symbol": "NORMIE CHILLHOUSE",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x19Bd090078635b6F3280DB1e84072AeD2b7DeF57",
-      "logo": "https://ipfs.io/ipfs/bafkreiegfwma5veg2c2vwvp26no3ys5alpnrvvgzgak4664bfx5uomrmbe",
-      "mode": "cashback",
-      "burnedPct": 0.08,
-      "mcapUsd": 3490
+      "distributedWei": "400950000000000"
     },
     "0x3e68c56fadd386f9d5254027f2c1ce2f09f78fc7": {
       "charityDonatedWei": "3669382552654390",
@@ -113,16 +131,7 @@
           "ethWei": "917345638163599",
           "tok": "2237467688534107151579698"
         }
-      },
-      "name": "Charity test",
-      "symbol": "TEST3",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0xC7d8b76d3117894E4ce054148b686c0D1e4f3996",
-      "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
-      "mode": "charity",
-      "burnedPct": 0,
-      "mcapUsd": 3430
+      }
     },
     "0xd72d43e97a3f0673f8b961618f83ef1ec4c78ca2": {
       "charityDonatedWei": "55020845047913817",
@@ -173,7 +182,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreicvmipvjqen5mog4hqixkcua4if3xy7ksxx6s7v7n6tvlgnt665te",
       "mode": "agentic",
       "burnedPct": 2.94,
-      "mcapUsd": 4660
+      "mcapUsd": 4670
     },
     "0x3498691a93546cf279e1ee15b9d5bd87285b8b07": {
       "name": "PonFi",
@@ -241,17 +250,6 @@
       "burnedPct": 0,
       "mcapUsd": 3360
     },
-    "0x4d698f1818bb860db905087e35af4e74d51c0cdd": {
-      "name": "Punch Birthday",
-      "symbol": "26JULY",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreieuplhzg7lphjxtek6fl5n5amrhoq6hfvf2ogot7i4r4axmviwlu4",
-      "mode": "agentic",
-      "burnedPct": 0,
-      "mcapUsd": 3360
-    },
     "0xbce230b556cfe86001633e9e88678f4a45a1e5fe": {
       "name": "Pixelated Pepe Ponder",
       "symbol": "PPP",
@@ -259,17 +257,6 @@
       "totalSupply": "1000000000000000000000000000",
       "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
       "logo": "https://ipfs.io/ipfs/bafkreigh77j3fvun3bivrjzmnstnj3vfzcnubvsb376xvwq3ljl6endhqu",
-      "mode": "agentic",
-      "burnedPct": 0,
-      "mcapUsd": 3360
-    },
-    "0x37b36f98e17ef139a32ce73d1f2fb67051db77a4": {
-      "name": "Strawberina",
-      "symbol": "STRAWB",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreiby3mfdztrv63eyp3ryq2epg3wwo34kegfc7aulljxmpuft7whcq4",
       "mode": "agentic",
       "burnedPct": 0,
       "mcapUsd": 3360
@@ -316,7 +303,7 @@
       "logo": "https://ipfs.io/ipfs/bafybeifunb4jwyestgelovlf5uwahi7mxm7mqlwc3ef376bbth4ivoouuq",
       "mode": "agentic",
       "burnedPct": 0,
-      "mcapUsd": 0
+      "mcapUsd": 3360
     },
     "0xdc3ac07dc7586b9971fc858c90d48334e91f9bd2": {
       "name": "Diet Coke",
@@ -338,7 +325,29 @@
       "logo": "https://ipfs.io/ipfs/bafybeibotufmtbcexe2rp7n3rucg5ju47eujthr3ncp4it6yex4dw4jpby",
       "mode": "agentic",
       "burnedPct": 0.02,
-      "mcapUsd": 0
+      "mcapUsd": 3360
+    },
+    "0x3553fdd403dd3afe49bf41de1791aa5e71c0e007": {
+      "name": "kiwi cat",
+      "symbol": "kiwicat",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreiatzn4iwpdbmam6r4syshdwrcmclo5mx3kkaj7anhkstfnc226wy4",
+      "mode": "agentic",
+      "burnedPct": 0.01,
+      "mcapUsd": 3360
+    },
+    "0xcca7680ad911005d4a9969960b14da054c399cf7": {
+      "name": "The Nietzschean Elephant",
+      "symbol": "HERCULES",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreif4cot43bndhkbwls5pxrykxm372rsvilclaaeec3owq6qqvd5m24",
+      "mode": "agentic",
+      "burnedPct": 0,
+      "mcapUsd": 3360
     },
     "0xae5f1969410555a381c39d772e969aa049e0d627": {
       "name": "Wake Up",
@@ -351,28 +360,6 @@
       "burnedPct": 0,
       "mcapUsd": 3360
     },
-    "0xc6879f169fd37fb648efd52cd2f22be8c5e63480": {
-      "name": "Cat in Sock",
-      "symbol": "FREDDY",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreichkf3ess54mmugib7rfjsrup7f35ruodq7vtffcznziklwyemc5e",
-      "mode": "agentic",
-      "burnedPct": 0,
-      "mcapUsd": 3360
-    },
-    "0xd9e9eb855295a281df65c567bdaed369f673210d": {
-      "name": "Built Different Final Boss",
-      "symbol": "DARRIN",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreie7kpizmuwonofmflectqueblsp2vvir3whg7slkgb3gko46q5izq",
-      "mode": "agentic",
-      "burnedPct": 0.1,
-      "mcapUsd": 3370
-    },
     "0xd9262dba32426468005a2693e13f6a421cd39302": {
       "name": "Hold On Dividends Loading",
       "symbol": "HODL",
@@ -383,17 +370,6 @@
       "mode": "cashback",
       "burnedPct": 0,
       "mcapUsd": 3360
-    },
-    "0x0633cc5a48891de0e5d21c4f98f01c43739ffc25": {
-      "name": "one ecosystem to rule them all",
-      "symbol": "1ECOSYSTEM",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreigpudtshq674kd7pvbwydpaebwkz6exi3p7wqj3upb4hfym5js3hi",
-      "mode": "cashback",
-      "burnedPct": 0,
-      "mcapUsd": 0
     },
     "0x4dc232b45c2bcb437e419932b7f16d45b00d51bc": {
       "name": "Millions Coded",
@@ -406,17 +382,6 @@
       "burnedPct": 0,
       "mcapUsd": 3360
     },
-    "0x3c13e02e1be76226d85960f2a42dc3b51bed72af": {
-      "name": "Tesla Bank",
-      "symbol": "TSLABANK",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafybeibdy5rh2pvzsw3hm6bgnljmypjkmpyecjfg4axlbmzfojqzi2kamq",
-      "mode": "rwa",
-      "burnedPct": 0,
-      "mcapUsd": 3360
-    },
     "0x56301b39565a7cb990d9264c137ccdb08bd27491": {
       "name": "Straight Perpetual Yields",
       "symbol": "SPY",
@@ -424,6 +389,17 @@
       "totalSupply": "1000000000000000000000000000",
       "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
       "logo": "https://ipfs.io/ipfs/bafybeiaihkjai6mshrnfwrlnwq5fzvtqrui4lreflmtkit4xrzbvnj6aeu",
+      "mode": "rwa",
+      "burnedPct": 0,
+      "mcapUsd": 3360
+    },
+    "0xdb215ba6627a10f2a7de321c789d0233588978ed": {
+      "name": "GME BANK",
+      "symbol": "GMEBANK",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafybeib7opur2mfuebgzafjfdzfnkszwsgd6zwala4osb45enl7ztojk7u",
       "mode": "rwa",
       "burnedPct": 0,
       "mcapUsd": 3360
