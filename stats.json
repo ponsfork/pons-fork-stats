@@ -1,18 +1,18 @@
 {
-  "updated": "2026-08-28T08:40:22.067Z",
+  "updated": "2026-08-28T08:50:16.402Z",
   "totals": {
     "agenticBuybackWei": "654278806118019881",
     "cashbackDistributedWei": "176105414461785906",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2495.81,
-    "updated": "2026-08-28T08:40:22.066Z",
+    "ethUsd": 2491.06,
+    "updated": "2026-08-28T08:50:16.401Z",
     "tokens": {
-      "total": 19,
-      "agentic": 10,
-      "cashback": 7,
-      "charity": 2
+      "total": 23,
+      "agentic": 14,
+      "cashback": 8,
+      "charity": 1
     },
     "feesClaimedEth": "1.0185514258885116",
     "buybackBurnEth": "0.6542788061180199",
@@ -96,83 +96,6 @@
           "tok": "64593942354923872958063175"
         }
       }
-    },
-    "0x73fc2f1cac113a37939c43a772f64f1706df249f": {
-      "name": "PonsFork",
-      "symbol": "FORK",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0xC7d8b76d3117894E4ce054148b686c0D1e4f3996",
-      "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
-      "mode": "agentic",
-      "burnedPct": 12.27,
-      "mcapUsd": 5330
-    },
-    "0xfa55571d569b2a4a05f46c2062d8477bea1f5983": {
-      "name": "roots",
-      "symbol": "ROOTS",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x19Bd090078635b6F3280DB1e84072AeD2b7DeF57",
-      "logo": "https://ipfs.io/ipfs/bafkreicvmipvjqen5mog4hqixkcua4if3xy7ksxx6s7v7n6tvlgnt665te",
-      "mode": "agentic",
-      "burnedPct": 2.94,
-      "mcapUsd": 0
-    },
-    "0x4806b398ea8ecbc6cd7e40177e9e569832e01a69": {
-      "name": "House Cat",
-      "symbol": "HOUSECAT",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreihfqf6g6xewalz335brx5osa4n3gccye2gknjtgjk3pex2ljib4ca",
-      "mode": "agentic",
-      "burnedPct": 0,
-      "mcapUsd": 3350
-    },
-    "0xc6879f169fd37fb648efd52cd2f22be8c5e63480": {
-      "name": "Cat in Sock",
-      "symbol": "FREDDY",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreichkf3ess54mmugib7rfjsrup7f35ruodq7vtffcznziklwyemc5e",
-      "mode": "agentic",
-      "burnedPct": 0,
-      "mcapUsd": 0
-    },
-    "0x6a469a755194b2b59f889ac8056a41f7684299b2": {
-      "name": "Ponzi Coin",
-      "symbol": "PONZICOIN",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafybeici5yvk75sm4vmzo2yf65ug5khm4lia3i6vvuxx5f2p3eceh3e7cy",
-      "mode": "cashback",
-      "burnedPct": 0,
-      "mcapUsd": 0
-    },
-    "0x3c13e02e1be76226d85960f2a42dc3b51bed72af": {
-      "name": "Tesla Bank",
-      "symbol": "TSLABANK",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafybeibdy5rh2pvzsw3hm6bgnljmypjkmpyecjfg4axlbmzfojqzi2kamq",
-      "mode": "rwa",
-      "burnedPct": 0,
-      "mcapUsd": 3350
-    },
-    "0x56301b39565a7cb990d9264c137ccdb08bd27491": {
-      "name": "Straight Perpetual Yields",
-      "symbol": "SPY",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafybeiaihkjai6mshrnfwrlnwq5fzvtqrui4lreflmtkit4xrzbvnj6aeu",
-      "mode": "rwa",
-      "burnedPct": 0,
-      "mcapUsd": 3350
     }
   }
 }
