@@ -1,47 +1,11 @@
 {
-  "updated": "2026-08-28T18:30:27.125Z",
+  "updated": "2026-08-28T18:40:05.346Z",
   "totals": {
     "agenticBuybackWei": "654278806118019881",
     "cashbackDistributedWei": "176105414461785906",
     "charityDonatedWei": "58690227600568207"
   },
-  "analytics": {
-    "ethUsd": 2431.78,
-    "updated": "2026-08-28T18:30:27.124Z",
-    "tokens": {
-      "total": 32,
-      "agentic": 19,
-      "cashback": 10,
-      "charity": 3
-    },
-    "feesClaimedEth": "1.0185514258885116",
-    "buybackBurnEth": "0.6542788061180199",
-    "paidHoldersEth": "0.1761054144617859",
-    "donatedEth": "0.058690227600568204",
-    "forkInTreasury": "8614537.131021",
-    "forkSupplyPct": 0.8614,
-    "forkBurned": "122655489.63089749",
-    "forkBurnedPct": 12.2655,
-    "volume24hUsd": 19,
-    "charityByOrg": {
-      "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
-        "ethWei": "917345638163597",
-        "tok": "2237467688534107151579692"
-      },
-      "0x92ee2370b56dc32794a6cd72585dc01d4288d314": {
-        "ethWei": "55938190686077414",
-        "tok": "66831410043457980109642867"
-      },
-      "0xc423f8aedf1753bc0ab58e455b0b5421cafe949e": {
-        "ethWei": "917345638163597",
-        "tok": "2237467688534107151579692"
-      },
-      "0x1ca9eb2a5c213d417269134b80111f57e1644105": {
-        "ethWei": "917345638163599",
-        "tok": "2237467688534107151579698"
-      }
-    }
-  },
+  "analytics": null,
   "tokens": {
     "0x692a1d924cc4ed50886f0fa9fae046e51c9fa37d": {
       "distributedWei": "1029105000000000"
@@ -59,16 +23,7 @@
       "distributedWei": "45906613230624368"
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
-      "distributedWei": "311850000000000",
-      "name": "PonSuperCycle",
-      "symbol": "PSC",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreiggmw3si4ye24v4ddpdd4pp4iqy53bfcxy5w6bjtol4lib7ytb3ty",
-      "mode": "cashback",
-      "burnedPct": 0,
-      "mcapUsd": 3270
+      "distributedWei": "311850000000000"
     },
     "0xf35df5713801c32996587918baaf7932b1d116bf": {
       "distributedWei": "9595480946002458"
@@ -104,104 +59,7 @@
           "ethWei": "55020845047913817",
           "tok": "64593942354923872958063175"
         }
-      },
-      "name": "St Jude Childrens Fund",
-      "symbol": "STJUDE",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0xC862AF7382693eccA15095a8aC9eb246A91ab806",
-      "logo": "https://ipfs.io/ipfs/bafkreidelk4hxtetnsrmrhs55ntm5yjw3zwhajkocebcmgumq25t633ldu",
-      "mode": "charity",
-      "burnedPct": 0,
-      "mcapUsd": 3810
-    },
-    "0x3553fdd403dd3afe49bf41de1791aa5e71c0e007": {
-      "name": "kiwi cat",
-      "symbol": "kiwicat",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreiatzn4iwpdbmam6r4syshdwrcmclo5mx3kkaj7anhkstfnc226wy4",
-      "mode": "agentic",
-      "burnedPct": 0.01,
-      "mcapUsd": 0
-    },
-    "0xd9262dba32426468005a2693e13f6a421cd39302": {
-      "name": "Hold On Dividends Loading",
-      "symbol": "HODL",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreidqgispslki4moxgevckxzmw2cxn52veodh6uercj6vpxupkpymfa",
-      "mode": "cashback",
-      "burnedPct": 0,
-      "mcapUsd": 0
-    },
-    "0x0633cc5a48891de0e5d21c4f98f01c43739ffc25": {
-      "name": "one ecosystem to rule them all",
-      "symbol": "1ECOSYSTEM",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreigpudtshq674kd7pvbwydpaebwkz6exi3p7wqj3upb4hfym5js3hi",
-      "mode": "cashback",
-      "burnedPct": 0,
-      "mcapUsd": 3270
-    },
-    "0x6a469a755194b2b59f889ac8056a41f7684299b2": {
-      "name": "Ponzi Coin",
-      "symbol": "PONZICOIN",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafybeici5yvk75sm4vmzo2yf65ug5khm4lia3i6vvuxx5f2p3eceh3e7cy",
-      "mode": "cashback",
-      "burnedPct": 0,
-      "mcapUsd": 0
-    },
-    "0x4dc232b45c2bcb437e419932b7f16d45b00d51bc": {
-      "name": "Millions Coded",
-      "symbol": "ADHD",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreihqsezug2dcu7xe4gbm55lhu5aimojxpye5kf3swdlwysic7sgfcq",
-      "mode": "charity",
-      "burnedPct": 0,
-      "mcapUsd": 3270
-    },
-    "0x3c13e02e1be76226d85960f2a42dc3b51bed72af": {
-      "name": "Tesla Bank",
-      "symbol": "TSLABANK",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafybeibdy5rh2pvzsw3hm6bgnljmypjkmpyecjfg4axlbmzfojqzi2kamq",
-      "mode": "rwa",
-      "burnedPct": 0,
-      "mcapUsd": 3270
-    },
-    "0x56301b39565a7cb990d9264c137ccdb08bd27491": {
-      "name": "Straight Perpetual Yields",
-      "symbol": "SPY",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafybeiaihkjai6mshrnfwrlnwq5fzvtqrui4lreflmtkit4xrzbvnj6aeu",
-      "mode": "rwa",
-      "burnedPct": 0,
-      "mcapUsd": 3270
-    },
-    "0xdb215ba6627a10f2a7de321c789d0233588978ed": {
-      "name": "GME BANK",
-      "symbol": "GMEBANK",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafybeib7opur2mfuebgzafjfdzfnkszwsgd6zwala4osb45enl7ztojk7u",
-      "mode": "rwa",
-      "burnedPct": 0,
-      "mcapUsd": 3270
+      }
     }
   }
 }
