@@ -1,28 +1,28 @@
 {
-  "updated": "2026-08-29T21:31:34.520Z",
+  "updated": "2026-08-29T21:47:19.970Z",
   "totals": {
     "agenticBuybackWei": "659266609876906747",
-    "cashbackDistributedWei": "179459511351752928",
+    "cashbackDistributedWei": "181561773796159216",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2450.2,
-    "updated": "2026-08-29T21:31:34.517Z",
+    "ethUsd": 2450.73,
+    "updated": "2026-08-29T21:47:19.966Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
       "cashback": 12,
       "charity": 3
     },
-    "feesClaimedEth": "1.0278202043872382",
+    "feesClaimedEth": "1.0301560515476895",
     "buybackBurnEth": "0.6592666098769068",
-    "paidHoldersEth": "0.17945951135175292",
+    "paidHoldersEth": "0.1815617737961592",
     "donatedEth": "0.058690227600568204",
-    "forkInTreasury": "8818188.346679555",
-    "forkSupplyPct": 0.8818,
+    "forkInTreasury": "8851653.443817263",
+    "forkSupplyPct": 0.8851,
     "forkBurned": "123901171.92854477",
     "forkBurnedPct": 12.3901,
-    "volume24hUsd": 6070,
+    "volume24hUsd": 6077,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -92,7 +92,7 @@
       "mcapUsd": 3700
     },
     "0x6752d759b0b635a9ed1d3c7ff46d2ff882aabcdb": {
-      "distributedWei": "49260710120591390",
+      "distributedWei": "51362972564997678",
       "name": "Me Gusta",
       "symbol": "MEGUSTA",
       "decimals": 18,
@@ -218,7 +218,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreicvmipvjqen5mog4hqixkcua4if3xy7ksxx6s7v7n6tvlgnt665te",
       "mode": "agentic",
       "burnedPct": 3.09,
-      "mcapUsd": 5640
+      "mcapUsd": 5630
     },
     "0x3498691a93546cf279e1ee15b9d5bd87285b8b07": {
       "name": "PonFi",
