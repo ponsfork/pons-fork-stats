@@ -1,28 +1,28 @@
 {
-  "updated": "2026-08-29T13:31:51.294Z",
+  "updated": "2026-08-29T13:47:07.000Z",
   "totals": {
-    "agenticBuybackWei": "654784706055892231",
+    "agenticBuybackWei": "655188529845743756",
     "cashbackDistributedWei": "176490132986964324",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2434.36,
-    "updated": "2026-08-29T13:31:51.293Z",
+    "ethUsd": 2434.53,
+    "updated": "2026-08-29T13:47:06.999Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
       "cashback": 12,
       "charity": 3
     },
-    "feesClaimedEth": "1.019989695058403",
-    "buybackBurnEth": "0.6547847060558922",
+    "feesClaimedEth": "1.0206865043526125",
+    "buybackBurnEth": "0.6551885298457437",
     "paidHoldersEth": "0.17649013298696434",
     "donatedEth": "0.058690227600568204",
-    "forkInTreasury": "8634427.040795434",
-    "forkSupplyPct": 0.8634,
-    "forkBurned": "122655489.63089749",
-    "forkBurnedPct": 12.2655,
-    "volume24hUsd": 1352,
+    "forkInTreasury": "8681136.297691707",
+    "forkSupplyPct": 0.8681,
+    "forkBurned": "123031041.28499986",
+    "forkBurnedPct": 12.3031,
+    "volume24hUsd": 1354,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -77,7 +77,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreibsn5ovwjdr2bhq5ctj3jjsei4lgyxizordtgsacmicjclpsj4iza",
       "mode": "cashback",
       "burnedPct": 2.99,
-      "mcapUsd": 3480
+      "mcapUsd": 3490
     },
     "0x3ed8519810a42e1da63774db9ce122a4c803c3ef": {
       "distributedWei": "68065838050815887",
@@ -195,7 +195,7 @@
       "deployer": "0xC7d8b76d3117894E4ce054148b686c0D1e4f3996",
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "agentic",
-      "burnedPct": 12.27,
+      "burnedPct": 12.3,
       "mcapUsd": 5210
     },
     "0x431e1aaff131e12e72b011b59aeb0ce825f3ee48": {
@@ -218,7 +218,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreicvmipvjqen5mog4hqixkcua4if3xy7ksxx6s7v7n6tvlgnt665te",
       "mode": "agentic",
       "burnedPct": 2.99,
-      "mcapUsd": 4920
+      "mcapUsd": 4930
     },
     "0x3498691a93546cf279e1ee15b9d5bd87285b8b07": {
       "name": "PonFi",
