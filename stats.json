@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T01:50:17.702Z",
+  "updated": "2026-08-29T02:00:18.644Z",
   "totals": {
     "agenticBuybackWei": "654278806118019881",
     "cashbackDistributedWei": "176105414461785906",
@@ -8,64 +8,19 @@
   "analytics": null,
   "tokens": {
     "0x692a1d924cc4ed50886f0fa9fae046e51c9fa37d": {
-      "distributedWei": "1029105000000000",
-      "name": "cashback test",
-      "symbol": "TEST",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0xC7d8b76d3117894E4ce054148b686c0D1e4f3996",
-      "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
-      "mode": "cashback",
-      "burnedPct": 0.16,
-      "mcapUsd": 0
+      "distributedWei": "1029105000000000"
     },
     "0x356eb743defedb4a9f944757e88b72e19cc533b8": {
-      "distributedWei": "1353177000000000",
-      "name": "agentic mode test",
-      "symbol": "TEST2",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0xC7d8b76d3117894E4ce054148b686c0D1e4f3996",
-      "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
-      "mode": "cashback",
-      "burnedPct": 0.97,
-      "mcapUsd": 3320
+      "distributedWei": "1353177000000000"
     },
     "0x81015fefe1c7b5da82cf077287de5ef72095501b": {
-      "distributedWei": "49442400234343193",
-      "name": "cashback cat",
-      "symbol": "CBCAT",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x420dc8840d4b05F4Ad21e92d50D63752B64102f2",
-      "logo": "https://ipfs.io/ipfs/bafkreibsn5ovwjdr2bhq5ctj3jjsei4lgyxizordtgsacmicjclpsj4iza",
-      "mode": "cashback",
-      "burnedPct": 2.99,
-      "mcapUsd": 3500
+      "distributedWei": "49442400234343193"
     },
     "0x3ed8519810a42e1da63774db9ce122a4c803c3ef": {
-      "distributedWei": "68065838050815887",
-      "name": "Zeit Gaist",
-      "symbol": "ORACLE",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0xcEB413A17EAA13fDD76a4410aC5a22cdcdFBDaF4",
-      "logo": "https://ivory-adorable-octopus-471.mypinata.cloud/ipfs/bafkreidhkejefpomvim4xdzkh67nrtrzk3u3xfnd2ywnnlgo2xacoopdb4",
-      "mode": "cashback",
-      "burnedPct": 1.07,
-      "mcapUsd": 3690
+      "distributedWei": "68065838050815887"
     },
     "0x6752d759b0b635a9ed1d3c7ff46d2ff882aabcdb": {
-      "distributedWei": "45906613230624368",
-      "name": "Me Gusta",
-      "symbol": "MEGUSTA",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x19Bd090078635b6F3280DB1e84072AeD2b7DeF57",
-      "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
-      "mode": "cashback",
-      "burnedPct": 2.96,
-      "mcapUsd": 5880
+      "distributedWei": "45906613230624368"
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000"
@@ -105,138 +60,6 @@
           "tok": "64593942354923872958063175"
         }
       }
-    },
-    "0xfa55571d569b2a4a05f46c2062d8477bea1f5983": {
-      "name": "roots",
-      "symbol": "ROOTS",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x19Bd090078635b6F3280DB1e84072AeD2b7DeF57",
-      "logo": "https://ipfs.io/ipfs/bafkreicvmipvjqen5mog4hqixkcua4if3xy7ksxx6s7v7n6tvlgnt665te",
-      "mode": "agentic",
-      "burnedPct": 2.94,
-      "mcapUsd": 0
-    },
-    "0x3c6e9ed6ba79188176cdfe05e88b1b2736963e46": {
-      "name": "Valueless Coin",
-      "symbol": "VALUELESS",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafybeiansmxvxzc4u5vvwhfgxckxvvw4aegkex6pqxmpikkovkbneb2gtm",
-      "mode": "agentic",
-      "burnedPct": 0,
-      "mcapUsd": 3280
-    },
-    "0x4d698f1818bb860db905087e35af4e74d51c0cdd": {
-      "name": "Punch Birthday",
-      "symbol": "26JULY",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreieuplhzg7lphjxtek6fl5n5amrhoq6hfvf2ogot7i4r4axmviwlu4",
-      "mode": "agentic",
-      "burnedPct": 0,
-      "mcapUsd": 3280
-    },
-    "0x4b3b8b7554126ddc4dd390f7d629e5131665b245": {
-      "name": "1 Cat can change your life",
-      "symbol": "1CAT",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreihf27e5hpmdc2ac6opm6yzwkpdwiug3knsx2f353bu6dc57mvfvjq",
-      "mode": "agentic",
-      "burnedPct": 0,
-      "mcapUsd": 0
-    },
-    "0xf63ac6d5e9281329ea5c57b1b54e3714f0959b1f": {
-      "name": "Ginnan Coin",
-      "symbol": "GINNAN",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreifvxfak5vsshpcoj4ypfnfuwv4bw7nczqmhnq6ucvuqpifvjzxcdu",
-      "mode": "agentic",
-      "burnedPct": 0,
-      "mcapUsd": 0
-    },
-    "0xae5f1969410555a381c39d772e969aa049e0d627": {
-      "name": "Wake Up",
-      "symbol": "COMA",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreigdg7umjryu2jqwswbvjspf2rmr6hyd3vcyw3b62kyopcqs4o73ye",
-      "mode": "agentic",
-      "burnedPct": 0,
-      "mcapUsd": 3280
-    },
-    "0xc6879f169fd37fb648efd52cd2f22be8c5e63480": {
-      "name": "Cat in Sock",
-      "symbol": "FREDDY",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreichkf3ess54mmugib7rfjsrup7f35ruodq7vtffcznziklwyemc5e",
-      "mode": "agentic",
-      "burnedPct": 0,
-      "mcapUsd": 3280
-    },
-    "0xd9e9eb855295a281df65c567bdaed369f673210d": {
-      "name": "Built Different Final Boss",
-      "symbol": "DARRIN",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreie7kpizmuwonofmflectqueblsp2vvir3whg7slkgb3gko46q5izq",
-      "mode": "agentic",
-      "burnedPct": 0.1,
-      "mcapUsd": 3290
-    },
-    "0xd9262dba32426468005a2693e13f6a421cd39302": {
-      "name": "Hold On Dividends Loading",
-      "symbol": "HODL",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreidqgispslki4moxgevckxzmw2cxn52veodh6uercj6vpxupkpymfa",
-      "mode": "cashback",
-      "burnedPct": 0,
-      "mcapUsd": 3280
-    },
-    "0x0633cc5a48891de0e5d21c4f98f01c43739ffc25": {
-      "name": "one ecosystem to rule them all",
-      "symbol": "1ECOSYSTEM",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreigpudtshq674kd7pvbwydpaebwkz6exi3p7wqj3upb4hfym5js3hi",
-      "mode": "cashback",
-      "burnedPct": 0,
-      "mcapUsd": 3280
-    },
-    "0x58a713f47630d78f1ddc86a23126fdff0fb2b428": {
-      "name": "Tap and Hold",
-      "symbol": "TAPANDHOLD",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreibl7md6doiop6vzypfuztpffyae5hmavqf4f5k7x2viwet4hwvwtm",
-      "mode": "cashback",
-      "burnedPct": 0,
-      "mcapUsd": 0
-    },
-    "0xdb215ba6627a10f2a7de321c789d0233588978ed": {
-      "name": "GME BANK",
-      "symbol": "GMEBANK",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafybeib7opur2mfuebgzafjfdzfnkszwsgd6zwala4osb45enl7ztojk7u",
-      "mode": "rwa",
-      "burnedPct": 0,
-      "mcapUsd": 3280
     }
   }
 }
