@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-29T17:35:39.712Z",
+  "updated": "2026-08-29T17:41:31.540Z",
   "totals": {
     "agenticBuybackWei": "659266609876906747",
     "cashbackDistributedWei": "177117261351752928",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2448.72,
-    "updated": "2026-08-29T17:35:39.711Z",
+    "ethUsd": 2448.39,
+    "updated": "2026-08-29T17:41:31.539Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -77,7 +77,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreibsn5ovwjdr2bhq5ctj3jjsei4lgyxizordtgsacmicjclpsj4iza",
       "mode": "cashback",
       "burnedPct": 2.99,
-      "mcapUsd": 3510
+      "mcapUsd": 3500
     },
     "0x3ed8519810a42e1da63774db9ce122a4c803c3ef": {
       "distributedWei": "68065838050815887",
@@ -116,10 +116,28 @@
       "mcapUsd": 3290
     },
     "0xf35df5713801c32996587918baaf7932b1d116bf": {
-      "distributedWei": "9595480946002458"
+      "distributedWei": "9595480946002458",
+      "name": "TROLL",
+      "symbol": "TROLL",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x19Bd090078635b6F3280DB1e84072AeD2b7DeF57",
+      "logo": "https://ipfs.io/ipfs/bafkreiavmjaicg4ssqyvr2zdgr3ll6gvjrfjp44kdklygvrs2byaveiw7a",
+      "mode": "cashback",
+      "burnedPct": 0.5,
+      "mcapUsd": 4600
     },
     "0xed51a80a636c977987e837746725c798b6d26292": {
-      "distributedWei": "400950000000000"
+      "distributedWei": "400950000000000",
+      "name": "normie chillhouse",
+      "symbol": "NORMIE CHILLHOUSE",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x19Bd090078635b6F3280DB1e84072AeD2b7DeF57",
+      "logo": "https://ipfs.io/ipfs/bafkreiegfwma5veg2c2vwvp26no3ys5alpnrvvgzgak4664bfx5uomrmbe",
+      "mode": "cashback",
+      "burnedPct": 0.08,
+      "mcapUsd": 3420
     },
     "0x3e68c56fadd386f9d5254027f2c1ce2f09f78fc7": {
       "charityDonatedWei": "3669382552654390",
@@ -140,7 +158,16 @@
           "ethWei": "917345638163599",
           "tok": "2237467688534107151579698"
         }
-      }
+      },
+      "name": "Charity test",
+      "symbol": "TEST3",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0xC7d8b76d3117894E4ce054148b686c0D1e4f3996",
+      "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
+      "mode": "charity",
+      "burnedPct": 0,
+      "mcapUsd": 3360
     },
     "0xd72d43e97a3f0673f8b961618f83ef1ec4c78ca2": {
       "charityDonatedWei": "55020845047913817",
@@ -149,7 +176,16 @@
           "ethWei": "55020845047913817",
           "tok": "64593942354923872958063175"
         }
-      }
+      },
+      "name": "St Jude Childrens Fund",
+      "symbol": "STJUDE",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0xC862AF7382693eccA15095a8aC9eb246A91ab806",
+      "logo": "https://ipfs.io/ipfs/bafkreidelk4hxtetnsrmrhs55ntm5yjw3zwhajkocebcmgumq25t633ldu",
+      "mode": "charity",
+      "burnedPct": 0,
+      "mcapUsd": 3840
     },
     "0x73fc2f1cac113a37939c43a772f64f1706df249f": {
       "name": "PonsFork",
@@ -413,7 +449,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreie7kpizmuwonofmflectqueblsp2vvir3whg7slkgb3gko46q5izq",
       "mode": "agentic",
       "burnedPct": 0.1,
-      "mcapUsd": 3300
+      "mcapUsd": 3290
     },
     "0xd9262dba32426468005a2693e13f6a421cd39302": {
       "name": "Hold On Dividends Loading",
@@ -457,7 +493,7 @@
       "logo": "https://ipfs.io/ipfs/bafybeici5yvk75sm4vmzo2yf65ug5khm4lia3i6vvuxx5f2p3eceh3e7cy",
       "mode": "cashback",
       "burnedPct": 0,
-      "mcapUsd": 0
+      "mcapUsd": 3290
     },
     "0x4dc232b45c2bcb437e419932b7f16d45b00d51bc": {
       "name": "Millions Coded",
