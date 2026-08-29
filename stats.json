@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-29T11:40:44.973Z",
+  "updated": "2026-08-29T11:50:39.374Z",
   "totals": {
     "agenticBuybackWei": "654278806118019881",
     "cashbackDistributedWei": "176490132986964324",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2436.47,
-    "updated": "2026-08-29T11:40:44.972Z",
+    "ethUsd": 2436.59,
+    "updated": "2026-08-29T11:50:39.373Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -56,7 +56,16 @@
       "mcapUsd": 3280
     },
     "0x356eb743defedb4a9f944757e88b72e19cc533b8": {
-      "distributedWei": "1353177000000000"
+      "distributedWei": "1353177000000000",
+      "name": "agentic mode test",
+      "symbol": "TEST2",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0xC7d8b76d3117894E4ce054148b686c0D1e4f3996",
+      "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
+      "mode": "cashback",
+      "burnedPct": 0.97,
+      "mcapUsd": 3310
     },
     "0x81015fefe1c7b5da82cf077287de5ef72095501b": {
       "distributedWei": "49442400234343193",
@@ -429,7 +438,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreichkf3ess54mmugib7rfjsrup7f35ruodq7vtffcznziklwyemc5e",
       "mode": "agentic",
       "burnedPct": 0,
-      "mcapUsd": 0
+      "mcapUsd": 3270
     },
     "0xd9e9eb855295a281df65c567bdaed369f673210d": {
       "name": "Built Different Final Boss",
@@ -440,7 +449,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreie7kpizmuwonofmflectqueblsp2vvir3whg7slkgb3gko46q5izq",
       "mode": "agentic",
       "burnedPct": 0.1,
-      "mcapUsd": 0
+      "mcapUsd": 3280
     },
     "0xd9262dba32426468005a2693e13f6a421cd39302": {
       "name": "Hold On Dividends Loading",
