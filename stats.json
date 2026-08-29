@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T12:52:48.202Z",
+  "updated": "2026-08-29T12:53:51.858Z",
   "totals": {
     "agenticBuybackWei": "654278806118019881",
     "cashbackDistributedWei": "176490132986964324",
@@ -11,7 +11,6 @@
       "distributedWei": "1029105000000000"
     },
     "0x356eb743defedb4a9f944757e88b72e19cc533b8": {
-      "distributedWei": "1353177000000000",
       "name": "agentic mode test",
       "symbol": "TEST2",
       "decimals": 18,
@@ -20,7 +19,8 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "cashback",
       "burnedPct": 0.97,
-      "mcapUsd": 3310
+      "mcapUsd": 3310,
+      "distributedWei": "1353177000000000"
     },
     "0x81015fefe1c7b5da82cf077287de5ef72095501b": {
       "distributedWei": "49442400234343193"
@@ -29,7 +29,6 @@
       "distributedWei": "68065838050815887"
     },
     "0x6752d759b0b635a9ed1d3c7ff46d2ff882aabcdb": {
-      "distributedWei": "46291331755802786",
       "name": "Me Gusta",
       "symbol": "MEGUSTA",
       "decimals": 18,
@@ -38,10 +37,10 @@
       "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
       "mode": "cashback",
       "burnedPct": 3.03,
-      "mcapUsd": 5900
+      "mcapUsd": 5900,
+      "distributedWei": "46291331755802786"
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
-      "distributedWei": "311850000000000",
       "name": "PonSuperCycle",
       "symbol": "PSC",
       "decimals": 18,
@@ -50,13 +49,13 @@
       "logo": "https://ipfs.io/ipfs/bafkreiggmw3si4ye24v4ddpdd4pp4iqy53bfcxy5w6bjtol4lib7ytb3ty",
       "mode": "cashback",
       "burnedPct": 0,
-      "mcapUsd": 3270
+      "mcapUsd": 3270,
+      "distributedWei": "311850000000000"
     },
     "0xf35df5713801c32996587918baaf7932b1d116bf": {
       "distributedWei": "9595480946002458"
     },
     "0xed51a80a636c977987e837746725c798b6d26292": {
-      "distributedWei": "400950000000000",
       "name": "normie chillhouse",
       "symbol": "NORMIE CHILLHOUSE",
       "decimals": 18,
@@ -65,9 +64,19 @@
       "logo": "https://ipfs.io/ipfs/bafkreiegfwma5veg2c2vwvp26no3ys5alpnrvvgzgak4664bfx5uomrmbe",
       "mode": "cashback",
       "burnedPct": 0.08,
-      "mcapUsd": 3400
+      "mcapUsd": 3400,
+      "distributedWei": "400950000000000"
     },
     "0x3e68c56fadd386f9d5254027f2c1ce2f09f78fc7": {
+      "name": "Charity test",
+      "symbol": "TEST3",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0xC7d8b76d3117894E4ce054148b686c0D1e4f3996",
+      "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
+      "mode": "charity",
+      "burnedPct": 0,
+      "mcapUsd": 0,
       "charityDonatedWei": "3669382552654390",
       "charityOrgs": {
         "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
@@ -86,25 +95,9 @@
           "ethWei": "917345638163599",
           "tok": "2237467688534107151579698"
         }
-      },
-      "name": "Charity test",
-      "symbol": "TEST3",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0xC7d8b76d3117894E4ce054148b686c0D1e4f3996",
-      "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
-      "mode": "charity",
-      "burnedPct": 0,
-      "mcapUsd": 0
+      }
     },
     "0xd72d43e97a3f0673f8b961618f83ef1ec4c78ca2": {
-      "charityDonatedWei": "55020845047913817",
-      "charityOrgs": {
-        "0x92ee2370b56dc32794a6cd72585dc01d4288d314": {
-          "ethWei": "55020845047913817",
-          "tok": "64593942354923872958063175"
-        }
-      },
       "name": "St Jude Childrens Fund",
       "symbol": "STJUDE",
       "decimals": 18,
@@ -113,7 +106,14 @@
       "logo": "https://ipfs.io/ipfs/bafkreidelk4hxtetnsrmrhs55ntm5yjw3zwhajkocebcmgumq25t633ldu",
       "mode": "charity",
       "burnedPct": 0,
-      "mcapUsd": 3820
+      "mcapUsd": 3820,
+      "charityDonatedWei": "55020845047913817",
+      "charityOrgs": {
+        "0x92ee2370b56dc32794a6cd72585dc01d4288d314": {
+          "ethWei": "55020845047913817",
+          "tok": "64593942354923872958063175"
+        }
+      }
     },
     "0x73fc2f1cac113a37939c43a772f64f1706df249f": {
       "name": "PonsFork",
