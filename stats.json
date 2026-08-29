@@ -1,28 +1,28 @@
 {
-  "updated": "2026-08-29T21:47:19.970Z",
+  "updated": "2026-08-29T22:07:41.602Z",
   "totals": {
     "agenticBuybackWei": "659266609876906747",
     "cashbackDistributedWei": "181561773796159216",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2450.73,
-    "updated": "2026-08-29T21:47:19.966Z",
+    "ethUsd": 2450.69,
+    "updated": "2026-08-29T22:07:41.601Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
       "cashback": 12,
       "charity": 3
     },
-    "feesClaimedEth": "1.0301560515476895",
+    "feesClaimedEth": "1.0307632046573005",
     "buybackBurnEth": "0.6592666098769068",
     "paidHoldersEth": "0.1815617737961592",
     "donatedEth": "0.058690227600568204",
-    "forkInTreasury": "8851653.443817263",
-    "forkSupplyPct": 0.8851,
+    "forkInTreasury": "8860351.388836063",
+    "forkSupplyPct": 0.886,
     "forkBurned": "123901171.92854477",
     "forkBurnedPct": 12.3901,
-    "volume24hUsd": 6077,
+    "volume24hUsd": 6530,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -101,7 +101,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
       "mode": "cashback",
       "burnedPct": 3.12,
-      "mcapUsd": 8570
+      "mcapUsd": 9200
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
@@ -125,7 +125,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiavmjaicg4ssqyvr2zdgr3ll6gvjrfjp44kdklygvrs2byaveiw7a",
       "mode": "cashback",
       "burnedPct": 0.5,
-      "mcapUsd": 4600
+      "mcapUsd": 4610
     },
     "0xed51a80a636c977987e837746725c798b6d26292": {
       "distributedWei": "400950000000000",
@@ -196,7 +196,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "agentic",
       "burnedPct": 12.39,
-      "mcapUsd": 7340
+      "mcapUsd": 7350
     },
     "0x431e1aaff131e12e72b011b59aeb0ce825f3ee48": {
       "name": "PonsNation",
