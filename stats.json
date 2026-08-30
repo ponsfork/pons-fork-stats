@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-29T23:52:07.863Z",
+  "updated": "2026-08-30T00:06:16.025Z",
   "totals": {
     "agenticBuybackWei": "660594358734797988",
-    "cashbackDistributedWei": "182108211594809062",
+    "cashbackDistributedWei": "182376861594809062",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2458.9,
-    "updated": "2026-08-29T23:52:07.862Z",
+    "ethUsd": 2457.11,
+    "updated": "2026-08-30T00:06:16.024Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -22,7 +22,7 @@
     "forkSupplyPct": 0.8911,
     "forkBurned": "124168942.00156502",
     "forkBurnedPct": 12.4168,
-    "volume24hUsd": 7522,
+    "volume24hUsd": 7570,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -92,7 +92,7 @@
       "mcapUsd": 3710
     },
     "0x6752d759b0b635a9ed1d3c7ff46d2ff882aabcdb": {
-      "distributedWei": "51909410363647524",
+      "distributedWei": "52178060363647524",
       "name": "Me Gusta",
       "symbol": "MEGUSTA",
       "decimals": 18,
@@ -100,8 +100,8 @@
       "deployer": "0x19Bd090078635b6F3280DB1e84072AeD2b7DeF57",
       "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
       "mode": "cashback",
-      "burnedPct": 3.12,
-      "mcapUsd": 8390
+      "burnedPct": 3.15,
+      "mcapUsd": 8380
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
@@ -196,7 +196,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "agentic",
       "burnedPct": 12.42,
-      "mcapUsd": 6370
+      "mcapUsd": 6360
     },
     "0x431e1aaff131e12e72b011b59aeb0ce825f3ee48": {
       "name": "PonsNation",
@@ -218,7 +218,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreicvmipvjqen5mog4hqixkcua4if3xy7ksxx6s7v7n6tvlgnt665te",
       "mode": "agentic",
       "burnedPct": 3.14,
-      "mcapUsd": 6680
+      "mcapUsd": 6670
     },
     "0x3498691a93546cf279e1ee15b9d5bd87285b8b07": {
       "name": "PonFi",
