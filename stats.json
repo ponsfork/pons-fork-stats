@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-30T11:35:08.099Z",
+  "updated": "2026-08-30T11:43:00.941Z",
   "totals": {
     "agenticBuybackWei": "666344952971689717",
     "cashbackDistributedWei": "186769752430524153",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2460.62,
-    "updated": "2026-08-30T11:35:08.098Z",
+    "ethUsd": 2457.87,
+    "updated": "2026-08-30T11:43:00.940Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -22,7 +22,7 @@
     "forkSupplyPct": 0.9056,
     "forkBurned": "125029667.01364475",
     "forkBurnedPct": 12.5029,
-    "volume24hUsd": 13860,
+    "volume24hUsd": 13934,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -65,7 +65,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "cashback",
       "burnedPct": 0.97,
-      "mcapUsd": 3350
+      "mcapUsd": 3340
     },
     "0x81015fefe1c7b5da82cf077287de5ef72095501b": {
       "distributedWei": "49442400234343193",
@@ -101,10 +101,19 @@
       "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
       "mode": "cashback",
       "burnedPct": 3.18,
-      "mcapUsd": 9880
+      "mcapUsd": 9870
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
-      "distributedWei": "311850000000000"
+      "distributedWei": "311850000000000",
+      "name": "PonSuperCycle",
+      "symbol": "PSC",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreiggmw3si4ye24v4ddpdd4pp4iqy53bfcxy5w6bjtol4lib7ytb3ty",
+      "mode": "cashback",
+      "burnedPct": 0,
+      "mcapUsd": 3300
     },
     "0xf35df5713801c32996587918baaf7932b1d116bf": {
       "distributedWei": "9595480946002458",
@@ -128,7 +137,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiegfwma5veg2c2vwvp26no3ys5alpnrvvgzgak4664bfx5uomrmbe",
       "mode": "cashback",
       "burnedPct": 0.2,
-      "mcapUsd": 5140
+      "mcapUsd": 5130
     },
     "0x3e68c56fadd386f9d5254027f2c1ce2f09f78fc7": {
       "charityDonatedWei": "3669382552654390",
@@ -176,7 +185,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreidelk4hxtetnsrmrhs55ntm5yjw3zwhajkocebcmgumq25t633ldu",
       "mode": "charity",
       "burnedPct": 0,
-      "mcapUsd": 3860
+      "mcapUsd": 3850
     },
     "0x73fc2f1cac113a37939c43a772f64f1706df249f": {
       "name": "PonsFork",
@@ -187,7 +196,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "agentic",
       "burnedPct": 12.5,
-      "mcapUsd": 13100
+      "mcapUsd": 13000
     },
     "0x431e1aaff131e12e72b011b59aeb0ce825f3ee48": {
       "name": "PonsNation",
@@ -209,7 +218,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreicvmipvjqen5mog4hqixkcua4if3xy7ksxx6s7v7n6tvlgnt665te",
       "mode": "agentic",
       "burnedPct": 3.18,
-      "mcapUsd": 7030
+      "mcapUsd": 7020
     },
     "0x3498691a93546cf279e1ee15b9d5bd87285b8b07": {
       "name": "PonFi",
@@ -242,7 +251,7 @@
       "logo": "https://ipfs.io/ipfs/bafybeifpww6awhyzcjc72gzvfnozac3erh4srmu56g72bxzff4ia3synlm",
       "mode": "agentic",
       "burnedPct": 0.04,
-      "mcapUsd": 3310
+      "mcapUsd": 3300
     },
     "0x3c6e9ed6ba79188176cdfe05e88b1b2736963e46": {
       "name": "Valueless Coin",
@@ -354,6 +363,17 @@
       "burnedPct": 0,
       "mcapUsd": 3300
     },
+    "0xdc3ac07dc7586b9971fc858c90d48334e91f9bd2": {
+      "name": "Diet Coke",
+      "symbol": "DIETCOKE",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafkreidahl6yqzipjwzzp22hwv4lcoj4wuenyagzkgxinrllqo3hluirdu",
+      "mode": "agentic",
+      "burnedPct": 0,
+      "mcapUsd": 3300
+    },
     "0x2882f41c59099f771f1722f13b964345abad85d6": {
       "name": "Rickification",
       "symbol": "RICKIFY",
@@ -451,7 +471,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreigpudtshq674kd7pvbwydpaebwkz6exi3p7wqj3upb4hfym5js3hi",
       "mode": "cashback",
       "burnedPct": 0,
-      "mcapUsd": 3300
+      "mcapUsd": 0
     },
     "0x58a713f47630d78f1ddc86a23126fdff0fb2b428": {
       "name": "Tap and Hold",
