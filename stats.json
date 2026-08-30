@@ -1,28 +1,28 @@
 {
-  "updated": "2026-08-30T22:31:11.418Z",
+  "updated": "2026-08-30T22:44:40.063Z",
   "totals": {
     "agenticBuybackWei": "667173590161386276",
     "cashbackDistributedWei": "266606911760091170",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2466.47,
-    "updated": "2026-08-30T22:31:11.414Z",
+    "ethUsd": 2471.1,
+    "updated": "2026-08-30T22:44:40.062Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
       "cashback": 12,
       "charity": 3
     },
-    "feesClaimedEth": "1.1334361829348134",
+    "feesClaimedEth": "1.1340668421768652",
     "buybackBurnEth": "0.6671735901613862",
-    "paidHoldersEth": "0.26660691176009116",
+    "paidHoldersEth": "0.26717450507793766",
     "donatedEth": "0.058690227600568204",
-    "forkInTreasury": "10312587.797561515",
-    "forkSupplyPct": 1.0312,
+    "forkInTreasury": "10320753.645370664",
+    "forkSupplyPct": 1.032,
     "forkBurned": "126141881.79112191",
     "forkBurnedPct": 12.6141,
-    "volume24hUsd": 70968,
+    "volume24hUsd": 73758,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -65,7 +65,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "cashback",
       "burnedPct": 0.97,
-      "mcapUsd": 3360
+      "mcapUsd": 3350
     },
     "0x81015fefe1c7b5da82cf077287de5ef72095501b": {
       "distributedWei": "49442400234343193",
@@ -101,7 +101,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
       "mode": "cashback",
       "burnedPct": 3.2,
-      "mcapUsd": 19400
+      "mcapUsd": 14600
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
@@ -124,8 +124,8 @@
       "deployer": "0x19Bd090078635b6F3280DB1e84072AeD2b7DeF57",
       "logo": "https://ipfs.io/ipfs/bafkreiavmjaicg4ssqyvr2zdgr3ll6gvjrfjp44kdklygvrs2byaveiw7a",
       "mode": "cashback",
-      "burnedPct": 1.62,
-      "mcapUsd": 6600
+      "burnedPct": 1.68,
+      "mcapUsd": 6520
     },
     "0xed51a80a636c977987e837746725c798b6d26292": {
       "distributedWei": "4502483553854282",
