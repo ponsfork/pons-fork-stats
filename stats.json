@@ -1,28 +1,28 @@
 {
-  "updated": "2026-08-30T07:02:30.112Z",
+  "updated": "2026-08-30T07:31:28.895Z",
   "totals": {
     "agenticBuybackWei": "661228912002246698",
-    "cashbackDistributedWei": "186074569930524153",
+    "cashbackDistributedWei": "186769752430524153",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2459.95,
-    "updated": "2026-08-30T07:02:30.111Z",
+    "ethUsd": 2457.74,
+    "updated": "2026-08-30T07:31:28.894Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
       "cashback": 12,
       "charity": 3
     },
-    "feesClaimedEth": "1.0373506051695838",
+    "feesClaimedEth": "1.0381230301695838",
     "buybackBurnEth": "0.6612289120022466",
-    "paidHoldersEth": "0.18607456993052415",
+    "paidHoldersEth": "0.18676975243052416",
     "donatedEth": "0.058690227600568204",
-    "forkInTreasury": "8991413.348976552",
-    "forkSupplyPct": 0.8991,
+    "forkInTreasury": "9004209.322589686",
+    "forkSupplyPct": 0.9004,
     "forkBurned": "124168942.00156502",
     "forkBurnedPct": 12.4168,
-    "volume24hUsd": 10083,
+    "volume24hUsd": 10408,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -65,7 +65,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "cashback",
       "burnedPct": 0.97,
-      "mcapUsd": 3350
+      "mcapUsd": 3340
     },
     "0x81015fefe1c7b5da82cf077287de5ef72095501b": {
       "distributedWei": "49442400234343193",
@@ -92,7 +92,7 @@
       "mcapUsd": 3710
     },
     "0x6752d759b0b635a9ed1d3c7ff46d2ff882aabcdb": {
-      "distributedWei": "53178910145508334",
+      "distributedWei": "53874092645508334",
       "name": "Me Gusta",
       "symbol": "MEGUSTA",
       "decimals": 18,
@@ -101,7 +101,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
       "mode": "cashback",
       "burnedPct": 3.18,
-      "mcapUsd": 8470
+      "mcapUsd": 9230
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
@@ -185,7 +185,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreidelk4hxtetnsrmrhs55ntm5yjw3zwhajkocebcmgumq25t633ldu",
       "mode": "charity",
       "burnedPct": 0,
-      "mcapUsd": 3860
+      "mcapUsd": 3850
     },
     "0x73fc2f1cac113a37939c43a772f64f1706df249f": {
       "name": "PonsFork",
@@ -218,7 +218,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreicvmipvjqen5mog4hqixkcua4if3xy7ksxx6s7v7n6tvlgnt665te",
       "mode": "agentic",
       "burnedPct": 3.18,
-      "mcapUsd": 6690
+      "mcapUsd": 6960
     },
     "0x3498691a93546cf279e1ee15b9d5bd87285b8b07": {
       "name": "PonFi",
