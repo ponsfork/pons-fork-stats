@@ -1,28 +1,28 @@
 {
-  "updated": "2026-08-30T07:31:28.895Z",
+  "updated": "2026-08-30T11:03:47.916Z",
   "totals": {
-    "agenticBuybackWei": "661228912002246698",
+    "agenticBuybackWei": "666344952971689717",
     "cashbackDistributedWei": "186769752430524153",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2457.74,
-    "updated": "2026-08-30T07:31:28.894Z",
+    "ethUsd": 2459.16,
+    "updated": "2026-08-30T11:03:47.915Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
       "cashback": 12,
       "charity": 3
     },
-    "feesClaimedEth": "1.0381230301695838",
-    "buybackBurnEth": "0.6612289120022466",
+    "feesClaimedEth": "1.0438075201356316",
+    "buybackBurnEth": "0.6663449529716897",
     "paidHoldersEth": "0.18676975243052416",
     "donatedEth": "0.058690227600568204",
-    "forkInTreasury": "9004209.322589686",
-    "forkSupplyPct": 0.9004,
-    "forkBurned": "124168942.00156502",
-    "forkBurnedPct": 12.4168,
-    "volume24hUsd": 10408,
+    "forkInTreasury": "9056502.054504696",
+    "forkSupplyPct": 0.9056,
+    "forkBurned": "125029667.01364475",
+    "forkBurnedPct": 12.5029,
+    "volume24hUsd": 12950,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -65,7 +65,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "cashback",
       "burnedPct": 0.97,
-      "mcapUsd": 3340
+      "mcapUsd": 3350
     },
     "0x81015fefe1c7b5da82cf077287de5ef72095501b": {
       "distributedWei": "49442400234343193",
@@ -185,7 +185,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreidelk4hxtetnsrmrhs55ntm5yjw3zwhajkocebcmgumq25t633ldu",
       "mode": "charity",
       "burnedPct": 0,
-      "mcapUsd": 3850
+      "mcapUsd": 3860
     },
     "0x73fc2f1cac113a37939c43a772f64f1706df249f": {
       "name": "PonsFork",
@@ -195,8 +195,8 @@
       "deployer": "0xC7d8b76d3117894E4ce054148b686c0D1e4f3996",
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "agentic",
-      "burnedPct": 12.42,
-      "mcapUsd": 6370
+      "burnedPct": 12.5,
+      "mcapUsd": 13800
     },
     "0x431e1aaff131e12e72b011b59aeb0ce825f3ee48": {
       "name": "PonsNation",
@@ -218,7 +218,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreicvmipvjqen5mog4hqixkcua4if3xy7ksxx6s7v7n6tvlgnt665te",
       "mode": "agentic",
       "burnedPct": 3.18,
-      "mcapUsd": 6960
+      "mcapUsd": 7030
     },
     "0x3498691a93546cf279e1ee15b9d5bd87285b8b07": {
       "name": "PonFi",
@@ -240,17 +240,6 @@
       "logo": "https://ipfs.io/ipfs/bafkreiddfufyduxicaw24aq6tpaxt7uawtnyw3lijfrm44muq4p3szqgxm",
       "mode": "agentic",
       "burnedPct": 0.01,
-      "mcapUsd": 3300
-    },
-    "0x5f5b184032847cc61fefb5f5400d3c90f0a3fefe": {
-      "name": "Just Burn It",
-      "symbol": "BURNIT",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafybeifpww6awhyzcjc72gzvfnozac3erh4srmu56g72bxzff4ia3synlm",
-      "mode": "agentic",
-      "burnedPct": 0.04,
       "mcapUsd": 3300
     },
     "0x3c6e9ed6ba79188176cdfe05e88b1b2736963e46": {
