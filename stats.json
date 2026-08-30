@@ -1,28 +1,28 @@
 {
-  "updated": "2026-08-30T22:51:32.247Z",
+  "updated": "2026-08-30T23:04:49.705Z",
   "totals": {
     "agenticBuybackWei": "667173590161386276",
     "cashbackDistributedWei": "267174505077937673",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2470.22,
-    "updated": "2026-08-30T22:51:32.246Z",
+    "ethUsd": 2468.25,
+    "updated": "2026-08-30T23:04:49.703Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
       "cashback": 12,
       "charity": 3
     },
-    "feesClaimedEth": "1.1340668421768652",
+    "feesClaimedEth": "1.1469445257224773",
     "buybackBurnEth": "0.6671735901613862",
-    "paidHoldersEth": "0.26717450507793766",
+    "paidHoldersEth": "0.2787644202689888",
     "donatedEth": "0.058690227600568204",
-    "forkInTreasury": "10320753.645370664",
-    "forkSupplyPct": 1.032,
+    "forkInTreasury": "10487446.399692012",
+    "forkSupplyPct": 1.0487,
     "forkBurned": "126141881.79112191",
     "forkBurnedPct": 12.6141,
-    "volume24hUsd": 74067,
+    "volume24hUsd": 74177,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -100,7 +100,7 @@
       "deployer": "0x19Bd090078635b6F3280DB1e84072AeD2b7DeF57",
       "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
       "mode": "cashback",
-      "burnedPct": 3.2,
+      "burnedPct": 3.31,
       "mcapUsd": 14600
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
@@ -125,7 +125,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiavmjaicg4ssqyvr2zdgr3ll6gvjrfjp44kdklygvrs2byaveiw7a",
       "mode": "cashback",
       "burnedPct": 1.68,
-      "mcapUsd": 7450
+      "mcapUsd": 7900
     },
     "0xed51a80a636c977987e837746725c798b6d26292": {
       "distributedWei": "4502483553854282",
@@ -167,7 +167,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "charity",
       "burnedPct": 0,
-      "mcapUsd": 3380
+      "mcapUsd": 3390
     },
     "0xd72d43e97a3f0673f8b961618f83ef1ec4c78ca2": {
       "charityDonatedWei": "55020845047913817",
@@ -196,7 +196,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "agentic",
       "burnedPct": 12.61,
-      "mcapUsd": 8170
+      "mcapUsd": 8180
     },
     "0x431e1aaff131e12e72b011b59aeb0ce825f3ee48": {
       "name": "PonsNation",
