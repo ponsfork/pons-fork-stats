@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-31T18:01:56.054Z",
+  "updated": "2026-08-31T18:12:38.691Z",
   "totals": {
     "agenticBuybackWei": "667173590161386276",
-    "cashbackDistributedWei": "287884335066457478",
+    "cashbackDistributedWei": "289245969909456381",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2474.24,
-    "updated": "2026-08-31T18:01:56.053Z",
+    "ethUsd": 2471.03,
+    "updated": "2026-08-31T18:12:38.688Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -16,13 +16,13 @@
     },
     "feesClaimedEth": "1.1585906919896636",
     "buybackBurnEth": "0.6671735901613862",
-    "paidHoldersEth": "0.2878843350664575",
+    "paidHoldersEth": "0.2892459699094564",
     "donatedEth": "0.058690227600568204",
-    "forkInTreasury": "10619036.099417303",
-    "forkSupplyPct": 1.0619,
+    "forkInTreasury": "10639091.823214924",
+    "forkSupplyPct": 1.0639,
     "forkBurned": "126141881.79112191",
     "forkBurnedPct": 12.6141,
-    "volume24hUsd": 72695,
+    "volume24hUsd": 72651,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -65,7 +65,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "cashback",
       "burnedPct": 0.97,
-      "mcapUsd": 3370
+      "mcapUsd": 3360
     },
     "0x81015fefe1c7b5da82cf077287de5ef72095501b": {
       "distributedWei": "49442400234343193",
@@ -101,7 +101,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
       "mode": "cashback",
       "burnedPct": 3.45,
-      "mcapUsd": 10600
+      "mcapUsd": 10500
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
@@ -116,7 +116,7 @@
       "mcapUsd": 3320
     },
     "0xf35df5713801c32996587918baaf7932b1d116bf": {
-      "distributedWei": "92550603924037013",
+      "distributedWei": "93912238767035916",
       "name": "TROLL",
       "symbol": "TROLL",
       "decimals": 18,
@@ -125,7 +125,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiavmjaicg4ssqyvr2zdgr3ll6gvjrfjp44kdklygvrs2byaveiw7a",
       "mode": "cashback",
       "burnedPct": 1.8,
-      "mcapUsd": 9540
+      "mcapUsd": 9650
     },
     "0xed51a80a636c977987e837746725c798b6d26292": {
       "distributedWei": "4502483553854282",
@@ -137,7 +137,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiegfwma5veg2c2vwvp26no3ys5alpnrvvgzgak4664bfx5uomrmbe",
       "mode": "cashback",
       "burnedPct": 0.24,
-      "mcapUsd": 4030
+      "mcapUsd": 4020
     },
     "0x3e68c56fadd386f9d5254027f2c1ce2f09f78fc7": {
       "charityDonatedWei": "3669382552654390",
@@ -185,7 +185,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreidelk4hxtetnsrmrhs55ntm5yjw3zwhajkocebcmgumq25t633ldu",
       "mode": "charity",
       "burnedPct": 0,
-      "mcapUsd": 3880
+      "mcapUsd": 3870
     },
     "0x73fc2f1cac113a37939c43a772f64f1706df249f": {
       "name": "PonsFork",
@@ -196,7 +196,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "agentic",
       "burnedPct": 12.61,
-      "mcapUsd": 7990
+      "mcapUsd": 7980
     },
     "0x431e1aaff131e12e72b011b59aeb0ce825f3ee48": {
       "name": "PonsNation",
@@ -218,7 +218,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreicvmipvjqen5mog4hqixkcua4if3xy7ksxx6s7v7n6tvlgnt665te",
       "mode": "agentic",
       "burnedPct": 3.18,
-      "mcapUsd": 6900
+      "mcapUsd": 6890
     },
     "0x3498691a93546cf279e1ee15b9d5bd87285b8b07": {
       "name": "PonFi",
@@ -229,7 +229,7 @@
       "logo": "https://ipfs.io/ipfs/bafybeifhqs64cpi4mbfin77iwhzxicdkl6uvtxrgzmx2oe6l524biefmca",
       "mode": "agentic",
       "burnedPct": 0,
-      "mcapUsd": 3330
+      "mcapUsd": 3320
     },
     "0x8627440b39818647f4b01cc5b5e7dc66f97cf6e6": {
       "name": "BUYBACK COIN",
@@ -449,7 +449,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreie7kpizmuwonofmflectqueblsp2vvir3whg7slkgb3gko46q5izq",
       "mode": "agentic",
       "burnedPct": 0.1,
-      "mcapUsd": 3330
+      "mcapUsd": 3320
     },
     "0xd9262dba32426468005a2693e13f6a421cd39302": {
       "name": "Hold On Dividends Loading",
