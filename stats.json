@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-31T14:52:25.084Z",
+  "updated": "2026-08-31T15:02:48.856Z",
   "totals": {
     "agenticBuybackWei": "667173590161386276",
     "cashbackDistributedWei": "287151361288295336",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2463.71,
-    "updated": "2026-08-31T14:52:25.083Z",
+    "ethUsd": 2466.78,
+    "updated": "2026-08-31T15:02:48.853Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -22,7 +22,7 @@
     "forkSupplyPct": 1.0608,
     "forkBurned": "126141881.79112191",
     "forkBurnedPct": 12.6141,
-    "volume24hUsd": 71346,
+    "volume24hUsd": 71435,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -68,7 +68,16 @@
       "mcapUsd": 3360
     },
     "0x81015fefe1c7b5da82cf077287de5ef72095501b": {
-      "distributedWei": "49442400234343193"
+      "distributedWei": "49442400234343193",
+      "name": "cashback cat",
+      "symbol": "CBCAT",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x420dc8840d4b05F4Ad21e92d50D63752B64102f2",
+      "logo": "https://ipfs.io/ipfs/bafkreibsn5ovwjdr2bhq5ctj3jjsei4lgyxizordtgsacmicjclpsj4iza",
+      "mode": "cashback",
+      "burnedPct": 2.99,
+      "mcapUsd": 3530
     },
     "0x3ed8519810a42e1da63774db9ce122a4c803c3ef": {
       "distributedWei": "68065838050815887",
@@ -416,17 +425,6 @@
       "totalSupply": "1000000000000000000000000000",
       "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
       "logo": "https://ipfs.io/ipfs/bafkreigdg7umjryu2jqwswbvjspf2rmr6hyd3vcyw3b62kyopcqs4o73ye",
-      "mode": "agentic",
-      "burnedPct": 0,
-      "mcapUsd": 3310
-    },
-    "0xc6879f169fd37fb648efd52cd2f22be8c5e63480": {
-      "name": "Cat in Sock",
-      "symbol": "FREDDY",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreichkf3ess54mmugib7rfjsrup7f35ruodq7vtffcznziklwyemc5e",
       "mode": "agentic",
       "burnedPct": 0,
       "mcapUsd": 3310
