@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-01T12:53:43.882Z",
+  "updated": "2026-09-01T13:03:55.139Z",
   "totals": {
     "agenticBuybackWei": "667173590161386276",
     "cashbackDistributedWei": "294201324258332150",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2447.14,
-    "updated": "2026-09-01T12:53:43.882Z",
+    "ethUsd": 2445.72,
+    "updated": "2026-09-01T13:03:55.138Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -22,7 +22,7 @@
     "forkSupplyPct": 1.0712,
     "forkBurned": "126141881.79112191",
     "forkBurnedPct": 12.6141,
-    "volume24hUsd": 9622,
+    "volume24hUsd": 9616,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -185,7 +185,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreidelk4hxtetnsrmrhs55ntm5yjw3zwhajkocebcmgumq25t633ldu",
       "mode": "charity",
       "burnedPct": 0,
-      "mcapUsd": 3840
+      "mcapUsd": 3830
     },
     "0x73fc2f1cac113a37939c43a772f64f1706df249f": {
       "name": "PonsFork",
@@ -218,7 +218,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreicvmipvjqen5mog4hqixkcua4if3xy7ksxx6s7v7n6tvlgnt665te",
       "mode": "agentic",
       "burnedPct": 3.18,
-      "mcapUsd": 6830
+      "mcapUsd": 6820
     },
     "0x3498691a93546cf279e1ee15b9d5bd87285b8b07": {
       "name": "PonFi",
@@ -253,6 +253,17 @@
       "burnedPct": 0.04,
       "mcapUsd": 3290
     },
+    "0x3c6e9ed6ba79188176cdfe05e88b1b2736963e46": {
+      "name": "Valueless Coin",
+      "symbol": "VALUELESS",
+      "decimals": 18,
+      "totalSupply": "1000000000000000000000000000",
+      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
+      "logo": "https://ipfs.io/ipfs/bafybeiansmxvxzc4u5vvwhfgxckxvvw4aegkex6pqxmpikkovkbneb2gtm",
+      "mode": "agentic",
+      "burnedPct": 0,
+      "mcapUsd": 3290
+    },
     "0x59729a8ee69be09693f6830f0f05508f88f1cfed": {
       "name": "ameritard",
       "symbol": "AMERITARD",
@@ -262,7 +273,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreifrrjsfagg5ambqrb5sopscbviuskklq64hcnivzx46yjwsftlomy",
       "mode": "agentic",
       "burnedPct": 0,
-      "mcapUsd": 3300
+      "mcapUsd": 3290
     },
     "0xe628732716ce86627ddad2ce2e4b1d012367d51f": {
       "name": "Boring Coin",
