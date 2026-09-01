@@ -1,28 +1,28 @@
 {
-  "updated": "2026-09-01T22:14:29.771Z",
+  "updated": "2026-09-01T22:23:48.219Z",
   "totals": {
     "agenticBuybackWei": "667609949618973497",
-    "cashbackDistributedWei": "300959628694186520",
+    "cashbackDistributedWei": "302190800950598428",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2415.49,
-    "updated": "2026-09-01T22:14:29.771Z",
+    "ethUsd": 0,
+    "updated": "2026-09-01T22:23:48.218Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
       "cashback": 12,
       "charity": 3
     },
-    "feesClaimedEth": "1.172090712258905",
+    "feesClaimedEth": "1.1734586814326962",
     "buybackBurnEth": "0.6676099496189735",
-    "paidHoldersEth": "0.3009596286941865",
+    "paidHoldersEth": "0.3021908009505984",
     "donatedEth": "0.058690227600568204",
-    "forkInTreasury": "10818339.147995273",
-    "forkSupplyPct": 1.0818,
+    "forkInTreasury": "10836524.207231916",
+    "forkSupplyPct": 1.0836,
     "forkBurned": "126141881.79112191",
     "forkBurnedPct": 12.6141,
-    "volume24hUsd": 6260,
+    "volume24hUsd": 0,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -77,7 +77,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreibsn5ovwjdr2bhq5ctj3jjsei4lgyxizordtgsacmicjclpsj4iza",
       "mode": "cashback",
       "burnedPct": 2.99,
-      "mcapUsd": 3460
+      "mcapUsd": 3450
     },
     "0x3ed8519810a42e1da63774db9ce122a4c803c3ef": {
       "distributedWei": "68065838050815887",
@@ -116,7 +116,7 @@
       "mcapUsd": 3240
     },
     "0xf35df5713801c32996587918baaf7932b1d116bf": {
-      "distributedWei": "98867593115911685",
+      "distributedWei": "100098765372323593",
       "name": "TROLL",
       "symbol": "TROLL",
       "decimals": 18,
@@ -124,8 +124,8 @@
       "deployer": "0x19Bd090078635b6F3280DB1e84072AeD2b7DeF57",
       "logo": "https://ipfs.io/ipfs/bafkreiavmjaicg4ssqyvr2zdgr3ll6gvjrfjp44kdklygvrs2byaveiw7a",
       "mode": "cashback",
-      "burnedPct": 1.88,
-      "mcapUsd": 7390
+      "burnedPct": 1.99,
+      "mcapUsd": 7380
     },
     "0xed51a80a636c977987e837746725c798b6d26292": {
       "distributedWei": "4502483553854282",
@@ -137,7 +137,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiegfwma5veg2c2vwvp26no3ys5alpnrvvgzgak4664bfx5uomrmbe",
       "mode": "cashback",
       "burnedPct": 0.24,
-      "mcapUsd": 3390
+      "mcapUsd": 3380
     },
     "0x3e68c56fadd386f9d5254027f2c1ce2f09f78fc7": {
       "charityDonatedWei": "3669382552654390",
