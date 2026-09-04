@@ -1,28 +1,28 @@
 {
-  "updated": "2026-09-04T06:11:43.920Z",
+  "updated": "2026-09-04T07:42:37.950Z",
   "totals": {
     "agenticBuybackWei": "668562941863936685",
-    "cashbackDistributedWei": "310241261842262482",
+    "cashbackDistributedWei": "310441736842262482",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2508.95,
-    "updated": "2026-09-04T06:11:43.919Z",
+    "ethUsd": 2506.25,
+    "updated": "2026-09-04T07:42:37.949Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
       "cashback": 12,
       "charity": 3
     },
-    "feesClaimedEth": "1.1834625182511709",
+    "feesClaimedEth": "1.183685268251171",
     "buybackBurnEth": "0.6685629418639367",
-    "paidHoldersEth": "0.3102412618422625",
+    "paidHoldersEth": "0.3104417368422625",
     "donatedEth": "0.058690227600568204",
-    "forkInTreasury": "11085888.429997254",
-    "forkSupplyPct": 1.1085,
+    "forkInTreasury": "11090155.205776805",
+    "forkSupplyPct": 1.109,
     "forkBurned": "126867093.31015034",
     "forkBurnedPct": 12.6867,
-    "volume24hUsd": 4271,
+    "volume24hUsd": 4709,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -101,7 +101,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
       "mode": "cashback",
       "burnedPct": 3.73,
-      "mcapUsd": 7800
+      "mcapUsd": 7790
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
@@ -116,7 +116,7 @@
       "mcapUsd": 3370
     },
     "0xf35df5713801c32996587918baaf7932b1d116bf": {
-      "distributedWei": "106279109266318967",
+      "distributedWei": "106479584266318967",
       "name": "TROLL",
       "symbol": "TROLL",
       "decimals": 18,
@@ -124,8 +124,8 @@
       "deployer": "0x19Bd090078635b6F3280DB1e84072AeD2b7DeF57",
       "logo": "https://ipfs.io/ipfs/bafkreiavmjaicg4ssqyvr2zdgr3ll6gvjrfjp44kdklygvrs2byaveiw7a",
       "mode": "cashback",
-      "burnedPct": 2.09,
-      "mcapUsd": 10800
+      "burnedPct": 2.11,
+      "mcapUsd": 9800
     },
     "0xed51a80a636c977987e837746725c798b6d26292": {
       "distributedWei": "4502483553854282",
@@ -137,7 +137,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiegfwma5veg2c2vwvp26no3ys5alpnrvvgzgak4664bfx5uomrmbe",
       "mode": "cashback",
       "burnedPct": 0.24,
-      "mcapUsd": 3520
+      "mcapUsd": 3510
     },
     "0x3e68c56fadd386f9d5254027f2c1ce2f09f78fc7": {
       "charityDonatedWei": "3669382552654390",
@@ -167,7 +167,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "charity",
       "burnedPct": 0,
-      "mcapUsd": 3440
+      "mcapUsd": 3430
     },
     "0xd72d43e97a3f0673f8b961618f83ef1ec4c78ca2": {
       "charityDonatedWei": "55020845047913817",
@@ -218,7 +218,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreicvmipvjqen5mog4hqixkcua4if3xy7ksxx6s7v7n6tvlgnt665te",
       "mode": "agentic",
       "burnedPct": 3.36,
-      "mcapUsd": 5040
+      "mcapUsd": 5020
     },
     "0x3498691a93546cf279e1ee15b9d5bd87285b8b07": {
       "name": "PonFi",
@@ -317,7 +317,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiby3mfdztrv63eyp3ryq2epg3wwo34kegfc7aulljxmpuft7whcq4",
       "mode": "agentic",
       "burnedPct": 0,
-      "mcapUsd": 3370
+      "mcapUsd": 3360
     },
     "0x4b3b8b7554126ddc4dd390f7d629e5131665b245": {
       "name": "1 Cat can change your life",
@@ -394,7 +394,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiatzn4iwpdbmam6r4syshdwrcmclo5mx3kkaj7anhkstfnc226wy4",
       "mode": "agentic",
       "burnedPct": 0.01,
-      "mcapUsd": 3370
+      "mcapUsd": 3360
     },
     "0xdf6cb3648f0b3b24568a93f53334f56894f1bcac": {
       "name": "GigaGrok",
