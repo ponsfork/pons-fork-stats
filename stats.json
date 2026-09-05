@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-05T12:02:09.351Z",
+  "updated": "2026-09-05T12:22:12.665Z",
   "totals": {
     "agenticBuybackWei": "668972567242114811",
     "cashbackDistributedWei": "328538682367933910",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2453.83,
-    "updated": "2026-09-05T12:02:09.350Z",
+    "ethUsd": 2455.16,
+    "updated": "2026-09-05T12:22:12.664Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
@@ -22,7 +22,7 @@
     "forkSupplyPct": 1.15,
     "forkBurned": "127191071.74625361",
     "forkBurnedPct": 12.7191,
-    "volume24hUsd": 9488,
+    "volume24hUsd": 9493,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -101,7 +101,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
       "mode": "cashback",
       "burnedPct": 3.73,
-      "mcapUsd": 8290
+      "mcapUsd": 8300
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
@@ -308,17 +308,6 @@
       "burnedPct": 0,
       "mcapUsd": 3300
     },
-    "0x37b36f98e17ef139a32ce73d1f2fb67051db77a4": {
-      "name": "Strawberina",
-      "symbol": "STRAWB",
-      "decimals": 18,
-      "totalSupply": "1000000000000000000000000000",
-      "deployer": "0x05a85adc0B55659eBeaD3b120B9fD44883147aca",
-      "logo": "https://ipfs.io/ipfs/bafkreiby3mfdztrv63eyp3ryq2epg3wwo34kegfc7aulljxmpuft7whcq4",
-      "mode": "agentic",
-      "burnedPct": 0,
-      "mcapUsd": 3300
-    },
     "0x4b3b8b7554126ddc4dd390f7d629e5131665b245": {
       "name": "1 Cat can change your life",
       "symbol": "1CAT",
@@ -394,7 +383,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiatzn4iwpdbmam6r4syshdwrcmclo5mx3kkaj7anhkstfnc226wy4",
       "mode": "agentic",
       "burnedPct": 0.01,
-      "mcapUsd": 3290
+      "mcapUsd": 3300
     },
     "0xdf6cb3648f0b3b24568a93f53334f56894f1bcac": {
       "name": "GigaGrok",
