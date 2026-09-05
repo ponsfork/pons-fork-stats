@@ -1,28 +1,28 @@
 {
-  "updated": "2026-09-05T18:33:30.177Z",
+  "updated": "2026-09-05T18:52:50.759Z",
   "totals": {
     "agenticBuybackWei": "669294951725197205",
-    "cashbackDistributedWei": "379104768327821915",
+    "cashbackDistributedWei": "379238418327821915",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2477.91,
-    "updated": "2026-09-05T18:33:30.176Z",
+    "ethUsd": 2476.68,
+    "updated": "2026-09-05T18:52:50.758Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
       "cashback": 12,
       "charity": 3
     },
-    "feesClaimedEth": "1.2607908697476375",
+    "feesClaimedEth": "1.2609393697476374",
     "buybackBurnEth": "0.6692949517251972",
-    "paidHoldersEth": "0.3791047683278219",
+    "paidHoldersEth": "0.3792384183278219",
     "donatedEth": "0.058690227600568204",
-    "forkInTreasury": "12601706.20818212",
-    "forkSupplyPct": 1.2601,
+    "forkInTreasury": "12604533.973903283",
+    "forkSupplyPct": 1.2604,
     "forkBurned": "127518984.27639858",
     "forkBurnedPct": 12.7518,
-    "volume24hUsd": 43350,
+    "volume24hUsd": 43399,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -101,7 +101,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
       "mode": "cashback",
       "burnedPct": 4.1,
-      "mcapUsd": 19500
+      "mcapUsd": 19200
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
@@ -128,7 +128,7 @@
       "mcapUsd": 13800
     },
     "0xed51a80a636c977987e837746725c798b6d26292": {
-      "distributedWei": "4502483553854282",
+      "distributedWei": "4636133553854282",
       "name": "normie chillhouse",
       "symbol": "NORMIE CHILLHOUSE",
       "decimals": 18,
@@ -136,7 +136,7 @@
       "deployer": "0x19Bd090078635b6F3280DB1e84072AeD2b7DeF57",
       "logo": "https://ipfs.io/ipfs/bafkreiegfwma5veg2c2vwvp26no3ys5alpnrvvgzgak4664bfx5uomrmbe",
       "mode": "cashback",
-      "burnedPct": 0.24,
+      "burnedPct": 0.36,
       "mcapUsd": 3570
     },
     "0x3e68c56fadd386f9d5254027f2c1ce2f09f78fc7": {
@@ -167,7 +167,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "charity",
       "burnedPct": 0,
-      "mcapUsd": 3400
+      "mcapUsd": 3390
     },
     "0xd72d43e97a3f0673f8b961618f83ef1ec4c78ca2": {
       "charityDonatedWei": "55020845047913817",
@@ -394,7 +394,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiatzn4iwpdbmam6r4syshdwrcmclo5mx3kkaj7anhkstfnc226wy4",
       "mode": "agentic",
       "burnedPct": 0.01,
-      "mcapUsd": 3330
+      "mcapUsd": 3320
     },
     "0xdf6cb3648f0b3b24568a93f53334f56894f1bcac": {
       "name": "GigaGrok",
