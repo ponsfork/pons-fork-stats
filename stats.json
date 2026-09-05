@@ -1,28 +1,28 @@
 {
-  "updated": "2026-09-05T12:52:24.155Z",
+  "updated": "2026-09-05T15:12:19.827Z",
   "totals": {
     "agenticBuybackWei": "668972567242114811",
-    "cashbackDistributedWei": "330209307367933910",
+    "cashbackDistributedWei": "330614307367933910",
     "charityDonatedWei": "58690227600568207"
   },
   "analytics": {
-    "ethUsd": 2458.41,
-    "updated": "2026-09-05T12:52:24.154Z",
+    "ethUsd": 2458.77,
+    "updated": "2026-09-05T15:12:19.827Z",
     "tokens": {
       "total": 39,
       "agentic": 24,
       "cashback": 12,
       "charity": 3
     },
-    "feesClaimedEth": "1.2061043748110036",
+    "feesClaimedEth": "1.2065543748110037",
     "buybackBurnEth": "0.6689725672421148",
-    "paidHoldersEth": "0.3302093073679339",
+    "paidHoldersEth": "0.3306143073679339",
     "donatedEth": "0.058690227600568204",
-    "forkInTreasury": "11536079.851085149",
-    "forkSupplyPct": 1.1536,
+    "forkInTreasury": "11544681.74905501",
+    "forkSupplyPct": 1.1544,
     "forkBurned": "127191071.74625361",
     "forkBurnedPct": 12.7191,
-    "volume24hUsd": 10114,
+    "volume24hUsd": 10149,
     "charityByOrg": {
       "0x4647c3b4c5ba4efa6d8197331de00c26ce36e8e6": {
         "ethWei": "917345638163597",
@@ -65,7 +65,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreiet3ws6cdgxeov6qkvk6r2cwfvpakyuy2bs6ybedwwqtmnafu25p4",
       "mode": "cashback",
       "burnedPct": 0.97,
-      "mcapUsd": 3350
+      "mcapUsd": 3340
     },
     "0x81015fefe1c7b5da82cf077287de5ef72095501b": {
       "distributedWei": "49442400234343193",
@@ -92,7 +92,7 @@
       "mcapUsd": 3680
     },
     "0x6752d759b0b635a9ed1d3c7ff46d2ff882aabcdb": {
-      "distributedWei": "80099293736930153",
+      "distributedWei": "80504293736930153",
       "name": "Me Gusta",
       "symbol": "MEGUSTA",
       "decimals": 18,
@@ -101,7 +101,7 @@
       "logo": "https://ipfs.io/ipfs/bafkreidmu6kgcr7sn44dd7xqy6s3xzoju7anxilgg267ajea4wk7mzn62i",
       "mode": "cashback",
       "burnedPct": 3.73,
-      "mcapUsd": 8310
+      "mcapUsd": 8770
     },
     "0x0eabb979aef207246bf35498848021c8a193d746": {
       "distributedWei": "311850000000000",
